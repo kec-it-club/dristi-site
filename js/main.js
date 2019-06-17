@@ -11,7 +11,7 @@
      loop:true,
      dots:false,
      autoplay:true,
-     autoplayTimeout:2000,
+     autoplayTimeout:1500,
      autoplayHoverPause:true
  });
 
