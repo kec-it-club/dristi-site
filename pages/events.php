@@ -1,3 +1,12 @@
+<? defined("CHECK") OR ( header( 'Location: /' ) && exit ); ?>
+    
+<?
+include "include/base.php";
+
+define("PAGE",Pages::EVENTS )
+?>
+
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -53,25 +62,7 @@
 
 <body>
 
-  <nav style="top: 0;" class="navbar navbar-expand-lg navbar-dark ftco_navbar bg-dark ftco-navbar-light"
-    id="ftco-navbar">
-    <div class="container">
-      <a class="navbar-brand" href="index.html">Dristi <span>2.0</span></a>
-      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#ftco-nav"
-        aria-controls="ftco-nav" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="oi oi-menu"></span> Menu
-      </button>
-
-      <div class="collapse navbar-collapse" id="ftco-nav">
-        <ul class="navbar-nav ml-auto">
-          <li class="nav-item"><a href="index.html" class="nav-link">Home</a></li>
-          <li class="nav-item active"><a href="events.html" class="nav-link">Events</a></li>
-          <li class="nav-item"><a href="about.html" class="nav-link">About</a></li>
-          <li class="nav-item"><a href="contact.html" class="nav-link">Contact Us</a></li>
-        </ul>
-      </div>
-    </div>
-  </nav>
+<? include 'include/nav.php'; ?>
   <!-- END nav -->
 
   <section class="hero-wrap hero-wrap-2 js-fullheight" style="background-image: url('./social.jpg');"
@@ -82,7 +73,7 @@
         <div class="col-md-9 ftco-animate pb-5">
           <!-- <h1 class="mb-3 bread">Hackathon</h1> -->
           <p class="breadcrumbs">
-            <span class="mr-2"> <a href="index.html">Home <i class="ion-ios-arrow-forward"></i></a></span>
+            <span class="mr-2"> <a href="/">Home <i class="ion-ios-arrow-forward"></i></a></span>
             <span>Events <i class="ion-ios-arrow-forward"></i></span></p>
         </div>
       </div>
@@ -106,7 +97,7 @@
         <div class="col-md-4 d-flex ftco-animate">
           <div class="blog-entry justify-content-end">
             <!-- here goes the photo -->
-            <a href="events/hackathon.html" class="block-20" style="background-image: url('images/hackathon.jpg');">
+            <a href="events/hackathon" class="block-20" style="background-image: url('images/hackathon.jpg');">
             </a>
             <div class="text p-4 float-right d-block">
               <div class="d-flex align-items-center pt-2 mb-4">
@@ -119,7 +110,7 @@
               <p style="color:#343a40;">A Hackathon is an event where programmers meet to do collaborative
                 computer
                 programming..</p>
-              <a href="events/hackathon.html">
+              <a href="events/hackathon">
                 <input type="submit" style="cursor: pointer;" class="button btn-send disabled" value="More Info">
               </a>
             </div>
@@ -131,7 +122,7 @@
         <div class="col-md-4 d-flex ftco-animate">
           <div class="blog-entry justify-content-end">
             <!-- here goes the photo -->
-            <a href="events/softwareExhibition.html" class="block-20" style="background-image: url('images/softwareExhibition.jpg');">
+            <a href="events/software-exhibition" class="block-20" style="background-image: url('images/softwareExhibition.jpg');">
             </a>
             <div class="text p-4 float-right d-block">
               <div class="d-flex align-items-center pt-2 mb-4">
@@ -144,7 +135,7 @@
               <!-- short info -->
               <p style="color:#343a40;">Software events often act as a medium to connect 
                 the ideas of students into a practical solution...</p>
-                <a href="events/softwareExhibition.html">
+                <a href="events/software-exhibition">
                   <input type="submit" style="cursor: pointer;" class="button btn-send disabled" value="More Info">
                 </a>
             </div>
@@ -156,7 +147,7 @@
         <div class="col-md-4 d-flex ftco-animate">
           <div class="blog-entry justify-content-end">
             <!-- here goes the photo -->
-            <a href="events/codeCamp.html" class="block-20" style="background-image: url('images/codeCamp.jpg');">
+            <a href="events/code-camp" class="block-20" style="background-image: url('images/codeCamp.jpg');">
             </a>
             <div class="text p-4 float-right d-block">
               <div class="d-flex align-items-center pt-2 mb-4">
@@ -168,7 +159,7 @@
               </div>
               <!-- short info -->
               <p style="color:#343a40;">A Code Camp is an event where programmers meet to do collaborative computer programming...</p>
-              <a href="events/codeCamp.html">
+              <a href="events/code-camp">
                 <input type="submit" style="cursor: pointer;" class="button btn-send disabled" value="More Info">
               </a>            
             </div>
@@ -180,7 +171,7 @@
         <div class="col-md-4 d-flex ftco-animate">
           <div class="blog-entry justify-content-end">
             <!-- here goes the photo -->
-            <a href="events/gameFest.html" class="block-20" style="background-image: url('images/gameFest.jpg');">
+            <a href="events/game-fest" class="block-20" style="background-image: url('images/gameFest.jpg');">
             </a>
             <div class="text p-4 float-right d-block">
               <div class="d-flex align-items-center pt-2 mb-4">
@@ -192,7 +183,7 @@
               </div>
               <!-- short info -->
               <p style="color:#343a40;">Gaming has always been a way for people to escape reality. Games are an important...</p>
-                <a href="events/gameFest.html">
+                <a href="events/game-fest">
                   <input type="submit" style="cursor: pointer;" class="button btn-send disabled" value="More Info">
                 </a>               
               </div>
@@ -204,7 +195,7 @@
         <div class="col-md-4 d-flex ftco-animate">
           <div class="blog-entry justify-content-end">
             <!-- here goes the photo -->
-            <a href="events/codeWarz.html" class="block-20" style="background-image: url('images/codeWarz.jpg');">
+            <a href="events/code-warz" class="block-20" style="background-image: url('images/codeWarz.jpg');">
             </a>
             <div class="text p-4 float-right d-block">
               <div class="d-flex align-items-center pt-2 mb-4">
@@ -216,7 +207,7 @@
               </div>
               <!-- short info -->
               <p style="color:#343a40;">Code Warz is a coding game. Various moves of the players are done...</p>
-                <a href="events/codeWarz.html">
+                <a href="events/code-warz">
                   <input type="submit" style="cursor: pointer;" class="button btn-send disabled" value="More Info">
                 </a> 
             </div>
@@ -228,7 +219,7 @@
         <div class="col-md-4 d-flex ftco-animate">
           <div class="blog-entry justify-content-end">
             <!-- here goes the photo -->
-            <a href="events/quickCode.html" class="block-20" style="background-image: url('images/quickCode.jpg');">
+            <a href="events/quick-code" class="block-20" style="background-image: url('images/quickCode.jpg');">
             </a>
             <div class="text p-4 float-right d-block">
               <div class="d-flex align-items-center pt-2 mb-4">
@@ -240,7 +231,7 @@
               </div>
               <!-- short info -->
               <p style="color:#343a40;">Dristi 2.0 has created a platform to programmers in the world of algorithm. In this event you will</p>
-                <a href="events/quickCode.html">
+                <a href="events/quick-code">
                   <input type="submit" style="cursor: pointer;" class="button btn-send disabled" value="More Info">
                 </a> 
             </div>
@@ -250,60 +241,7 @@
       </div>
   </section>
 
-  <footer class="ftco-footer ftco-bg-dark ftco-section">
-    <div class="container">
-      <div class="row mb-5">
-        <div class="col-md">
-          <div class="ftco-footer-widget mb-4">
-            <h2 class="ftco-heading-2">Dristi 2.0</h2>
-            <p>An event intended to encourage new talents along with the competitive spirit in the technical
-              field.</p>
-            <ul class="ftco-footer-social list-unstyled float-md-left float-lft mt-5">
-              <li class="ftco-animate"><a href="https://www.facebook.com/dristi2017"><span
-                    class="icon-facebook"></span></a></li>
-              <li class="ftco-animate"><a href="https://www.instagram.com/dristi2019"><span
-                    class="icon-instagram"></span></a></li>
-            </ul>
-          </div>
-        </div>
-        <div class="col-md">
-          <div class="ftco-footer-widget mb-4 ml-md-5">
-            <h2 class="ftco-heading-2">Useful Links</h2>
-            <ul class="list-unstyled">
-              <li><a href="./index.html" class="py-2 d-block">Home</a></li>
-              <li><a href="#" class="py-2 d-block">Events</a></li>
-              <li><a href="./about.html class=" py-2 d-block">About</a></li>
-              <li><a href="./about.html class=" py-2 d-block">Contact</a></li>
-            </ul>
-          </div>
-        </div>
-        <div class="col-md">
-          <div class="ftco-footer-widget mb-4">
-            <h2 class="ftco-heading-2">Have a Questions?</h2>
-            <div class="block-23 mb-3">
-              <ul>
-                <li><span class="icon icon-map-marker"></span><span class="text">Kathmandu Engineering
-                    College Kalimati,
-                    Kathmandu, Nepal</span></li>
-                <li><a href="#"><span class="icon icon-phone"></span><span class="text">+01-4284902</span></a></li>
-              </ul>
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class="row">
-        <div class="col-md-12 text-center">
-          <p>
-            <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-            Copyright &copy;
-            <script>
-              document.write(new Date().getFullYear());
-            </script> All rights reserved
-          </p>
-        </div>
-      </div>
-    </div>
-  </footer>
+  <? include "include/footer.php" ?>
 
 
 

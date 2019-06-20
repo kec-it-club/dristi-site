@@ -1,8 +1,9 @@
+<? defined("CHECK") OR ( header( 'Location: /' ) && exit ); ?>
 <!DOCTYPE html>
 <html lang="en">
 
 <head>
-  <title>Dristi 2.0 : Code Camp</title>
+  <title>Dristi 2.0 : Hackathon</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
@@ -53,27 +54,7 @@
 
 <body>
 
-  <nav style="top: 0;" class="navbar navbar-expand-lg navbar-dark ftco_navbar bg-dark ftco-navbar-light"
-    id="ftco-navbar">
-    <div class="container">
-      <!-- todo -->
-      <a class="navbar-brand" href="../index.html">Dristi <span>2.0</span></a>
-      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#ftco-nav"
-        aria-controls="ftco-nav" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="oi oi-menu"></span> Menu
-      </button>
-
-      <div class="collapse navbar-collapse" id="ftco-nav">
-        <ul class="navbar-nav ml-auto">
-          <li class="nav-item"><a href="../index.html" class="nav-link">Home</a></li>
-          <li class="nav-item"><a href="../speakers.html" class="nav-link">Events</a></li>
-          <li class="nav-item"><a href="../contact.html" class="nav-link">Contact</a></li>
-          <li class="nav-item"><a href="../about.html" class="nav-link">About</a></li>
-
-        </ul>
-      </div>
-    </div>
-  </nav>
+<? include __DIR__.'/../include/nav.php'; ?>
   <!-- END nav -->
 
   <section class="hero-wrap hero-wrap-2 js-fullheight" style="background-image: url('../social.jpg');"
@@ -83,11 +64,11 @@
       <div class="row no-gutters slider-text js-fullheight align-items-end justify-content-start">
         <div class="col-md-9 ftco-animate pb-5">
           <!-- todo -->
-          <h1 class="mb-3 bread">Code Camp</h1>
+          <h1 class="mb-3 bread">Hackathon</h1>
           <p class="breadcrumbs">
-            <span class="mr-2"> <a href="../index.html">Home <i class="ion-ios-arrow-forward"></i></a></span>
-            <span class="mr-2"> <a href="../index.html">Events <i class="ion-ios-arrow-forward"></i></a></span>
-            <span>Code Camp <i class="ion-ios-arrow-forward"></i></span></p>
+            <span class="mr-2"> <a href="/">Home <i class="ion-ios-arrow-forward"></i></a></span>
+            <span class="mr-2"> <a href="/events">Events <i class="ion-ios-arrow-forward"></i></a></span>
+            <span>Hackathon <i class="ion-ios-arrow-forward"></i></span></p>
         </div>
       </div>
     </div>
@@ -101,21 +82,23 @@
           <h2 class="mb-3">Introduction</h2>
 
           <p>
-            <img src="../images/codeCamp.jpg" alt="" class="img-fluid">
+            <img src="../images/hackathon.jpg" alt="" class="img-fluid">
           </p>
 
-          <p style="color:#373c41;">A Code Camp is an event where programmers meet to do collaborative computer programming. It provides a venue for self-expression and creativity through technology. People with technical backgrounds come together, form teams around a problem or idea, and collaboratively code a unique solution these generally take shape in the form of websites, mobile apps and desktop apps. To sum it up, at a Code Camp, people come together and use technology to transform ideas into reality. 
-
+          <p style="color:#373c41;">A Hackathon is an event where programmers meet to do collaborative computer
+            programming.
+            Hackathons provide a venue for self-expression and creativity through technology.
+            People with technical backgrounds come together, form teams around a problem or idea, and collaboratively
+            code a unique solution from scratch — these generally take shape in the form of websites and mobile apps.
+            To sum it up, at a Hackathon, people come together and use technology to transform ideas into reality.
           </p>
           <h2 class="mb-3 mt-5">Event Details:</h2>
           <ul>
             <li style="color:#373c41;"> <b>Venue</b>: Kathmandu Engineering College</li>
-            <li style="color:#373c41;"> <b>Participation</b>: BCT/BEX Students (as a team of two to four members) 
-            </li>
+            <li style="color:#373c41;"> <b>Participation</b>: as a team of two to four members</li>
             <li style="color:#373c41;"> <b>Type of Event</b>: Competition</li>
-            <li style="color:#373c41;"> <b>Date</b>: 21​st​ and 22​nd​ Ashad</li>
-            <li style="color:#373c41;"> <b>Duration</b>: 2 days with winners announced on the third day of 				exhibition
-
+            <li style="color:#373c41;"> <b>Date</b>: 20​th​, 21​st​ and 22​nd​ Ashad</li>
+            <li style="color:#373c41;"> <b>Duration</b>: 3 days( and nights) with winners announced on the third day
             </li>
             <li style="color:#373c41;"> <b>Prize Distribution</b>: Cash prize and to be distributed on the third day
             </li>
@@ -123,7 +106,7 @@
 
           <h2 class="mb-3 mt-5">Participation Procedure:</h2>
           <ul>
-            <li style="color:#373c41;"> Entry fee (Rs. 500 per person) and form should be filled up by participants 
+            <li style="color:#373c41;"> Entry fee (Rs. 500 per person) and form should be filled up by participants.
             </li>
             <li style="color:#373c41;"> Team member should not exceed 4 members. </li>
             <li style="color:#373c41;"> Participants will be given the time and venues and are to be present
@@ -132,10 +115,10 @@
 
           <h2 class="mb-3 mt-5">Rules and Regulations:</h2>
           <ul>
-            <li style="color:#373c41;"> At least one member should be present at the competition room at all times except during the break for lunch. 
-            </li>
-            <li style="color:#373c41;"> The winner will be decided by expert judges based on their logic behind the programming and concept for the particular theme. 
-            </li>
+            <li style="color:#373c41;"> At least one member should be present at the competition room at all times
+              except during the break for breakfast, lunch, dinner and at night. </li>
+            <li style="color:#373c41;"> The winner will be decided by expert judges based on their logic behind the
+              programming and concept​ for the particular theme. </li>
             <li style="color:#373c41;"> If the participants are caught doing any kind of foul moves, they will be
               eliminated then and there. </li>
           </ul>
@@ -153,17 +136,10 @@
           </ul>
           <h2 class="mb-3 mt-5">Rewards:</h2>
           <ul>
-            <li style="color:#373c41;"> Certification for the participants and winners. 
+            <li style="color:#373c41;"> <b>First place </b>: Rs. 18,000 </li>
+            <li style="color:#373c41;"> <b>Second place</b>: Rs. 13,000
             </li>
-            <li style="color:#373c41;"> Winners for the first, second and third place will get cash prizes and medals. 
-            </li>
-          </ul>
-          <h2 class="mb-3 mt-5">Prizes:</h2>
-          <ul>
-            <li style="color:#373c41;"> <b>First place </b>: Rs. 13,000 </li>
-            <li style="color:#373c41;"> <b>Second place</b>: Rs. 9,000
-            </li>
-            <li style="color:#373c41;"> <b>Third place:</b> Rs. 5,000 </li>
+            <li style="color:#373c41;"> <b>Third place:</b> Rs. 8,000 </li>
           </ul>
           <h2 class="mb-3 mt-5">Contact:</h2>
           <ul>
@@ -176,61 +152,7 @@
   </section>
 
 
-  <footer class="ftco-footer ftco-bg-dark ftco-section">
-    <div class="container">
-      <div class="row mb-5">
-        <div class="col-md">
-          <div class="ftco-footer-widget mb-4">
-            <h2 class="ftco-heading-2">Dristi 2.0</h2>
-            <p>An event intended to encourage new talents along with the competitive spirit in the technical
-              field.</p>
-            <ul class="ftco-footer-social list-unstyled float-md-left float-lft mt-5">
-              <li class="ftco-animate"><a href="https://www.facebook.com/dristi2017"><span
-                    class="icon-facebook"></span></a></li>
-              <li class="ftco-animate"><a href="https://www.instagram.com/dristi2019"><span
-                    class="icon-instagram"></span></a></li>
-            </ul>
-          </div>
-        </div>
-        <div class="col-md">
-          <div class="ftco-footer-widget mb-4 ml-md-5">
-            <h2 class="ftco-heading-2">Useful Links</h2>
-            <ul class="list-unstyled">
-              <li><a href=".././index.html" class="py-2 d-block">Home</a></li>
-              <li><a href="#" class="py-2 d-block">Events</a></li>
-              <li><a href=".././about.html class=" py-2 d-block">About</a></li>
-              <li><a href=".././about.html class=" py-2 d-block">Contact</a></li>
-            </ul>
-          </div>
-        </div>
-        <div class="col-md">
-          <div class="ftco-footer-widget mb-4">
-            <h2 class="ftco-heading-2">Have a Questions?</h2>
-            <div class="block-23 mb-3">
-              <ul>
-                <li><span class="icon icon-map-marker"></span><span class="text">Kathmandu Engineering
-                    College Kalimati,
-                    Kathmandu, Nepal</span></li>
-                <li><a href="#"><span class="icon icon-phone"></span><span class="text">+01-4284902</span></a></li>
-              </ul>
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class="row">
-        <div class="col-md-12 text-center">
-          <p>
-            <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-            Copyright &copy;
-            <script>
-              document.write(new Date().getFullYear());
-            </script> All rights reserved
-          </p>
-        </div>
-      </div>
-    </div>
-  </footer>
-
+  <? include __DIR__.'/../include/footer.php'; ?>
 
 
 

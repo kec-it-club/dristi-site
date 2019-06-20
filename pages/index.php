@@ -1,3 +1,10 @@
+<? defined("CHECK") OR ( header( 'Location: /' ) && exit ); ?>
+    
+<?
+include "include/base.php";
+
+define("PAGE",Pages::HOME )
+?>
 <!DOCTYPE html>
 <html lang="en">
 
@@ -63,25 +70,8 @@
 
 <body>
 
-    <nav class="navbar navbar-expand-lg navbar-dark ftco_navbar bg-dark ftco-navbar-light" id="ftco-navbar">
-        <div class="container">
-            <a class="navbar-brand" href="index.html">Dristi <span>2.0</span></a>
-            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#ftco-nav"
-                aria-controls="ftco-nav" aria-expanded="false" aria-label="Toggle navigation">
-                <span class="oi oi-menu"></span> Menu
-            </button>
+<? include 'include/nav.php'; ?>
 
-            <div class="collapse navbar-collapse" id="ftco-nav">
-                <ul class="navbar-nav ml-auto">
-                    <li class="nav-item active"><a href="index.html" class="nav-link">Home</a></li>
-                    <li class="nav-item"><a href="events.html" class="nav-link">Events</a></li>
-                    <li class="nav-item"><a href="about.html" class="nav-link">About</a></li>
-                    <li class="nav-item"><a href="contact.html" class="nav-link">Contact Us</a></li>
-                </ul>
-            </div>
-        </div>
-    </nav>
-    <!-- END nav -->
 
     <div class="hero-wrap js-fullheight" style="background-image: url('images/bg_1.jpg');"
         data-stellar-background-ratio="0.5">
@@ -125,7 +115,7 @@
                 <div class="col-md-4 d-flex ftco-animate">
                     <div class="blog-entry justify-content-end">
                         <!-- here goes the photo -->
-                        <a href="blog-single.html" class="block-20"
+                        <a href="events/hackathon" class="block-20"
                             style="background-image: url('images/hackathon.jpg');">
                         </a>
                         <div class="text p-4 float-right d-block">
@@ -139,7 +129,7 @@
                             <!-- short info -->
                             <p style="color:#343a40;">A Hackathon is an event where programmers meet to do collaborative computer programming.
                                  Hackathons provide a venue for ...</p>
-                            <a href="events/hackathon.html">
+                            <a href="events/hackathon">
                                 <input type="submit" style="cursor: pointer;" class="button btn-send disabled"
                                     value="More Info">
                             </a>
@@ -152,7 +142,7 @@
                 <div class="col-md-4 d-flex ftco-animate">
                     <div class="blog-entry justify-content-end">
                         <!-- here goes the photo -->
-                        <a href="events/softwareExhibition.html" class="block-20"
+                        <a href="events/software-exhibition" class="block-20"
                             style="background-image: url('images/image_1.jpg');">
                         </a>
                         <div class="text p-4 float-right d-block">
@@ -167,7 +157,7 @@
                             <p style="color:#343a40;">Software events often act as a medium to connect the ideas of students into
                              a practical solution. It allows the students to ...
                              </p>
-                                <a href="events/softwareExhibition.html">
+                                <a href="events/software-exhibition">
                                     <input type="submit" style="cursor: pointer;" class="button btn-send disabled"
                                         value="More Info">
                                 </a>
@@ -180,7 +170,7 @@
                 <div class="col-md-4 d-flex ftco-animate">
                     <div class="blog-entry justify-content-end">
                         <!-- here goes the photo -->
-                        <a href="events/codeCamp.html" class="block-20"
+                        <a href="events/code-camp" class="block-20"
                             style="background-image: url('images/image_1.jpg');">
                         </a>
                         <div class="text p-4 float-right d-block">
@@ -203,89 +193,12 @@
                 </div>
                 <!-- event item end -->
 
-                <!-- event item start -->
-                <div class="col-md-4 d-flex ftco-animate">
-                    <div class="blog-entry justify-content-end">
-                        <!-- here goes the photo -->
-                        <a href="blog-single.html" class="block-20"
-                            style="background-image: url('images/image_1.jpg');">
-                        </a>
-                        <div class="text p-4 float-right d-block">
-                            <div class="d-flex align-items-center pt-2 mb-4">
-                                <div class="one">
-                                    <!-- event name -->
-                                    <span style="font-size: 30px;
-                                        font-weight: 600 !important;" class="day">Hackathon</span>
-                                </div>
-                            </div>
-                            <!-- short info -->
-                            <p style="color:#343a40;">A small river named Duden flows by
-                                their place and supplies it with the necessary
-                                regelialia.</p>
-                            <input type="submit" style="cursor: pointer;" class="button btn-send disabled"
-                                value="More Info">
-                        </div>
-                    </div>
-                </div>
-                <!-- event item end -->
-
-                <!-- event item start -->
-                <div class="col-md-4 d-flex ftco-animate">
-                    <div class="blog-entry justify-content-end">
-                        <!-- here goes the photo -->
-                        <a href="blog-single.html" class="block-20"
-                            style="background-image: url('images/image_1.jpg');">
-                        </a>
-                        <div class="text p-4 float-right d-block">
-                            <div class="d-flex align-items-center pt-2 mb-4">
-                                <div class="one">
-                                    <!-- event name -->
-                                    <span style="font-size: 30px;
-                                        font-weight: 600 !important;" class="day">Hackathon</span>
-                                </div>
-                            </div>
-                            <!-- short info -->
-                            <p style="color:#343a40;">A small river named Duden flows by
-                                their place and supplies it with the necessary
-                                regelialia.</p>
-                            <input type="submit" style="cursor: pointer;" class="button btn-send disabled"
-                                value="More Info">
-                        </div>
-                    </div>
-                </div>
-                <!-- event item end -->
-
-                <!-- event item start -->
-                <div class="col-md-4 d-flex ftco-animate">
-                    <div class="blog-entry justify-content-end">
-                        <!-- here goes the photo -->
-                        <a href="blog-single.html" class="block-20"
-                            style="background-image: url('images/image_1.jpg');">
-                        </a>
-                        <div class="text p-4 float-right d-block">
-                            <div class="d-flex align-items-center pt-2 mb-4">
-                                <div class="one">
-                                    <!-- event name -->
-                                    <span style="font-size: 30px;
-                                        font-weight: 600 !important;" class="day">Hackathon</span>
-                                </div>
-                            </div>
-                            <!-- short info -->
-                            <p style="color:#343a40;">A small river named Duden flows by
-                                their place and supplies it with the necessary
-                                regelialia.</p>
-                            <input type="submit" style="cursor: pointer;" class="button btn-send disabled"
-                                value="More Info">
-                        </div>
-                    </div>
-                </div>
-                <!-- event item end -->
 
 
                 <div style="width:100%;" class="row">
                     <div class="col text-center">
                         <div class="block-27">
-                            <a href="events.html">
+                            <a href="events">
                                 <input type="submit" style="cursor: pointer;" class="button btn-send disabled"
                                     value="All Events">
                             </a>
@@ -907,61 +820,7 @@
         </div>
     </section>
 
-    <footer class="ftco-footer ftco-bg-dark ftco-section">
-        <div class="container">
-            <div class="row mb-5">
-                <div class="col-md">
-                    <div class="ftco-footer-widget mb-4">
-                        <h2 class="ftco-heading-2">Dristi 2.0</h2>
-                        <p>An event intended to encourage new talents along with the competitive spirit in the technical
-                            field.</p>
-                        <ul class="ftco-footer-social list-unstyled float-md-left float-lft mt-5">
-                            <li class="ftco-animate"><a href="https://www.facebook.com/dristi2017"><span
-                                        class="icon-facebook"></span></a></li>
-                            <li class="ftco-animate"><a href="https://www.instagram.com/dristi2019"><span
-                                        class="icon-instagram"></span></a></li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="col-md">
-                    <div class="ftco-footer-widget mb-4 ml-md-5">
-                        <h2 class="ftco-heading-2">Useful Links</h2>
-                        <ul class="list-unstyled">
-                            <li><a href="./index.html" class="py-2 d-block">Home</a></li>
-                            <li><a href="#" class="py-2 d-block">Events</a></li>
-                            <li><a href="./about.html class=" py-2 d-block">About</a></li>
-                            <li><a href="./about.html class=" py-2 d-block">Contact</a></li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="col-md">
-                    <div class="ftco-footer-widget mb-4">
-                        <h2 class="ftco-heading-2">Have a Questions?</h2>
-                        <div class="block-23 mb-3">
-                            <ul>
-                                <li><span class="icon icon-map-marker"></span><span class="text">Kathmandu Engineering
-                                        College Kalimati,
-                                        Kathmandu, Nepal</span></li>
-                                <li><a href="#"><span class="icon icon-phone"></span><span
-                                            class="text">+01-4284902</span></a></li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-md-12 text-center">
-                    <p>
-                        <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-                        Copyright &copy;
-                        <script>
-                            document.write(new Date().getFullYear());
-                        </script> All rights reserved
-                    </p>
-                </div>
-            </div>
-        </div>
-    </footer>
+<? include "include/footer.php" ?>
 
 
 

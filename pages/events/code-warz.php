@@ -1,3 +1,4 @@
+<? defined("CHECK") OR ( header( 'Location: /' ) && exit ); ?>
 <!DOCTYPE html>
 <html lang="en">
 
@@ -52,28 +53,7 @@
 </head>
 
 <body>
-
-  <nav style="top: 0;" class="navbar navbar-expand-lg navbar-dark ftco_navbar bg-dark ftco-navbar-light"
-    id="ftco-navbar">
-    <div class="container">
-      <!-- todo -->
-      <a class="navbar-brand" href="../index.html">Dristi <span>2.0</span></a>
-      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#ftco-nav"
-        aria-controls="ftco-nav" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="oi oi-menu"></span> Menu
-      </button>
-
-      <div class="collapse navbar-collapse" id="ftco-nav">
-        <ul class="navbar-nav ml-auto">
-          <li class="nav-item"><a href="../index.html" class="nav-link">Home</a></li>
-          <li class="nav-item"><a href="../speakers.html" class="nav-link">Events</a></li>
-          <li class="nav-item"><a href="../contact.html" class="nav-link">Contact</a></li>
-          <li class="nav-item"><a href="../about.html" class="nav-link">About</a></li>
-
-        </ul>
-      </div>
-    </div>
-  </nav>
+<? include __DIR__.'/../include/nav.php'; ?>
   <!-- END nav -->
 
   <section class="hero-wrap hero-wrap-2 js-fullheight" style="background-image: url('../social.jpg');"
@@ -85,8 +65,8 @@
           <!-- todo -->
           <h1 class="mb-3 bread">Code Warz</h1>
           <p class="breadcrumbs">
-            <span class="mr-2"> <a href="../index.html">Home <i class="ion-ios-arrow-forward"></i></a></span>
-            <span class="mr-2"> <a href="../index.html">Events <i class="ion-ios-arrow-forward"></i></a></span>
+            <span class="mr-2"> <a href="/">Home <i class="ion-ios-arrow-forward"></i></a></span>
+            <span class="mr-2"> <a href="/events">Events <i class="ion-ios-arrow-forward"></i></a></span>
             <span>Code Warz <i class="ion-ios-arrow-forward"></i></span></p>
         </div>
       </div>
@@ -174,60 +154,7 @@
   </section>
 
 
-  <footer class="ftco-footer ftco-bg-dark ftco-section">
-    <div class="container">
-      <div class="row mb-5">
-        <div class="col-md">
-          <div class="ftco-footer-widget mb-4">
-            <h2 class="ftco-heading-2">Dristi 2.0</h2>
-            <p>An event intended to encourage new talents along with the competitive spirit in the technical
-              field.</p>
-            <ul class="ftco-footer-social list-unstyled float-md-left float-lft mt-5">
-              <li class="ftco-animate"><a href="https://www.facebook.com/dristi2017"><span
-                    class="icon-facebook"></span></a></li>
-              <li class="ftco-animate"><a href="https://www.instagram.com/dristi2019"><span
-                    class="icon-instagram"></span></a></li>
-            </ul>
-          </div>
-        </div>
-        <div class="col-md">
-          <div class="ftco-footer-widget mb-4 ml-md-5">
-            <h2 class="ftco-heading-2">Useful Links</h2>
-            <ul class="list-unstyled">
-              <li><a href=".././index.html" class="py-2 d-block">Home</a></li>
-              <li><a href="#" class="py-2 d-block">Events</a></li>
-              <li><a href=".././about.html class=" py-2 d-block">About</a></li>
-              <li><a href=".././about.html class=" py-2 d-block">Contact</a></li>
-            </ul>
-          </div>
-        </div>
-        <div class="col-md">
-          <div class="ftco-footer-widget mb-4">
-            <h2 class="ftco-heading-2">Have a Questions?</h2>
-            <div class="block-23 mb-3">
-              <ul>
-                <li><span class="icon icon-map-marker"></span><span class="text">Kathmandu Engineering
-                    College Kalimati,
-                    Kathmandu, Nepal</span></li>
-                <li><a href="#"><span class="icon icon-phone"></span><span class="text">+01-4284902</span></a></li>
-              </ul>
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class="row">
-        <div class="col-md-12 text-center">
-          <p>
-            <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-            Copyright &copy;
-            <script>
-              document.write(new Date().getFullYear());
-            </script> All rights reserved
-          </p>
-        </div>
-      </div>
-    </div>
-  </footer>
+  <? include __DIR__.'/../include/footer.php'; ?>
 
 
 
