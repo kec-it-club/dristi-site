@@ -19,12 +19,12 @@ define("PAGE", Pages::HOME)
     <link rel="manifest" href="%PUBLIC_URL%/manifest.json" />
 
     <meta name="description" content="The Vision beyond imagination" />
-    <meta name="image" content="https://dristi.keckist.edu.np/social.jpg" />
+    <meta name="image" content="https://dristi.keckist.edu.np/images/logo/flex.jpg" />
 
     <!-- {/* Item prop */} -->
     <meta itemprop="name" content="Dristi2.0" />
     <meta itemprop="description" content="The Vision beyond imagination" />
-    <meta itemprop="image" content="https://dristi.keckist.edu.np/social.jpg" />
+    <meta itemprop="image" content="https://dristi.keckist.edu.np/images/logo/flex.jpg" />
 
     <!-- {/* Twitter */} -->
     <meta name="twitter:card" content="summary_large_image" />
@@ -32,13 +32,13 @@ define("PAGE", Pages::HOME)
     <meta name="twitter:description" content="The Vision beyond imagination" />
     <meta name="twitter:site" content="@dristi" />
     <meta name="twitter:creator" content="@dristi" />
-    <meta name="twitter:image:src" content="https://dristi.keckist.edu.np/social.jpg" />
+    <meta name="twitter:image:src" content="https://dristi.keckist.edu.np/images/logo/flex.jpg" />
     <!-- {/* Twitter */} -->
 
     <!-- {/* Facebook */} -->
     <meta property="og:title" content="Dristi2.0" />
     <meta property="og:description" content="The Vision beyond imagination" />
-    <meta property="og:image" content="https://dristi.keckist.edu.np/social.jpg" />
+    <meta property="og:image" content="https://dristi.keckist.edu.np/images/logo/flex.jpg" />
     <meta property="og:url" content="https://dristi.keckist.edu.np" />
     <meta property="og:site_name" content="Dristi2.0" />
     <meta property="og:type" content="website" />
