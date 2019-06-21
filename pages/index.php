@@ -1,9 +1,9 @@
-<? defined("CHECK") OR ( header( 'Location: /' ) && exit ); ?>
-    
+<? defined("CHECK") or (header('Location: /') && exit); ?>
+
 <?
 include "include/base.php";
 
-define("PAGE",Pages::HOME )
+define("PAGE", Pages::HOME)
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -70,18 +70,15 @@ define("PAGE",Pages::HOME )
 
 <body>
 
-<? include 'include/nav.php'; ?>
+    <? include 'include/nav.php'; ?>
 
 
-    <div class="hero-wrap js-fullheight" style="background-image: url('images/bg_1.jpg');"
-        data-stellar-background-ratio="0.5">
+    <div class="hero-wrap js-fullheight" style="background-image: url('images/bg_1.jpg');" data-stellar-background-ratio="0.5">
         <div class="overlay"></div>
         <div class="container">
-            <div class="row no-gutters slider-text js-fullheight align-items-center justify-content-start"
-                data-scrollax-parent="true">
+            <div class="row no-gutters slider-text js-fullheight align-items-center justify-content-start" data-scrollax-parent="true">
                 <div class="col-xl-10 ftco-animate" data-scrollax=" properties: { translateY: '70%' }">
-                    <h1 class="mb-4" style="font-weight: 500;"
-                        data-scrollax="properties: { translateY: '30%', opacity: 1.6 }"><span>Dristi 2.0</span> <br> The
+                    <h1 class="mb-4" style="font-weight: 500;" data-scrollax="properties: { translateY: '30%', opacity: 1.6 }"><span>Dristi 2.0</span> <br> The
                         Vision beyond imagination </h1>
                     <p class="mb-4" data-scrollax="properties: { translateY: '30%', opacity: 1.6 }">July 5-7, 2019.
                         <b>Kathmandu Enginnering College </b>, Kalimati</p>
@@ -115,8 +112,7 @@ define("PAGE",Pages::HOME )
                 <div class="col-md-4 d-flex ftco-animate">
                     <div class="blog-entry justify-content-end">
                         <!-- here goes the photo -->
-                        <a href="events/hackathon" class="block-20"
-                            style="background-image: url('images/hackathon.jpg');">
+                        <a href="events/hackathon" class="block-20" style="background-image: url('images/hackathon.jpg');">
                         </a>
                         <div class="text p-4 float-right d-block">
                             <div class="d-flex align-items-center pt-2 mb-4">
@@ -128,10 +124,9 @@ define("PAGE",Pages::HOME )
                             </div>
                             <!-- short info -->
                             <p style="color:#343a40;">A Hackathon is an event where programmers meet to do collaborative computer programming.
-                                 Hackathons provide a venue for ...</p>
+                                Hackathons provide a venue for ...</p>
                             <a href="events/hackathon">
-                                <input type="submit" style="cursor: pointer;" class="button btn-send disabled"
-                                    value="More Info">
+                                <input type="submit" style="cursor: pointer;" class="button btn-send disabled" value="More Info">
                             </a>
                         </div>
                     </div>
@@ -142,8 +137,7 @@ define("PAGE",Pages::HOME )
                 <div class="col-md-4 d-flex ftco-animate">
                     <div class="blog-entry justify-content-end">
                         <!-- here goes the photo -->
-                        <a href="events/software-exhibition" class="block-20"
-                            style="background-image: url('images/image_1.jpg');">
+                        <a href="events/software-exhibition" class="block-20" style="background-image: url('images/image_1.jpg');">
                         </a>
                         <div class="text p-4 float-right d-block">
                             <div class="d-flex align-items-center pt-2 mb-4">
@@ -155,12 +149,11 @@ define("PAGE",Pages::HOME )
                             </div>
                             <!-- short info -->
                             <p style="color:#343a40;">Software events often act as a medium to connect the ideas of students into
-                             a practical solution. It allows the students to ...
-                             </p>
-                                <a href="events/software-exhibition">
-                                    <input type="submit" style="cursor: pointer;" class="button btn-send disabled"
-                                        value="More Info">
-                                </a>
+                                a practical solution. It allows the students to ...
+                            </p>
+                            <a href="events/software-exhibition">
+                                <input type="submit" style="cursor: pointer;" class="button btn-send disabled" value="More Info">
+                            </a>
                         </div>
                     </div>
                 </div>
@@ -170,8 +163,7 @@ define("PAGE",Pages::HOME )
                 <div class="col-md-4 d-flex ftco-animate">
                     <div class="blog-entry justify-content-end">
                         <!-- here goes the photo -->
-                        <a href="events/code-camp" class="block-20"
-                            style="background-image: url('images/image_1.jpg');">
+                        <a href="events/code-camp" class="block-20" style="background-image: url('images/image_1.jpg');">
                         </a>
                         <div class="text p-4 float-right d-block">
                             <div class="d-flex align-items-center pt-2 mb-4">
@@ -183,21 +175,44 @@ define("PAGE",Pages::HOME )
                             </div>
                             <!-- short info -->
                             <p style="color:#343a40;">A Code Camp is an event where programmers meet to do collaborative computer programming.
-                                 It provides a venue for self-expression and creativity through technology. People with technical backgrounds ...</p>
-                                <a href="events/codeCamp.html">
-                                    <input type="submit" style="cursor: pointer;" class="button btn-send disabled"
-                                        value="More Info">
-                                </a>
+                                It provides a venue for self-expression and creativity through technology. People with technical backgrounds ...</p>
+                            <a href="events/codeCamp.html">
+                                <input type="submit" style="cursor: pointer;" class="button btn-send disabled" value="More Info">
+                            </a>
                         </div>
                     </div>
                 </div>
                 <!-- event item end -->
+
+                <!-- event item start -->
+                <div class="col-md-4 d-flex ftco-animate">
+                    <div class="blog-entry justify-content-end">
+                        <!-- here goes the photo -->
+                        <a href="events/software-exhibition" class="block-20" style="background-image: url('images/softwareExhibition.jpg');">
+                        </a>
+                        <div class="text p-4 float-right d-block">
+                            <div class="d-flex align-items-center pt-2 mb-4">
+                                <div class="one">
+                                    <!-- event name -->
+                                    <span style="font-size: 30px;
+                                      font-weight: 600 !important;" class="day">Kurukshetra</span>
+                                </div>
+                            </div>
+                            <!-- short info -->
+                            <p style="color:#343a40;">Kurukshetra is an event with objective of building a manual war robot that should fight against other robots and push it out of the arena or destroy the bot.</p>
+                            <a href="events/kurukshetra">
+                                <input type="submit" style="cursor: pointer;" class="button btn-send disabled" value="More Info">
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <!-- event item end -->
+
                 <div style="width:100%;" class="row">
                     <div class="col text-center">
                         <div class="block-27">
-                            <a href="events.html">
-                                <input type="submit" style="cursor: pointer;" class="button btn-send disabled"
-                                    value="All Events">
+                            <a href="/events">
+                                <input type="submit" style="cursor: pointer;" class="button btn-send disabled" value="All Events">
                             </a>
                         </div>
                     </div>
@@ -210,8 +225,7 @@ define("PAGE",Pages::HOME )
         <div class="container">
             <div class="row d-flex">
                 <div class="col-md-6 d-flex">
-                    <div class="img d-flex align-self-stretch"
-                        style="background-size: contain; background-image:url(images/about.png);"></div>
+                    <div class="img d-flex align-self-stretch" style="background-size: contain; background-image:url(images/about.png);"></div>
                 </div>
                 <div class="col-md-6 pl-md-5 py-5">
                     <div class="row justify-content-start pb-3">
@@ -284,22 +298,17 @@ define("PAGE",Pages::HOME )
             <div class="ftco-search">
                 <div class="row">
                     <div class="col-md-12 nav-link-wrap">
-                        <div class="nav nav-pills d-flex text-center" id="v-pills-tab" role="tablist"
-                            aria-orientation="vertical">
-                            <a class="nav-link ftco-animate active" id="v-pills-1-tab" data-toggle="pill"
-                                href="#v-pills-1" role="tab" aria-controls="v-pills-1" aria-selected="true">First Event
+                        <div class="nav nav-pills d-flex text-center" id="v-pills-tab" role="tablist" aria-orientation="vertical">
+                            <a class="nav-link ftco-animate active" id="v-pills-1-tab" data-toggle="pill" href="#v-pills-1" role="tab" aria-controls="v-pills-1" aria-selected="true">First Event
                                 <span>29 Jun. 2019</span></a>
 
-                            <a class="nav-link ftco-animate" id="v-pills-2-tab" data-toggle="pill" href="#v-pills-2"
-                                role="tab" aria-controls="v-pills-2" aria-selected="false">Day 02 <span>22 Dec.
+                            <a class="nav-link ftco-animate" id="v-pills-2-tab" data-toggle="pill" href="#v-pills-2" role="tab" aria-controls="v-pills-2" aria-selected="false">Day 02 <span>22 Dec.
                                     2019</span></a>
 
-                            <a class="nav-link ftco-animate" id="v-pills-3-tab" data-toggle="pill" href="#v-pills-3"
-                                role="tab" aria-controls="v-pills-3" aria-selected="false">Day 03 <span>23 Dec.
+                            <a class="nav-link ftco-animate" id="v-pills-3-tab" data-toggle="pill" href="#v-pills-3" role="tab" aria-controls="v-pills-3" aria-selected="false">Day 03 <span>23 Dec.
                                     2019</span></a>
 
-                            <a class="nav-link ftco-animate" id="v-pills-4-tab" data-toggle="pill" href="#v-pills-4"
-                                role="tab" aria-controls="v-pills-4" aria-selected="false">Day 04 <span>24 Dec.
+                            <a class="nav-link ftco-animate" id="v-pills-4-tab" data-toggle="pill" href="#v-pills-4" role="tab" aria-controls="v-pills-4" aria-selected="false">Day 04 <span>24 Dec.
                                     2019</span></a>
 
                         </div>
@@ -307,8 +316,7 @@ define("PAGE",Pages::HOME )
                     <div class="col-md-12 tab-wrap">
 
                         <div class="tab-content" id="v-pills-tabContent">
-                            <div class="tab-pane fade show active" id="v-pills-1" role="tabpanel"
-                                aria-labelledby="day-1-tab">
+                            <div class="tab-pane fade show active" id="v-pills-1" role="tabpanel" aria-labelledby="day-1-tab">
                                 <div class="speaker-wrap ftco-animate d-flex">
                                     <div class="img speaker-img" style="background-image: url(images/person_1.jpg);">
                                     </div>
@@ -322,8 +330,7 @@ define("PAGE",Pages::HOME )
                                 </div>
                             </div>
 
-                            <div class="tab-pane fade" id="v-pills-2" role="tabpanel"
-                                aria-labelledby="v-pills-day-2-tab">
+                            <div class="tab-pane fade" id="v-pills-2" role="tabpanel" aria-labelledby="v-pills-day-2-tab">
                                 <div class="speaker-wrap ftco-animate d-flex">
                                     <div class="img speaker-img" style="background-image: url(images/person_1.jpg);">
                                     </div>
@@ -336,8 +343,7 @@ define("PAGE",Pages::HOME )
                                     </div>
                                 </div>
                             </div>
-                            <div class="tab-pane fade" id="v-pills-3" role="tabpanel"
-                                aria-labelledby="v-pills-day-3-tab">
+                            <div class="tab-pane fade" id="v-pills-3" role="tabpanel" aria-labelledby="v-pills-day-3-tab">
                                 <div class="speaker-wrap ftco-animate d-flex">
                                     <div class="img speaker-img" style="background-image: url(images/person_1.jpg);">
                                     </div>
@@ -350,8 +356,7 @@ define("PAGE",Pages::HOME )
                                     </div>
                                 </div>
                             </div>
-                            <div class="tab-pane fade" id="v-pills-4" role="tabpanel"
-                                aria-labelledby="v-pills-day-4-tab">
+                            <div class="tab-pane fade" id="v-pills-4" role="tabpanel" aria-labelledby="v-pills-day-4-tab">
                                 <div class="speaker-wrap ftco-animate d-flex">
                                     <div class="img speaker-img" style="background-image: url(images/person_1.jpg);">
                                     </div>
@@ -361,14 +366,12 @@ define("PAGE",Pages::HOME )
                                         <p>A small river named Duden flows by their place and supplies it with the
                                             necessary regelialia. It is a paradisematic country, in which roasted parts
                                             of sentences fly into your mouth.</p>
-                                        <h3 class="speaker-name">&mdash; <a href="#">Brett Morgan</a> <span
-                                                class="position">Founder of Wordpress</span></h3>
+                                        <h3 class="speaker-name">&mdash; <a href="#">Brett Morgan</a> <span class="position">Founder of Wordpress</span></h3>
                                     </div>
                                 </div>
                                 <div class="speaker-wrap ftco-animate d-flex">
                                     <div class="speaker-wrap ftco-animate d-flex">
-                                        <div class="img speaker-img"
-                                            style="background-image: url(images/person_1.jpg);">
+                                        <div class="img speaker-img" style="background-image: url(images/person_1.jpg);">
                                         </div>
                                         <div class="text pl-md-5">
                                             <span class="time">12:00 PM - 4:00 PM</span>
@@ -382,8 +385,7 @@ define("PAGE",Pages::HOME )
                                 </div>
                                 <div class="speaker-wrap ftco-animate d-flex">
                                     <div class="speaker-wrap ftco-animate d-flex">
-                                        <div class="img speaker-img"
-                                            style="background-image: url(images/person_1.jpg);">
+                                        <div class="img speaker-img" style="background-image: url(images/person_1.jpg);">
                                         </div>
                                         <div class="text pl-md-5">
                                             <span class="time">12:00 PM - 4:00 PM</span>
@@ -415,22 +417,17 @@ define("PAGE",Pages::HOME )
             <div class="ftco-search">
                 <div class="row">
                     <div class="col-md-12 nav-link-wrap">
-                        <div class="nav nav-pills d-flex text-center" id="v-pills-tab" role="tablist"
-                            aria-orientation="vertical">
-                            <a class="nav-link ftco-animate active" id="v-pills-1-tab" data-toggle="pill"
-                                href="#v-pills-1" role="tab" aria-controls="v-pills-1" aria-selected="true">Day 01
+                        <div class="nav nav-pills d-flex text-center" id="v-pills-tab" role="tablist" aria-orientation="vertical">
+                            <a class="nav-link ftco-animate active" id="v-pills-1-tab" data-toggle="pill" href="#v-pills-1" role="tab" aria-controls="v-pills-1" aria-selected="true">Day 01
                                 <span>21 Dec. 2019</span></a>
 
-                            <a class="nav-link ftco-animate" id="v-pills-2-tab" data-toggle="pill" href="#v-pills-2"
-                                role="tab" aria-controls="v-pills-2" aria-selected="false">Day 02 <span>22 Dec.
+                            <a class="nav-link ftco-animate" id="v-pills-2-tab" data-toggle="pill" href="#v-pills-2" role="tab" aria-controls="v-pills-2" aria-selected="false">Day 02 <span>22 Dec.
                                     2019</span></a>
 
-                            <a class="nav-link ftco-animate" id="v-pills-3-tab" data-toggle="pill" href="#v-pills-3"
-                                role="tab" aria-controls="v-pills-3" aria-selected="false">Day 03 <span>23 Dec.
+                            <a class="nav-link ftco-animate" id="v-pills-3-tab" data-toggle="pill" href="#v-pills-3" role="tab" aria-controls="v-pills-3" aria-selected="false">Day 03 <span>23 Dec.
                                     2019</span></a>
 
-                            <a class="nav-link ftco-animate" id="v-pills-4-tab" data-toggle="pill" href="#v-pills-4"
-                                role="tab" aria-controls="v-pills-4" aria-selected="false">Day 04 <span>24 Dec.
+                            <a class="nav-link ftco-animate" id="v-pills-4-tab" data-toggle="pill" href="#v-pills-4" role="tab" aria-controls="v-pills-4" aria-selected="false">Day 04 <span>24 Dec.
                                     2019</span></a>
 
                         </div>
@@ -439,8 +436,7 @@ define("PAGE",Pages::HOME )
 
                         <div class="tab-content" id="v-pills-tabContent">
 
-                            <div class="tab-pane fade show active" id="v-pills-1" role="tabpanel"
-                                aria-labelledby="day-1-tab">
+                            <div class="tab-pane fade show active" id="v-pills-1" role="tabpanel" aria-labelledby="day-1-tab">
                                 <div class="speaker-wrap ftco-animate d-flex">
                                     <div class="img speaker-img" style="background-image: url(images/person_1.jpg);">
                                     </div>
@@ -450,8 +446,7 @@ define("PAGE",Pages::HOME )
                                         <p>A small river named Duden flows by their place and supplies it with the
                                             necessary regelialia. It is a paradisematic country, in which roasted parts
                                             of sentences fly into your mouth.</p>
-                                        <h3 class="speaker-name">&mdash; <a href="#">Brett Morgan</a> <span
-                                                class="position">Founder of Wordpress</span></h3>
+                                        <h3 class="speaker-name">&mdash; <a href="#">Brett Morgan</a> <span class="position">Founder of Wordpress</span></h3>
                                     </div>
                                 </div>
                                 <div class="speaker-wrap ftco-animate d-flex">
@@ -463,8 +458,7 @@ define("PAGE",Pages::HOME )
                                         <p>A small river named Duden flows by their place and supplies it with the
                                             necessary regelialia. It is a paradisematic country, in which roasted parts
                                             of sentences fly into your mouth.</p>
-                                        <h3 class="speaker-name">&mdash; <a href="#">Brett Morgan</a> <span
-                                                class="position">Founder of Wordpress</span></h3>
+                                        <h3 class="speaker-name">&mdash; <a href="#">Brett Morgan</a> <span class="position">Founder of Wordpress</span></h3>
                                     </div>
                                 </div>
                                 <div class="speaker-wrap ftco-animate d-flex">
@@ -476,14 +470,12 @@ define("PAGE",Pages::HOME )
                                         <p>A small river named Duden flows by their place and supplies it with the
                                             necessary regelialia. It is a paradisematic country, in which roasted parts
                                             of sentences fly into your mouth.</p>
-                                        <h3 class="speaker-name">&mdash; <a href="#">Brett Morgan</a> <span
-                                                class="position">Founder of Wordpress</span></h3>
+                                        <h3 class="speaker-name">&mdash; <a href="#">Brett Morgan</a> <span class="position">Founder of Wordpress</span></h3>
                                     </div>
                                 </div>
                             </div>
 
-                            <div class="tab-pane fade" id="v-pills-2" role="tabpanel"
-                                aria-labelledby="v-pills-day-2-tab">
+                            <div class="tab-pane fade" id="v-pills-2" role="tabpanel" aria-labelledby="v-pills-day-2-tab">
                                 <div class="speaker-wrap ftco-animate d-flex">
                                     <div class="img speaker-img" style="background-image: url(images/person_1.jpg);">
                                     </div>
@@ -493,8 +485,7 @@ define("PAGE",Pages::HOME )
                                         <p>A small river named Duden flows by their place and supplies it with the
                                             necessary regelialia. It is a paradisematic country, in which roasted parts
                                             of sentences fly into your mouth.</p>
-                                        <h3 class="speaker-name">&mdash; <a href="#">Brett Morgan</a> <span
-                                                class="position">Founder of Wordpress</span></h3>
+                                        <h3 class="speaker-name">&mdash; <a href="#">Brett Morgan</a> <span class="position">Founder of Wordpress</span></h3>
                                     </div>
                                 </div>
                                 <div class="speaker-wrap ftco-animate d-flex">
@@ -506,8 +497,7 @@ define("PAGE",Pages::HOME )
                                         <p>A small river named Duden flows by their place and supplies it with the
                                             necessary regelialia. It is a paradisematic country, in which roasted parts
                                             of sentences fly into your mouth.</p>
-                                        <h3 class="speaker-name">&mdash; <a href="#">Brett Morgan</a> <span
-                                                class="position">Founder of Wordpress</span></h3>
+                                        <h3 class="speaker-name">&mdash; <a href="#">Brett Morgan</a> <span class="position">Founder of Wordpress</span></h3>
                                     </div>
                                 </div>
                                 <div class="speaker-wrap ftco-animate d-flex">
@@ -519,13 +509,11 @@ define("PAGE",Pages::HOME )
                                         <p>A small river named Duden flows by their place and supplies it with the
                                             necessary regelialia. It is a paradisematic country, in which roasted parts
                                             of sentences fly into your mouth.</p>
-                                        <h3 class="speaker-name">&mdash; <a href="#">Brett Morgan</a> <span
-                                                class="position">Founder of Wordpress</span></h3>
+                                        <h3 class="speaker-name">&mdash; <a href="#">Brett Morgan</a> <span class="position">Founder of Wordpress</span></h3>
                                     </div>
                                 </div>
                             </div>
-                            <div class="tab-pane fade" id="v-pills-3" role="tabpanel"
-                                aria-labelledby="v-pills-day-3-tab">
+                            <div class="tab-pane fade" id="v-pills-3" role="tabpanel" aria-labelledby="v-pills-day-3-tab">
                                 <div class="speaker-wrap ftco-animate d-flex">
                                     <div class="img speaker-img" style="background-image: url(images/person_1.jpg);">
                                     </div>
@@ -535,8 +523,7 @@ define("PAGE",Pages::HOME )
                                         <p>A small river named Duden flows by their place and supplies it with the
                                             necessary regelialia. It is a paradisematic country, in which roasted parts
                                             of sentences fly into your mouth.</p>
-                                        <h3 class="speaker-name">&mdash; <a href="#">Brett Morgan</a> <span
-                                                class="position">Founder of Wordpress</span></h3>
+                                        <h3 class="speaker-name">&mdash; <a href="#">Brett Morgan</a> <span class="position">Founder of Wordpress</span></h3>
                                     </div>
                                 </div>
                                 <div class="speaker-wrap ftco-animate d-flex">
@@ -548,8 +535,7 @@ define("PAGE",Pages::HOME )
                                         <p>A small river named Duden flows by their place and supplies it with the
                                             necessary regelialia. It is a paradisematic country, in which roasted parts
                                             of sentences fly into your mouth.</p>
-                                        <h3 class="speaker-name">&mdash; <a href="#">Brett Morgan</a> <span
-                                                class="position">Founder of Wordpress</span></h3>
+                                        <h3 class="speaker-name">&mdash; <a href="#">Brett Morgan</a> <span class="position">Founder of Wordpress</span></h3>
                                     </div>
                                 </div>
                                 <div class="speaker-wrap ftco-animate d-flex">
@@ -561,13 +547,11 @@ define("PAGE",Pages::HOME )
                                         <p>A small river named Duden flows by their place and supplies it with the
                                             necessary regelialia. It is a paradisematic country, in which roasted parts
                                             of sentences fly into your mouth.</p>
-                                        <h3 class="speaker-name">&mdash; <a href="#">Brett Morgan</a> <span
-                                                class="position">Founder of Wordpress</span></h3>
+                                        <h3 class="speaker-name">&mdash; <a href="#">Brett Morgan</a> <span class="position">Founder of Wordpress</span></h3>
                                     </div>
                                 </div>
                             </div>
-                            <div class="tab-pane fade" id="v-pills-4" role="tabpanel"
-                                aria-labelledby="v-pills-day-4-tab">
+                            <div class="tab-pane fade" id="v-pills-4" role="tabpanel" aria-labelledby="v-pills-day-4-tab">
                                 <div class="speaker-wrap ftco-animate d-flex">
                                     <div class="img speaker-img" style="background-image: url(images/person_1.jpg);">
                                     </div>
@@ -577,8 +561,7 @@ define("PAGE",Pages::HOME )
                                         <p>A small river named Duden flows by their place and supplies it with the
                                             necessary regelialia. It is a paradisematic country, in which roasted parts
                                             of sentences fly into your mouth.</p>
-                                        <h3 class="speaker-name">&mdash; <a href="#">Brett Morgan</a> <span
-                                                class="position">Founder of Wordpress</span></h3>
+                                        <h3 class="speaker-name">&mdash; <a href="#">Brett Morgan</a> <span class="position">Founder of Wordpress</span></h3>
                                     </div>
                                 </div>
                                 <div class="speaker-wrap ftco-animate d-flex">
@@ -590,8 +573,7 @@ define("PAGE",Pages::HOME )
                                         <p>A small river named Duden flows by their place and supplies it with the
                                             necessary regelialia. It is a paradisematic country, in which roasted parts
                                             of sentences fly into your mouth.</p>
-                                        <h3 class="speaker-name">&mdash; <a href="#">Brett Morgan</a> <span
-                                                class="position">Founder of Wordpress</span></h3>
+                                        <h3 class="speaker-name">&mdash; <a href="#">Brett Morgan</a> <span class="position">Founder of Wordpress</span></h3>
                                     </div>
                                 </div>
                                 <div class="speaker-wrap ftco-animate d-flex">
@@ -603,8 +585,7 @@ define("PAGE",Pages::HOME )
                                         <p>A small river named Duden flows by their place and supplies it with the
                                             necessary regelialia. It is a paradisematic country, in which roasted parts
                                             of sentences fly into your mouth.</p>
-                                        <h3 class="speaker-name">&mdash; <a href="#">Brett Morgan</a> <span
-                                                class="position">Founder of Wordpress</span></h3>
+                                        <h3 class="speaker-name">&mdash; <a href="#">Brett Morgan</a> <span class="position">Founder of Wordpress</span></h3>
                                     </div>
                                 </div>
                             </div>
@@ -782,32 +763,28 @@ define("PAGE",Pages::HOME )
         <div class="container-wrap">
             <div class="row no-gutters">
                 <div class="col-md-3 ftco-animate">
-                    <a href="images/image_1.jpg" class="gallery image-popup img d-flex align-items-center"
-                        style="background-image: url(images/image_1.jpg);">
+                    <a href="images/image_1.jpg" class="gallery image-popup img d-flex align-items-center" style="background-image: url(images/image_1.jpg);">
                         <div class="icon mb-4 d-flex align-items-center justify-content-center">
                             <span class="icon-instagram"></span>
                         </div>
                     </a>
                 </div>
                 <div class="col-md-3 ftco-animate">
-                    <a href="images/image_2.jpg" class="gallery image-popup img d-flex align-items-center"
-                        style="background-image: url(images/image_2.jpg);">
+                    <a href="images/image_2.jpg" class="gallery image-popup img d-flex align-items-center" style="background-image: url(images/image_2.jpg);">
                         <div class="icon mb-4 d-flex align-items-center justify-content-center">
                             <span class="icon-instagram"></span>
                         </div>
                     </a>
                 </div>
                 <div class="col-md-3 ftco-animate">
-                    <a href="images/image_3.jpg" class="gallery image-popup img d-flex align-items-center"
-                        style="background-image: url(images/image_3.jpg);">
+                    <a href="images/image_3.jpg" class="gallery image-popup img d-flex align-items-center" style="background-image: url(images/image_3.jpg);">
                         <div class="icon mb-4 d-flex align-items-center justify-content-center">
                             <span class="icon-instagram"></span>
                         </div>
                     </a>
                 </div>
                 <div class="col-md-3 ftco-animate">
-                    <a href="images/image_4.jpg" class="gallery image-popup img d-flex align-items-center"
-                        style="background-image: url(images/image_4.jpg);">
+                    <a href="images/image_4.jpg" class="gallery image-popup img d-flex align-items-center" style="background-image: url(images/image_4.jpg);">
                         <div class="icon mb-4 d-flex align-items-center justify-content-center">
                             <span class="icon-instagram"></span>
                         </div>
@@ -817,15 +794,14 @@ define("PAGE",Pages::HOME )
         </div>
     </section>
 
-<? include "include/footer.php" ?>
+    <? include "include/footer.php" ?>
 
 
 
     <!-- loader -->
     <div id="ftco-loader" class="show fullscreen"><svg class="circular" width="48px" height="48px">
             <circle class="path-bg" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke="#eeeeee" />
-            <circle class="path" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke-miterlimit="10"
-                stroke="#F96D00" /></svg></div>
+            <circle class="path" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke-miterlimit="10" stroke="#F96D00" /></svg></div>
 
     <script src="js/jquery.min.js"></script>
     <script src="js/jquery-migrate-3.0.1.min.js"></script>
@@ -841,8 +817,7 @@ define("PAGE",Pages::HOME )
     <script src="js/bootstrap-datepicker.js"></script>
     <script src="js/jquery.timepicker.min.js"></script>
     <script src="js/scrollax.min.js"></script>
-    <script
-        src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBVWaKrjvy3MaE7SQ74_uJiULgl1JY0H2s&sensor=false"></script>
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBVWaKrjvy3MaE7SQ74_uJiULgl1JY0H2s&sensor=false"></script>
     <script src="js/google-map.js"></script>
     <script src="js/main.js"></script>
 

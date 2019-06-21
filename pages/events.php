@@ -1,9 +1,9 @@
-<? defined("CHECK") OR ( header( 'Location: /' ) && exit ); ?>
-    
+<? defined("CHECK") or (header('Location: /') && exit); ?>
+
 <?
 include "include/base.php";
 
-define("PAGE",Pages::EVENTS )
+define("PAGE", Pages::EVENTS)
 ?>
 
 
@@ -62,11 +62,10 @@ define("PAGE",Pages::EVENTS )
 
 <body>
 
-<? include 'include/nav.php'; ?>
+  <? include 'include/nav.php'; ?>
   <!-- END nav -->
 
-  <section class="hero-wrap hero-wrap-2 js-fullheight" style="background-image: url('./social.jpg');"
-    data-stellar-background-ratio="0.5">
+  <section class="hero-wrap hero-wrap-2 js-fullheight" style="background-image: url('./social.jpg');" data-stellar-background-ratio="0.5">
     <div class="overlay"></div>
     <div class="container">
       <div class="row no-gutters slider-text js-fullheight align-items-end justify-content-start">
@@ -133,11 +132,35 @@ define("PAGE",Pages::EVENTS )
                 </div>
               </div>
               <!-- short info -->
-              <p style="color:#343a40;">Software events often act as a medium to connect 
+              <p style="color:#343a40;">Software events often act as a medium to connect
                 the ideas of students into a practical solution...</p>
-                <a href="events/software-exhibition">
-                  <input type="submit" style="cursor: pointer;" class="button btn-send disabled" value="More Info">
-                </a>
+              <a href="events/software-exhibition">
+                <input type="submit" style="cursor: pointer;" class="button btn-send disabled" value="More Info">
+              </a>
+            </div>
+          </div>
+        </div>
+        <!-- event item end -->
+
+        <!-- event item start -->
+        <div class="col-md-4 d-flex ftco-animate">
+          <div class="blog-entry justify-content-end">
+            <!-- here goes the photo -->
+            <a href="events/software-exhibition" class="block-20" style="background-image: url('images/softwareExhibition.jpg');">
+            </a>
+            <div class="text p-4 float-right d-block">
+              <div class="d-flex align-items-center pt-2 mb-4">
+                <div class="one">
+                  <!-- event name -->
+                  <span style="font-size: 30px;
+                                      font-weight: 600 !important;" class="day">Kurukshetra</span>
+                </div>
+              </div>
+              <!-- short info -->
+              <p style="color:#343a40;">Kurukshetra is an event with objective of building a manual war robot that should fight against other robots and push it out of the arena or destroy the bot.</p>
+              <a href="events/kurukshetra">
+                <input type="submit" style="cursor: pointer;" class="button btn-send disabled" value="More Info">
+              </a>
             </div>
           </div>
         </div>
@@ -161,7 +184,7 @@ define("PAGE",Pages::EVENTS )
               <p style="color:#343a40;">A Code Camp is an event where programmers meet to do collaborative computer programming...</p>
               <a href="events/code-camp">
                 <input type="submit" style="cursor: pointer;" class="button btn-send disabled" value="More Info">
-              </a>            
+              </a>
             </div>
           </div>
         </div>
@@ -183,10 +206,10 @@ define("PAGE",Pages::EVENTS )
               </div>
               <!-- short info -->
               <p style="color:#343a40;">Gaming has always been a way for people to escape reality. Games are an important...</p>
-                <a href="events/game-fest">
-                  <input type="submit" style="cursor: pointer;" class="button btn-send disabled" value="More Info">
-                </a>               
-              </div>
+              <a href="events/game-fest">
+                <input type="submit" style="cursor: pointer;" class="button btn-send disabled" value="More Info">
+              </a>
+            </div>
           </div>
         </div>
         <!-- event item end -->
@@ -207,9 +230,9 @@ define("PAGE",Pages::EVENTS )
               </div>
               <!-- short info -->
               <p style="color:#343a40;">Code Warz is a coding game. Various moves of the players are done...</p>
-                <a href="events/code-warz">
-                  <input type="submit" style="cursor: pointer;" class="button btn-send disabled" value="More Info">
-                </a> 
+              <a href="events/code-warz">
+                <input type="submit" style="cursor: pointer;" class="button btn-send disabled" value="More Info">
+              </a>
             </div>
           </div>
         </div>
@@ -231,9 +254,9 @@ define("PAGE",Pages::EVENTS )
               </div>
               <!-- short info -->
               <p style="color:#343a40;">Dristi 2.0 has created a platform to programmers in the world of algorithm. In this event you will</p>
-                <a href="events/quick-code">
-                  <input type="submit" style="cursor: pointer;" class="button btn-send disabled" value="More Info">
-                </a> 
+              <a href="events/quick-code">
+                <input type="submit" style="cursor: pointer;" class="button btn-send disabled" value="More Info">
+              </a>
             </div>
           </div>
         </div>
@@ -249,8 +272,7 @@ define("PAGE",Pages::EVENTS )
   <!-- loader -->
   <div id="ftco-loader" class="show fullscreen"><svg class="circular" width="48px" height="48px">
       <circle class="path-bg" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke="#eeeeee" />
-      <circle class="path" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke-miterlimit="10"
-        stroke="#F96D00" /></svg></div>
+      <circle class="path" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke-miterlimit="10" stroke="#F96D00" /></svg></div>
 
 
   <script src="js/jquery.min.js"></script>
@@ -267,8 +289,7 @@ define("PAGE",Pages::EVENTS )
   <script src="js/bootstrap-datepicker.js"></script>
   <script src="js/jquery.timepicker.min.js"></script>
   <script src="js/scrollax.min.js"></script>
-  <script
-    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBVWaKrjvy3MaE7SQ74_uJiULgl1JY0H2s&sensor=false"></script>
+  <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBVWaKrjvy3MaE7SQ74_uJiULgl1JY0H2s&sensor=false"></script>
   <script src="js/google-map.js"></script>
   <script src="js/main.js"></script>
 
