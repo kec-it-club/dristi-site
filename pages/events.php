@@ -96,31 +96,6 @@ define("PAGE", Pages::EVENTS)
         <div class="col-md-4 d-flex ftco-animate">
           <div class="blog-entry justify-content-end">
             <!-- here goes the photo -->
-            <a href="events/hackathon" class="block-20" style="background-image: url('images/events/hackathon.jpg');">
-            </a>
-            <div class="text p-4 float-right d-block">
-              <div class="d-flex align-items-center pt-2 mb-4">
-                <div class="one">
-                  <!-- event name -->
-                  <span style="font-size: 30px;font-weight: 600 !important;" class="day">Hackathon</span>
-                </div>
-              </div>
-              <!-- short info -->
-              <p style="color:#343a40;">A Hackathon is an event where programmers meet to do collaborative
-                computer
-                programming..</p>
-              <a href="events/hackathon">
-                <input type="submit" style="cursor: pointer;" class="button btn-send disabled" value="More Info">
-              </a>
-            </div>
-          </div>
-        </div>
-        <!-- event item end -->
-
-        <!-- event item start -->
-        <div class="col-md-4 d-flex ftco-animate">
-          <div class="blog-entry justify-content-end">
-            <!-- here goes the photo -->
             <a href="events/software-exhibition" class="block-20" style="background-image: url('images/events/softwareExhibition.jpg');">
             </a>
             <div class="text p-4 float-right d-block">
@@ -146,19 +121,68 @@ define("PAGE", Pages::EVENTS)
         <div class="col-md-4 d-flex ftco-animate">
           <div class="blog-entry justify-content-end">
             <!-- here goes the photo -->
-            <a href="events/kurukshetra" class="block-20" style="background-image: url('images/events/kurukshetra.jpg');">
+            <a href="events/hardware-epc" class="block-20" style="background-image: url('/images/events/hardware.jpeg');">
             </a>
             <div class="text p-4 float-right d-block">
               <div class="d-flex align-items-center pt-2 mb-4">
                 <div class="one">
                   <!-- event name -->
                   <span style="font-size: 30px;
-                                      font-weight: 600 !important;" class="day">Kurukshetra</span>
+                                      font-weight: 600 !important;" class="day">Hardware Exhibition</span>
                 </div>
               </div>
               <!-- short info -->
-              <p style="color:#343a40;">Kurukshetra is an event with objective of building a manual war robot that should fight against other robots and push it out of the arena or destroy the bot.</p>
-              <a href="events/kurukshetra">
+              <p style="color:#343a40;">‘Hardware Exhibition’ in Dristi 2.0 is a platform that provides the participants with an opportunity to present their hardware projects. </p>
+              <a href="events/hardware-epc">
+                <input type="submit" style="cursor: pointer;" class="button btn-send disabled" value="More Info">
+              </a>
+            </div>
+          </div>
+        </div>
+        <!-- event item end -->
+
+        <!-- event item start -->
+        <div class="col-md-4 d-flex ftco-animate">
+          <div class="blog-entry justify-content-end">
+            <!-- here goes the photo -->
+            <a href="events/hardware-electrical" class="block-20" style="background-image: url('/images/events/hardware.jpeg');">
+            </a>
+            <div class="text p-4 float-right d-block">
+              <div class="d-flex align-items-center pt-2 mb-4">
+                <div class="one">
+                  <!-- event name -->
+                  <span style="font-size: 30px;
+                                      font-weight: 600 !important;" class="day">Open Hardware Demonstration</span>
+                </div>
+              </div>
+              <!-- short info -->
+              <p style="color:#343a40;">Open Hardware Demonstration is a hardware event that provides the participants with a platform to present their projects in specified theme. </p>
+              <a href="events/hardware-electrical">
+                <input type="submit" style="cursor: pointer;" class="button btn-send disabled" value="More Info">
+              </a>
+            </div>
+          </div>
+        </div>
+        <!-- event item end -->
+
+        <!-- event item start -->
+        <div class="col-md-4 d-flex ftco-animate">
+          <div class="blog-entry justify-content-end">
+            <!-- here goes the photo -->
+            <a href="events/hackathon" class="block-20" style="background-image: url('images/events/hackathon.jpg');">
+            </a>
+            <div class="text p-4 float-right d-block">
+              <div class="d-flex align-items-center pt-2 mb-4">
+                <div class="one">
+                  <!-- event name -->
+                  <span style="font-size: 30px;font-weight: 600 !important;" class="day">Hackathon</span>
+                </div>
+              </div>
+              <!-- short info -->
+              <p style="color:#343a40;">A Hackathon is an event where programmers meet to do collaborative
+                computer
+                programming..</p>
+              <a href="events/hackathon">
                 <input type="submit" style="cursor: pointer;" class="button btn-send disabled" value="More Info">
               </a>
             </div>
@@ -218,6 +242,78 @@ define("PAGE", Pages::EVENTS)
         <div class="col-md-4 d-flex ftco-animate">
           <div class="blog-entry justify-content-end">
             <!-- here goes the photo -->
+            <a href="events/software-exhibition" class="block-20" style="background-image: url('images/events/kurukshetra.jpg');">
+            </a>
+            <div class="text p-4 float-right d-block">
+              <div class="d-flex align-items-center pt-2 mb-4">
+                <div class="one">
+                  <!-- event name -->
+                  <span style="font-size: 30px;
+                                      font-weight: 600 !important;" class="day">Kurukshetra</span>
+                </div>
+              </div>
+              <!-- short info -->
+              <p style="color:#343a40;">Kurukshetra is an event with objective of building a manual war robot that should fight against other robots and push it out of the arena or destroy the bot.</p>
+              <a href="events/kurukshetra">
+                <input type="submit" style="cursor: pointer;" class="button btn-send disabled" value="More Info">
+              </a>
+            </div>
+          </div>
+        </div>
+        <!-- event item end -->
+
+        <!-- event item start -->
+        <div class="col-md-4 d-flex ftco-animate">
+          <div class="blog-entry justify-content-end">
+            <!-- here goes the photo -->
+            <a href="events/robodrift" class="block-20" style="background-image: url('/images/events/robodrift.jpg');">
+            </a>
+            <div class="text p-4 float-right d-block">
+              <div class="d-flex align-items-center pt-2 mb-4">
+                <div class="one">
+                  <!-- event name -->
+                  <span style="font-size: 30px;
+                                      font-weight: 600 !important;" class="day">Robodrift 6.0</span>
+                </div>
+              </div>
+              <!-- short info -->
+              <p style="color:#343a40;">Organized by Robotics Club of Kathmandu Engineering College, Robodrift 6.0 is a competing platform for fellow bot builders to race their machines within a custom racing circuit. </p>
+              <a href="events/robodrift">
+                <input type="submit" style="cursor: pointer;" class="button btn-send disabled" value="More Info">
+              </a>
+            </div>
+          </div>
+        </div>
+        <!-- event item end -->
+
+        <!-- event item start -->
+        <div class="col-md-4 d-flex ftco-animate">
+          <div class="blog-entry justify-content-end">
+            <!-- here goes the photo -->
+            <a href="events/robomaze" class="block-20" style="background-image: url('/images/events/robo-maze.jpg');">
+            </a>
+            <div class="text p-4 float-right d-block">
+              <div class="d-flex align-items-center pt-2 mb-4">
+                <div class="one">
+                  <!-- event name -->
+                  <span style="font-size: 30px;
+                                      font-weight: 600 !important;" class="day">Robo Maze</span>
+                </div>
+              </div>
+              <!-- short info -->
+              <p style="color:#343a40;">The Maze Runner is a competition organized by Robotics Club of KEC, Kalimati. Bots compete with each other where they go through a maze and solve it as quick as possible...</p>
+              <a href="events/robomaze">
+                <input type="submit" style="cursor: pointer;" class="button btn-send disabled" value="More Info">
+              </a>
+            </div>
+          </div>
+        </div>
+        <!-- event item end -->
+
+        <!-- event item start -->
+        <div class="col-md-4 d-flex ftco-animate">
+          <div class="blog-entry justify-content-end">
+            <!-- here goes the photo -->
             <a href="events/code-warz" class="block-20" style="background-image: url('images/events/codeWarz.jpg');">
             </a>
             <div class="text p-4 float-right d-block">
@@ -262,6 +358,29 @@ define("PAGE", Pages::EVENTS)
         </div>
         <!-- event item end -->
 
+        <!-- event item start -->
+        <div class="col-md-4 d-flex ftco-animate">
+          <div class="blog-entry justify-content-end">
+            <!-- here goes the photo -->
+            <a href="events/photography-competition" class="block-20" style="background-image: url('/images/events/photography.jpg');">
+            </a>
+            <div class="text p-4 float-right d-block">
+              <div class="d-flex align-items-center pt-2 mb-4">
+                <div class="one">
+                  <!-- event name -->
+                  <span style="font-size: 30px;
+                                      font-weight: 600 !important;" class="day">Photography Competition</span>
+                </div>
+              </div>
+              <!-- short info -->
+              <p style="color:#343a40;">Photography contests are a great way to find out if your images are up to scratch. By taking part in these competitions, you can win...</p>
+              <a href="events/photography-competition">
+                <input type="submit" style="cursor: pointer;" class="button btn-send disabled" value="More Info">
+              </a>
+            </div>
+          </div>
+        </div>
+        <!-- event item end -->
 
         <!-- event item start -->
         <div class="col-md-4 d-flex ftco-animate">
@@ -342,30 +461,6 @@ define("PAGE", Pages::EVENTS)
         <div class="col-md-4 d-flex ftco-animate">
           <div class="blog-entry justify-content-end">
             <!-- here goes the photo -->
-            <a href="events/art-competition" class="block-20" style="background-image: url('/images/events/art.jpg');">
-            </a>
-            <div class="text p-4 float-right d-block">
-              <div class="d-flex align-items-center pt-2 mb-4">
-                <div class="one">
-                  <!-- event name -->
-                  <span style="font-size: 30px;
-                                      font-weight: 600 !important;" class="day">Art Competition</span>
-                </div>
-              </div>
-              <!-- short info -->
-              <p style="color:#343a40;">An artist grows by leaps and bounds when he or she puts artwork in the public eye for feedback, and that is what art competitions ...</p>
-              <a href="events/art-competition">
-                <input type="submit" style="cursor: pointer;" class="button btn-send disabled" value="More Info">
-              </a>
-            </div>
-          </div>
-        </div>
-        <!-- event item end -->
-
-        <!-- event item start -->
-        <div class="col-md-4 d-flex ftco-animate">
-          <div class="blog-entry justify-content-end">
-            <!-- here goes the photo -->
             <a href="events/model-archi" class="block-20" style="background-image: url('/images/events/model making.jpg');">
             </a>
             <div class="text p-4 float-right d-block">
@@ -405,78 +500,6 @@ define("PAGE", Pages::EVENTS)
                 competition is planned to educate students about the effects of earthquakes on
                 structures and to help them investigate and develop solutions to a simple design problem. </p>
               <a href="events/earthquake-resistant">
-                <input type="submit" style="cursor: pointer;" class="button btn-send disabled" value="More Info">
-              </a>
-            </div>
-          </div>
-        </div>
-        <!-- event item end -->
-
-        <!-- event item start -->
-        <div class="col-md-4 d-flex ftco-animate">
-          <div class="blog-entry justify-content-end">
-            <!-- here goes the photo -->
-            <a href="events/extempore-speech" class="block-20" style="background-image: url('/images/events/speech.png');">
-            </a>
-            <div class="text p-4 float-right d-block">
-              <div class="d-flex align-items-center pt-2 mb-4">
-                <div class="one">
-                  <!-- event name -->
-                  <span style="font-size: 30px;
-                                      font-weight: 600 !important;" class="day">Extempore speech</span>
-                </div>
-              </div>
-              <!-- short info -->
-              <p style="color:#343a40;">The meaning of extempore speech is a speech or spoken anything without preparation, so ...</p>
-              <a href="events/extempore-speech">
-                <input type="submit" style="cursor: pointer;" class="button btn-send disabled" value="More Info">
-              </a>
-            </div>
-          </div>
-        </div>
-        <!-- event item end -->
-
-        <!-- event item start -->
-        <div class="col-md-4 d-flex ftco-animate">
-          <div class="blog-entry justify-content-end">
-            <!-- here goes the photo -->
-            <a href="events/hardware-electrical" class="block-20" style="background-image: url('/images/events/hardware.jpeg');">
-            </a>
-            <div class="text p-4 float-right d-block">
-              <div class="d-flex align-items-center pt-2 mb-4">
-                <div class="one">
-                  <!-- event name -->
-                  <span style="font-size: 30px;
-                                      font-weight: 600 !important;" class="day">Open Hardware Demonstration</span>
-                </div>
-              </div>
-              <!-- short info -->
-              <p style="color:#343a40;">Open Hardware Demonstration is a hardware event that provides the participants with a platform to present their projects in specified theme. </p>
-              <a href="events/hardware-electrical">
-                <input type="submit" style="cursor: pointer;" class="button btn-send disabled" value="More Info">
-              </a>
-            </div>
-          </div>
-        </div>
-        <!-- event item end -->
-
-        <!-- event item start -->
-        <div class="col-md-4 d-flex ftco-animate">
-          <div class="blog-entry justify-content-end">
-            <!-- here goes the photo -->
-            <a href="events/hardware-epc" class="block-20" style="background-image: url('/images/events/hardware.jpeg');">
-            </a>
-            <div class="text p-4 float-right d-block">
-              <div class="d-flex align-items-center pt-2 mb-4">
-                <div class="one">
-                  <!-- event name -->
-                  <span style="font-size: 30px;
-                                      font-weight: 600 !important;" class="day">Hardware Exhibition</span>
-                </div>
-              </div>
-              <!-- short info -->
-              <p style="color:#343a40;">‘Hardware Exhibition’ in Dristi 2.0 is a platform that provides the participants with an opportunity to present their hardware projects. </p>
-              <a href="events/hardware-epc">
                 <input type="submit" style="cursor: pointer;" class="button btn-send disabled" value="More Info">
               </a>
             </div>
@@ -584,67 +607,19 @@ define("PAGE", Pages::EVENTS)
         <div class="col-md-4 d-flex ftco-animate">
           <div class="blog-entry justify-content-end">
             <!-- here goes the photo -->
-            <a href="events/photography-competition" class="block-20" style="background-image: url('/images/events/photography.jpg');">
+            <a href="events/art-competition" class="block-20" style="background-image: url('/images/events/art.jpg');">
             </a>
             <div class="text p-4 float-right d-block">
               <div class="d-flex align-items-center pt-2 mb-4">
                 <div class="one">
                   <!-- event name -->
                   <span style="font-size: 30px;
-                                      font-weight: 600 !important;" class="day">Photography Competition</span>
+                                      font-weight: 600 !important;" class="day">Art Competition</span>
                 </div>
               </div>
               <!-- short info -->
-              <p style="color:#343a40;">Photography contests are a great way to find out if your images are up to scratch. By taking part in these competitions, you can win...</p>
-              <a href="events/photography-competition">
-                <input type="submit" style="cursor: pointer;" class="button btn-send disabled" value="More Info">
-              </a>
-            </div>
-          </div>
-        </div>
-        <!-- event item end -->
-
-        <!-- event item start -->
-        <div class="col-md-4 d-flex ftco-animate">
-          <div class="blog-entry justify-content-end">
-            <!-- here goes the photo -->
-            <a href="events/poetry" class="block-20" style="background-image: url('/images/events/poetry_competition.jpg');">
-            </a>
-            <div class="text p-4 float-right d-block">
-              <div class="d-flex align-items-center pt-2 mb-4">
-                <div class="one">
-                  <!-- event name -->
-                  <span style="font-size: 30px;
-                                      font-weight: 600 !important;" class="day">Poetry</span>
-                </div>
-              </div>
-              <!-- short info -->
-              <p style="color:#343a40;">Enter our Poetry Competition for your chance to present your talent and win... </p>
-              <a href="events/poetry">
-                <input type="submit" style="cursor: pointer;" class="button btn-send disabled" value="More Info">
-              </a>
-            </div>
-          </div>
-        </div>
-        <!-- event item end -->
-
-        <!-- event item start -->
-        <div class="col-md-4 d-flex ftco-animate">
-          <div class="blog-entry justify-content-end">
-            <!-- here goes the photo -->
-            <a href="events/robodrift" class="block-20" style="background-image: url('/images/events/robodrift.jpg');">
-            </a>
-            <div class="text p-4 float-right d-block">
-              <div class="d-flex align-items-center pt-2 mb-4">
-                <div class="one">
-                  <!-- event name -->
-                  <span style="font-size: 30px;
-                                      font-weight: 600 !important;" class="day">Robodrift 6.0</span>
-                </div>
-              </div>
-              <!-- short info -->
-              <p style="color:#343a40;">Organized by Robotics Club of Kathmandu Engineering College, Robodrift 6.0 is a competing platform for fellow bot builders to race their machines within a custom racing circuit. </p>
-              <a href="events/robodrift">
+              <p style="color:#343a40;">An artist grows by leaps and bounds when he or she puts artwork in the public eye for feedback, and that is what art competitions ...</p>
+              <a href="events/art-competition">
                 <input type="submit" style="cursor: pointer;" class="button btn-send disabled" value="More Info">
               </a>
             </div>
@@ -681,19 +656,43 @@ define("PAGE", Pages::EVENTS)
         <div class="col-md-4 d-flex ftco-animate">
           <div class="blog-entry justify-content-end">
             <!-- here goes the photo -->
-            <a href="events/robomaze" class="block-20" style="background-image: url('/images/events/robo-maze.jpg');">
+            <a href="events/extempore-speech" class="block-20" style="background-image: url('/images/events/speech.png');">
             </a>
             <div class="text p-4 float-right d-block">
               <div class="d-flex align-items-center pt-2 mb-4">
                 <div class="one">
                   <!-- event name -->
                   <span style="font-size: 30px;
-                                      font-weight: 600 !important;" class="day">Robo Maze</span>
+                                      font-weight: 600 !important;" class="day">Extempore speech</span>
                 </div>
               </div>
               <!-- short info -->
-              <p style="color:#343a40;">The Maze Runner is a competition organized by Robotics Club of KEC, Kalimati. Bots compete with each other where they go through a maze and solve it as quick as possible...</p>
-              <a href="events/robomaze">
+              <p style="color:#343a40;">The meaning of extempore speech is a speech or spoken anything without preparation, so ...</p>
+              <a href="events/extempore-speech">
+                <input type="submit" style="cursor: pointer;" class="button btn-send disabled" value="More Info">
+              </a>
+            </div>
+          </div>
+        </div>
+        <!-- event item end -->
+
+        <!-- event item start -->
+        <div class="col-md-4 d-flex ftco-animate">
+          <div class="blog-entry justify-content-end">
+            <!-- here goes the photo -->
+            <a href="events/poetry" class="block-20" style="background-image: url('/images/events/poetry_competition.jpg');">
+            </a>
+            <div class="text p-4 float-right d-block">
+              <div class="d-flex align-items-center pt-2 mb-4">
+                <div class="one">
+                  <!-- event name -->
+                  <span style="font-size: 30px;
+                                      font-weight: 600 !important;" class="day">Poetry</span>
+                </div>
+              </div>
+              <!-- short info -->
+              <p style="color:#343a40;">Enter our Poetry Competition for your chance to present your talent and win... </p>
+              <a href="events/poetry">
                 <input type="submit" style="cursor: pointer;" class="button btn-send disabled" value="More Info">
               </a>
             </div>
@@ -724,8 +723,6 @@ define("PAGE", Pages::EVENTS)
           </div>
         </div>
         <!-- event item end -->
-
-
 
       </div>
   </section>
