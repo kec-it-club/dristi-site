@@ -411,7 +411,7 @@ define("PAGE", Pages::HOME)
                     <div class="col text-center">
                         <div class="block-27">
                             <a href="/events">
-                                <input type="submit" style="cursor: pointer;" class="button btn-send disabled" value="All Events">
+                                <input type="submit" style="cursor: pointer;position: relative;bottom: -50px;" class="button btn-send disabled" value="All Events">
                             </a>
                         </div>
                     </div>
