@@ -146,7 +146,7 @@ define("PAGE", Pages::EVENTS)
         <div class="col-md-4 d-flex ftco-animate">
           <div class="blog-entry justify-content-end">
             <!-- here goes the photo -->
-            <a href="events/software-exhibition" class="block-20" style="background-image: url('images/events/kurukshetra.jpg');">
+            <a href="events/kurukshetra" class="block-20" style="background-image: url('images/events/kurukshetra.jpg');">
             </a>
             <div class="text p-4 float-right d-block">
               <div class="d-flex align-items-center pt-2 mb-4">

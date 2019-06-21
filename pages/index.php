@@ -112,19 +112,19 @@ define("PAGE", Pages::HOME)
                 <div class="col-md-4 d-flex ftco-animate">
                     <div class="blog-entry justify-content-end">
                         <!-- here goes the photo -->
-                        <a href="events/hackathon" class="block-20" style="background-image: url('images/hackathon.jpg');">
+                        <a href="events/hackathon" class="block-20" style="background-image: url('images/events/hackathon.jpg');">
                         </a>
                         <div class="text p-4 float-right d-block">
                             <div class="d-flex align-items-center pt-2 mb-4">
                                 <div class="one">
                                     <!-- event name -->
-                                    <span style="font-size: 30px;
-                                    font-weight: 600 !important;" class="day">Hackathon</span>
+                                    <span style="font-size: 30px;font-weight: 600 !important;" class="day">Hackathon</span>
                                 </div>
                             </div>
                             <!-- short info -->
-                            <p style="color:#343a40;">A Hackathon is an event where programmers meet to do collaborative computer programming.
-                                Hackathons provide a venue for ...</p>
+                            <p style="color:#343a40;">A Hackathon is an event where programmers meet to do collaborative
+                                computer
+                                programming..</p>
                             <a href="events/hackathon">
                                 <input type="submit" style="cursor: pointer;" class="button btn-send disabled" value="More Info">
                             </a>
@@ -133,24 +133,49 @@ define("PAGE", Pages::HOME)
                 </div>
                 <!-- event item end -->
 
+
                 <!-- event item start -->
                 <div class="col-md-4 d-flex ftco-animate">
                     <div class="blog-entry justify-content-end">
                         <!-- here goes the photo -->
-                        <a href="events/software-exhibition" class="block-20" style="background-image: url('images/image_1.jpg');">
+                        <a href="events/code-camp" class="block-20" style="background-image: url('images/events/codeCamp.jpg');">
                         </a>
                         <div class="text p-4 float-right d-block">
                             <div class="d-flex align-items-center pt-2 mb-4">
                                 <div class="one">
                                     <!-- event name -->
                                     <span style="font-size: 30px;
-                                        font-weight: 600 !important;" class="day">Software Exhibition</span>
+                                      font-weight: 600 !important;" class="day">Code Camp</span>
                                 </div>
                             </div>
                             <!-- short info -->
-                            <p style="color:#343a40;">Software events often act as a medium to connect the ideas of students into
-                                a practical solution. It allows the students to ...
-                            </p>
+                            <p style="color:#343a40;">A Code Camp is an event where programmers meet to do collaborative computer programming...</p>
+                            <a href="events/code-camp">
+                                <input type="submit" style="cursor: pointer;" class="button btn-send disabled" value="More Info">
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <!-- event item end -->
+
+
+                <!-- event item start -->
+                <div class="col-md-4 d-flex ftco-animate">
+                    <div class="blog-entry justify-content-end">
+                        <!-- here goes the photo -->
+                        <a href="events/software-exhibition" class="block-20" style="background-image: url('images/events/softwareExhibition.jpg');">
+                        </a>
+                        <div class="text p-4 float-right d-block">
+                            <div class="d-flex align-items-center pt-2 mb-4">
+                                <div class="one">
+                                    <!-- event name -->
+                                    <span style="font-size: 30px;
+                                      font-weight: 600 !important;" class="day">Software Exhibition</span>
+                                </div>
+                            </div>
+                            <!-- short info -->
+                            <p style="color:#343a40;">Software events often act as a medium to connect
+                                the ideas of students into a practical solution...</p>
                             <a href="events/software-exhibition">
                                 <input type="submit" style="cursor: pointer;" class="button btn-send disabled" value="More Info">
                             </a>
@@ -163,20 +188,19 @@ define("PAGE", Pages::HOME)
                 <div class="col-md-4 d-flex ftco-animate">
                     <div class="blog-entry justify-content-end">
                         <!-- here goes the photo -->
-                        <a href="events/code-camp" class="block-20" style="background-image: url('images/image_1.jpg');">
+                        <a href="events/game-fest" class="block-20" style="background-image: url('images/events/gameFest.jpg');">
                         </a>
                         <div class="text p-4 float-right d-block">
                             <div class="d-flex align-items-center pt-2 mb-4">
                                 <div class="one">
                                     <!-- event name -->
                                     <span style="font-size: 30px;
-                                        font-weight: 600 !important;" class="day">Code Camp</span>
+                                      font-weight: 600 !important;" class="day">Game Fest</span>
                                 </div>
                             </div>
                             <!-- short info -->
-                            <p style="color:#343a40;">A Code Camp is an event where programmers meet to do collaborative computer programming.
-                                It provides a venue for self-expression and creativity through technology. People with technical backgrounds ...</p>
-                            <a href="events/codeCamp.html">
+                            <p style="color:#343a40;">Gaming has always been a way for people to escape reality. Games are an important...</p>
+                            <a href="events/game-fest">
                                 <input type="submit" style="cursor: pointer;" class="button btn-send disabled" value="More Info">
                             </a>
                         </div>
@@ -188,19 +212,194 @@ define("PAGE", Pages::HOME)
                 <div class="col-md-4 d-flex ftco-animate">
                     <div class="blog-entry justify-content-end">
                         <!-- here goes the photo -->
-                        <a href="events/software-exhibition" class="block-20" style="background-image: url('images/softwareExhibition.jpg');">
+                        <a href="events/robodrift" class="block-20" style="background-image: url('/images/events/robodrift.jpg');">
                         </a>
                         <div class="text p-4 float-right d-block">
                             <div class="d-flex align-items-center pt-2 mb-4">
                                 <div class="one">
                                     <!-- event name -->
                                     <span style="font-size: 30px;
-                                      font-weight: 600 !important;" class="day">Kurukshetra</span>
+                                      font-weight: 600 !important;" class="day">Robodrift 6.0</span>
                                 </div>
                             </div>
                             <!-- short info -->
-                            <p style="color:#343a40;">Kurukshetra is an event with objective of building a manual war robot that should fight against other robots and push it out of the arena or destroy the bot.</p>
-                            <a href="events/kurukshetra">
+                            <p style="color:#343a40;">Organized by Robotics Club of Kathmandu Engineering College, Robodrift 6.0 is a competing platform for fellow bot builders to race their machines within a custom racing circuit. </p>
+                            <a href="events/robodrift">
+                                <input type="submit" style="cursor: pointer;" class="button btn-send disabled" value="More Info">
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <!-- event item end -->
+
+                <!-- event item start -->
+                <div class="col-md-4 d-flex ftco-animate">
+                    <div class="blog-entry justify-content-end">
+                        <!-- here goes the photo -->
+                        <a href="events/robomaze" class="block-20" style="background-image: url('/images/events/robo-maze.jpg');">
+                        </a>
+                        <div class="text p-4 float-right d-block">
+                            <div class="d-flex align-items-center pt-2 mb-4">
+                                <div class="one">
+                                    <!-- event name -->
+                                    <span style="font-size: 30px;
+                                      font-weight: 600 !important;" class="day">Robo Maze</span>
+                                </div>
+                            </div>
+                            <!-- short info -->
+                            <p style="color:#343a40;">The Maze Runner is a competition organized by Robotics Club of KEC, Kalimati. Bots compete with each other where they go through a maze and solve it as quick as possible...</p>
+                            <a href="events/robomaze">
+                                <input type="submit" style="cursor: pointer;" class="button btn-send disabled" value="More Info">
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <!-- event item end -->
+
+                <!-- event item start -->
+                <div class="col-md-4 d-flex ftco-animate">
+                    <div class="blog-entry justify-content-end">
+                        <!-- here goes the photo -->
+                        <a href="events/paper-bridge" class="block-20" style="background-image: url('/images/events/paper-bridge.jpg');">
+                        </a>
+                        <div class="text p-4 float-right d-block">
+                            <div class="d-flex align-items-center pt-2 mb-4">
+                                <div class="one">
+                                    <!-- event name -->
+                                    <span style="font-size: 30px;
+                                      font-weight: 600 !important;" class="day">Paper Bridge Competition</span>
+                                </div>
+                            </div>
+                            <!-- short info -->
+                            <p style="color:#343a40;">The purpose of the competition is to build a bridge with the largest possible bearing, and this only from the copy paper! </p>
+                            <a href="events/paper-bridge">
+                                <input type="submit" style="cursor: pointer;" class="button btn-send disabled" value="More Info">
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <!-- event item end -->
+
+                <!-- event item start -->
+                <div class="col-md-4 d-flex ftco-animate">
+                    <div class="blog-entry justify-content-end">
+                        <!-- here goes the photo -->
+                        <a href="events/art-competition" class="block-20" style="background-image: url('/images/events/art.jpg');">
+                        </a>
+                        <div class="text p-4 float-right d-block">
+                            <div class="d-flex align-items-center pt-2 mb-4">
+                                <div class="one">
+                                    <!-- event name -->
+                                    <span style="font-size: 30px;
+                                      font-weight: 600 !important;" class="day">Art Competition</span>
+                                </div>
+                            </div>
+                            <!-- short info -->
+                            <p style="color:#343a40;">An artist grows by leaps and bounds when he or she puts artwork in the public eye for feedback, and that is what art competitions ...</p>
+                            <a href="events/art-competition">
+                                <input type="submit" style="cursor: pointer;" class="button btn-send disabled" value="More Info">
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <!-- event item end -->
+
+
+
+                <!-- event item start -->
+                <div class="col-md-4 d-flex ftco-animate">
+                    <div class="blog-entry justify-content-end">
+                        <!-- here goes the photo -->
+                        <a href="events/photography-competition" class="block-20" style="background-image: url('/images/events/photography.jpg');">
+                        </a>
+                        <div class="text p-4 float-right d-block">
+                            <div class="d-flex align-items-center pt-2 mb-4">
+                                <div class="one">
+                                    <!-- event name -->
+                                    <span style="font-size: 30px;
+                                      font-weight: 600 !important;" class="day">Photography Competition</span>
+                                </div>
+                            </div>
+                            <!-- short info -->
+                            <p style="color:#343a40;">Photography contests are a great way to find out if your images are up to scratch. By taking part in these competitions, you can win...</p>
+                            <a href="events/photography-competition">
+                                <input type="submit" style="cursor: pointer;" class="button btn-send disabled" value="More Info">
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <!-- event item end -->
+
+
+                <!-- event item start -->
+                <div class="col-md-4 d-flex ftco-animate">
+                    <div class="blog-entry justify-content-end">
+                        <!-- here goes the photo -->
+                        <a href="events/earthquake-resistant" class="block-20" style="background-image: url('/images/events/earthquake.jpg');">
+                        </a>
+                        <div class="text p-4 float-right d-block">
+                            <div class="d-flex align-items-center pt-2 mb-4">
+                                <div class="one">
+                                    <!-- event name -->
+                                    <span style="font-size: 30px;
+                                      font-weight: 600 !important;" class="day">Earthquake resistant design competition</span>
+                                </div>
+                            </div>
+                            <!-- short info -->
+                            <p style="color:#343a40;">The
+                                competition is planned to educate students about the effects of earthquakes on
+                                structures and to help them investigate and develop solutions to a simple design problem. </p>
+                            <a href="events/earthquake-resistant">
+                                <input type="submit" style="cursor: pointer;" class="button btn-send disabled" value="More Info">
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <!-- event item end -->
+
+
+                <!-- event item start -->
+                <div class="col-md-4 d-flex ftco-animate">
+                    <div class="blog-entry justify-content-end">
+                        <!-- here goes the photo -->
+                        <a href="events/junkyard-marvel" class="block-20" style="background-image: url('/images/events/junckyard.jpg');">
+                        </a>
+                        <div class="text p-4 float-right d-block">
+                            <div class="d-flex align-items-center pt-2 mb-4">
+                                <div class="one">
+                                    <!-- event name -->
+                                    <span style="font-size: 30px;
+                                      font-weight: 600 !important;" class="day">Junkyard marvel competition</span>
+                                </div>
+                            </div>
+                            <!-- short info -->
+                            <p style="color:#343a40;">The Junkyard Marvel Battleground Competition is an open challenge which focuses on the logical
+                                and imaginative....</p>
+                            <a href="events/junkyard-marvel">
+                                <input type="submit" style="cursor: pointer;" class="button btn-send disabled" value="More Info">
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <!-- event item end -->
+
+                <!-- event item start -->
+                <div class="col-md-4 d-flex ftco-animate">
+                    <div class="blog-entry justify-content-end">
+                        <!-- here goes the photo -->
+                        <a href="events/hardware-epc" class="block-20" style="background-image: url('/images/events/hardware.jpeg');">
+                        </a>
+                        <div class="text p-4 float-right d-block">
+                            <div class="d-flex align-items-center pt-2 mb-4">
+                                <div class="one">
+                                    <!-- event name -->
+                                    <span style="font-size: 30px;
+                                      font-weight: 600 !important;" class="day">Hardware Exhibition</span>
+                                </div>
+                            </div>
+                            <!-- short info -->
+                            <p style="color:#343a40;">‘Hardware Exhibition’ in Dristi 2.0 is a platform that provides the participants with an opportunity to present their hardware projects. </p>
+                            <a href="events/hardware-epc">
                                 <input type="submit" style="cursor: pointer;" class="button btn-send disabled" value="More Info">
                             </a>
                         </div>
@@ -243,7 +442,7 @@ define("PAGE", Pages::HOME)
                                     <div class="icon d-flex justify-content-center align-items-center">
                                         <span class="flaticon-guest"></span>
                                     </div>
-                                    <strong class="number" data-number="50">0</strong> <strong class="number">+</strong>
+                                    <strong class="number" data-number="120">0</strong> <strong class="number">+</strong>
                                     <span>Participants</span>
                                 </div>
                             </div>
@@ -265,7 +464,7 @@ define("PAGE", Pages::HOME)
                                     <div class="icon d-flex justify-content-center align-items-center">
                                         <span class="flaticon-chair"></span>
                                     </div>
-                                    <strong class="number" data-number="15">0</strong>
+                                    <strong class="number" data-number="25">0</strong> <strong class="number">+</strong>
                                     <span>Events</span>
                                 </div>
                             </div>
@@ -277,7 +476,7 @@ define("PAGE", Pages::HOME)
                                         <span class="flaticon-world"></span>
                                     </div>
                                     <strong class="number" data-number="8">0</strong> <strong class="number">+</strong>
-                                    <span>Domains</span>
+                                    <span>Different Fields</span>
                                 </div>
                             </div>
                         </div>
@@ -287,7 +486,7 @@ define("PAGE", Pages::HOME)
         </div>
     </section>
 
-    <section class="ftco-section bg-light">
+    <!-- <section class="ftco-section bg-light">
         <div class="container">
             <div class="row justify-content-center mb-5 pb-3">
                 <div class="col-md-7 text-center heading-section ftco-animate">
@@ -594,15 +793,14 @@ define("PAGE", Pages::HOME)
                 </div>
             </div>
         </div>
-    </section>
+    </section> -->
 
-    <section class="ftco-section testimony-section">
+    <!-- <section class="ftco-section testimony-section">
         <div class="container">
             <div class="row justify-content-center mb-5 pb-3">
                 <div class="col-md-7 text-center heading-section ftco-animate">
                     <span class="subheading">Honorable</span>
                     <h2 class="mb-4">
-                        <!-- <span>Happy</span>  -->
                         Messages</h2>
                 </div>
             </div>
@@ -688,21 +886,21 @@ define("PAGE", Pages::HOME)
                 </div>
             </div>
         </div>
-    </section>
+    </section> -->
 
 
-    <section class="ftco-section testimony-section">
+    <!-- <section class="ftco-section testimony-section">
         <div class="container">
             <div class="row justify-content-center mb-5 pb-3">
                 <div class="col-md-7 text-center heading-section ftco-animate">
                     <span class="subheading">Our</span>
                     <h2 class="mb-4">
-                        <!-- <span>Happy</span>  -->
                         Sponsors</h2>
                 </div>
             </div>
             <div class="row ftco-animate">
                 <div class="col-md-12">
+                    
                     <div class=" owl-carousel auto-carousel">
                         <div class="item">
                             <div class="testimony-wrap text-center py-4 pb-5">
@@ -758,33 +956,42 @@ define("PAGE", Pages::HOME)
                 </div>
             </div>
         </div>
-    </section>
+    </section> -->
+
+
     <section class="ftco-gallery">
         <div class="container-wrap">
             <div class="row no-gutters">
                 <div class="col-md-3 ftco-animate">
-                    <a href="images/image_1.jpg" class="gallery image-popup img d-flex align-items-center" style="background-image: url(images/image_1.jpg);">
+                    <a href="/images/feature/art.jpg" class="gallery image-popup img d-flex align-items-center" style="background-image: url(/images/feature/art.jpg);">
                         <div class="icon mb-4 d-flex align-items-center justify-content-center">
                             <span class="icon-instagram"></span>
                         </div>
                     </a>
                 </div>
                 <div class="col-md-3 ftco-animate">
-                    <a href="images/image_2.jpg" class="gallery image-popup img d-flex align-items-center" style="background-image: url(images/image_2.jpg);">
+                    <a href="/images/feature/hackathon.jpg" class="gallery image-popup img d-flex align-items-center" style="background-image: url(/images/feature/hackathon.jpg);">
                         <div class="icon mb-4 d-flex align-items-center justify-content-center">
                             <span class="icon-instagram"></span>
                         </div>
                     </a>
                 </div>
                 <div class="col-md-3 ftco-animate">
-                    <a href="images/image_3.jpg" class="gallery image-popup img d-flex align-items-center" style="background-image: url(images/image_3.jpg);">
+                    <a href='/images/feature/model making.jpg' class="gallery image-popup img d-flex align-items-center" style="background-image: url('/images/feature/model making.jpg');">
                         <div class="icon mb-4 d-flex align-items-center justify-content-center">
                             <span class="icon-instagram"></span>
                         </div>
                     </a>
                 </div>
                 <div class="col-md-3 ftco-animate">
-                    <a href="images/image_4.jpg" class="gallery image-popup img d-flex align-items-center" style="background-image: url(images/image_4.jpg);">
+                    <a href="/images/feature/photography.jpg" class="gallery image-popup img d-flex align-items-center" style="background-image: url(/images/feature/photography.jpg);">
+                        <div class="icon mb-4 d-flex align-items-center justify-content-center">
+                            <span class="icon-instagram"></span>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-md-3 ftco-animate">
+                    <a href="/images/feature/poetry_competition.jpg" class="gallery image-popup img d-flex align-items-center" style="background-image: url(/images/feature/poetry_competition.jpg);">
                         <div class="icon mb-4 d-flex align-items-center justify-content-center">
                             <span class="icon-instagram"></span>
                         </div>
