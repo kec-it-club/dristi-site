@@ -82,7 +82,7 @@
           <h2 class="mb-3">Introduction</h2>
 
           <p>
-            <img src="../images/hackathon.jpg" alt="" class="img-fluid">
+            <img src="/images/events/quiz-competition.png" alt="" class="img-fluid">
           </p>
 
           <p style="color:#373c41;">Inter-college/Intra-college Quiz Competition is an event where various students from different colleges will participate

@@ -79,23 +79,12 @@
       <div class="row">
         <!-- todo -->
         <div class="col-md-10 order-md-last ftco-animate">
-          <!-- <h2 class="mb-3">Introduction</h2>
-
+         
           <p>
-            <img src="../images/hackathon.jpg" alt="" class="img-fluid">
+            <img src="/images/events/earthquake.jpg" alt="" class="img-fluid">
           </p>
 
-          <p style="color:#373c41;">Inter-college/Intra-college Quiz Competition is an event where various students from different colleges will participate
-           in a competition. Various objective competition would be asked by quiz masters according to rules and regulations set by the organizing committee.
-           This event helps students to broaden their knowledge which would be very useful in various fields.
-          </p> -->
-          <!-- <h2 class="mb-3 mt-5">Event Details:</h2>
-          <ul>
-            <li style="color:#373c41;"> <b>Venue</b>: Kathmandu Engineering College</li>
-            <li style="color:#373c41;"> <b>Participation</b>: As a team of three members (Registration Fee: Rs. 1000/team)</li>
-            <li style="color:#373c41;"> <b>Type of Event</b>: Competition</li>
-          </ul> -->
-
+  
 
           <h2 class="mb-3 mt-5">General Specification:</h2>
           <ul>

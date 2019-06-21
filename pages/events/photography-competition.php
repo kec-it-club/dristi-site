@@ -79,19 +79,12 @@
       <div class="row">
         <!-- todo -->
         <div class="col-md-10 order-md-last ftco-animate">
-          <!-- <h2 class="mb-3">Introduction</h2>
+         
 
           <p>
-            <img src="../images/hackathon.jpg" alt="" class="img-fluid">
+            <img src="/images/events/photography.jpg" alt="" class="img-fluid">
           </p>
 
-          <p style="color:#373c41;">
-          The Maze Runner is a competition organized by Robotics Club of KEC, Kalimati. Bots compete with each other where they go through a maze and solve it as quick as possible, and the bot that solves the maze at the fastest pace will be announced as the winner.<br><br>
-          <b>Note: </b><i> The race is completely automatic and any interested candidate can apply for this race.
-Detailed rules about the gameplay will be emailed to the participants after registration.</i>
-
-
-          </p> -->
           <h2 class="mb-3 mt-5">Event Details:</h2>
           <ul>
             <li style="color:#373c41;"> <b>Venue</b>: Kathmandu Engineering College</li>

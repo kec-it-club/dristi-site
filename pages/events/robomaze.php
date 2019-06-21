@@ -82,7 +82,7 @@
           <h2 class="mb-3">Introduction</h2>
 
           <p>
-            <img src="../images/hackathon.jpg" alt="" class="img-fluid">
+            <img src="/images/events/robo-maze.jpg" alt="" class="img-fluid">
           </p>
 
           <p style="color:#373c41;">

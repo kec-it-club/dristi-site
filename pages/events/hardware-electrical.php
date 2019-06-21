@@ -64,11 +64,11 @@
       <div class="row no-gutters slider-text js-fullheight align-items-end justify-content-start">
         <div class="col-md-9 ftco-animate pb-5">
           <!-- todo -->
-          <h1 class="mb-3 bread">Hardware Competition(Electrical) </h1>
+          <h1 class="mb-3 bread">Open Hardware Demonstration </h1>
           <p class="breadcrumbs">
             <span class="mr-2"> <a href="/">Home <i class="ion-ios-arrow-forward"></i></a></span>
             <span class="mr-2"> <a href="/events">Events <i class="ion-ios-arrow-forward"></i></a></span>
-            <span>Hardware Competition(Electrical)<i class="ion-ios-arrow-forward"></i></span></p>
+            <span>Open Hardware Demonstration<i class="ion-ios-arrow-forward"></i></span></p>
         </div>
       </div>
     </div>
@@ -82,7 +82,7 @@
           <h2 class="mb-3">Introduction</h2>
 
           <p>
-            <img src="../images/hackathon.jpg" alt="" class="img-fluid">
+            <img src="/images/events/hardware.jpeg" alt="" class="img-fluid">
           </p>
 
           <p style="color:#373c41;">

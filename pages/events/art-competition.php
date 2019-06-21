@@ -79,19 +79,11 @@
       <div class="row">
         <!-- todo -->
         <div class="col-md-10 order-md-last ftco-animate">
-          <!-- <h2 class="mb-3">Introduction</h2>
-
+        
           <p>
-            <img src="../images/hackathon.jpg" alt="" class="img-fluid">
+            <img src="/images/events/art.jpg" alt="" class="img-fluid">
           </p>
 
-          <p style="color:#373c41;">
-          The Maze Runner is a competition organized by Robotics Club of KEC, Kalimati. Bots compete with each other where they go through a maze and solve it as quick as possible, and the bot that solves the maze at the fastest pace will be announced as the winner.<br><br>
-          <b>Note: </b><i> The race is completely automatic and any interested candidate can apply for this race.
-Detailed rules about the gameplay will be emailed to the participants after registration.</i>
-
-
-          </p> -->
           <h2 class="mb-3 mt-5">Event Details:</h2>
           <ul>
             <li style="color:#373c41;"> <b>Venue</b>: Kathmandu Engineering College</li>
@@ -101,43 +93,6 @@ Detailed rules about the gameplay will be emailed to the participants after regi
             <li style="color:#373c41;"> <b>Submission Deadline</b>:  Asad 18, 2076 at Department of Architecture by 4:00pm </li>
           </ul>
 
-          <!-- <h2 class="mb-3 mt-5">Competition Levels:</h2>
-          <ul>
-            <li style="color:#373c41;"> <b>Level 1</b>:
-                <ul>
-                    <li style="color:#373c41;">Year 1</li>
-                    <li style="color:#373c41;"><b>Topic</b>: Gateway Design for a Residential Unit </li>
-                </ul>
-            </li>
-            <li style="color:#373c41;"> <b>Level 2</b>:
-                <ul>
-                    <li style="color:#373c41;">Year 2</li>
-                    <li style="color:#373c41;"><b>Topic</b>: Streetscape for Mixed Use Residential Area </li>
-                </ul>
-            </li>
-          </ul>
-
-          <h2 class="mb-3 mt-5">Entry Criteria and Rules: </h2>
-          <ul>
-            <li style="color:#373c41;">Submission: 1 good model and sheet work (A1 size- 1 sheet only; any medium)  Name(s), Institution, Batch/Year, Photocopy of ID card </li>
-            <li style="color:#373c41;">Judging Criteria:  Concept, Craftsmanship, Use of materials. </li>
-            <li style="color:#373c41;">
-            Model scale:                
-                <ul>
-                    <li style="color:#373c41;"><b>For Gateway</b>: 1:25 scale </li>
-                    <li style="color:#373c41;"><b>For Streetscape</b>: 1:100 scale (min of 5 building units in the street)</li>                
-                </ul>
-            </li>
-            <li style="color:#373c41;">The models shall be displayed at the exhibition and voting done by visitors.</li>
-            <li style="color:#373c41;">The declaration of winner shall be done based on the votes obtained from the visitors during exhibition period of Dristi. </li>
-            <li style="color:#373c41;">The organizing committee shall have the copyright of the model and sheet work upon receiving the submission.  </li>
-          </ul>
-
-          <h2 class="mb-3 mt-5">Rewards:</h2>
-          <ul>
-            <li style="color:#373c41;"> Certification for the all participants and winners. </li>
-            <li style="color:#373c41;"> Winner will get cash prize.</li>
-          </ul> -->
 
           <h2 class="mb-3 mt-5">Cash Prize:</h2>
           <ul>
