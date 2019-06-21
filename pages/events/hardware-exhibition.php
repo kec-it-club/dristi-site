@@ -3,7 +3,7 @@
 <html lang="en">
 
 <head>
-  <title>Dristi 2.0 : Game Fest</title>
+  <title>Dristi 2.0 : Hardware Exhibition</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
@@ -63,11 +63,11 @@
       <div class="row no-gutters slider-text js-fullheight align-items-end justify-content-start">
         <div class="col-md-9 ftco-animate pb-5">
           <!-- todo -->
-          <h1 class="mb-3 bread">Game Fest</h1>
+          <h1 class="mb-3 bread">Hardware Exhibition</h1>
           <p class="breadcrumbs">
             <span class="mr-2"> <a href="/">Home <i class="ion-ios-arrow-forward"></i></a></span>
             <span class="mr-2"> <a href="/events">Events <i class="ion-ios-arrow-forward"></i></a></span>
-            <span>Game Fest <i class="ion-ios-arrow-forward"></i></span></p>
+            <span>Hardware Exhibition <i class="ion-ios-arrow-forward"></i></span></p>
         </div>
       </div>
     </div>
@@ -81,98 +81,90 @@
           <h2 class="mb-3">Introduction</h2>
 
           <p>
-            <img src="../images/gameFest.jpg" alt="" class="img-fluid">
+            <img src="../images/HardwareExhibition.jpg" alt="" class="img-fluid">
           </p>
 
-          <p style="color:#373c41;">Gaming has always been a way for people to escape reality. Games are an important factor in making people familiar with improving technologies in the field of Computer science. ​The performative aspect to games has now moved to the stadium arena, where young, semi-professional cyber-athletes compete in video games on stages loaned from real world sport. To celebrate the contribution of Gaming in the field of Computer science, we are organizing a Gaming Fest. 
+          <p style="color:#373c41;">
+          ‘Hardware Exhibition’ in Dristi 2.0 is a platform that provides the participants with an opportunity to present their hardware projects. Students showcase their projects to the visitors and explain
+           about its application, operation and feasibility. The audience can also provide their opinion, reviews and feedbacks.<br><br>
+        The competition will run throughout the main event of Dristi 2.0. It is both thematic and open hardware competition, that is the
+         participants can present a project related to the provided themes, and they can also present the project of their own idea
+          unrelated to the theme. The projects must be submitted prior to the event for undergoing selection. 
+          The projects to be demonstrated must be complete and should have a working version before submitting for the selection process.
+           The projects will be judged according to the judging criteria mentioned in the rules and regulations section.
 
+            
           </p>
-          <h2 class="mb-3 mt-5">Event Details:</h2>
+          <h2 class="mb-3 mt-5">Themes:</h2>
           <ul>
-              <li style="color:#373c41;"> <b>Games</b>: CS:GO, FIFA 19, PUBG 
-              </li>
-            <li style="color:#373c41;"> <b>Venue</b>: Kathmandu Engineering College</li>
-            <li style="color:#373c41;"> <b>Participation</b>: Students and Visitors</li>
-            <li style="color:#373c41;"> <b>Type of Event</b>: Exhibition and Competition  
+            <li style="color:#373c41;">Health, Fitness and Environment.
+
             </li>
-            <li style="color:#373c41;"> <b>Date</b>: 20​th​, 21​st​ and 22​nd​ Ashad</li>
-            <li style="color:#373c41;"> <b>Duration</b>: 3 days with winners announced on the third day
+            <li style="color:#373c41;">Open theme.
             </li>
-            <li style="color:#373c41;"> <b>Prize Distribution</b>: Cash prize and to be distributed on the third day
-            </li>
+            <!-- <li style="color:#373c41;"> Participants will be given the time and venues and are to be present
+              accordingly. </li> -->
           </ul>
 
-          <h2 class="mb-3 mt-5">Objective:</h2>
+          <h2 class="mb-3 mt-5">Event Details:</h2>
           <ul>
-            <li style="color:#373c41;"> To provide a platform for students to showcase their gaming talent. 
+            <li style="color:#373c41;"> <b>Venue</b>: Kathmandu Engineering College</li>
+            <li style="color:#373c41;"> <b>Participation</b>: +2 or currently studying bachelors (as a team of two to four members)</li>
+            <li style="color:#373c41;"> <b>Type of Event</b>: Competition</li>
+            <li style="color:#373c41;"> <b>Date</b>: 20​th​, 21​st​ and 22​nd​ Ashad</li>
+            <li style="color:#373c41;"> <b>Duration</b>: 3 days with winners announced on the third day
 
             </li>
-            <li style="color:#373c41;"> A competition which allows students to win based on their gaming skills.  </li>
+            <li style="color:#373c41;"> <b>Prize Distribution</b>: Cash prize and to be distributed on the third day
+
+            </li>
           </ul>
 
           <h2 class="mb-3 mt-5">Participation Procedure:</h2>
           <ul>
-            <li style="color:#373c41;"> Entry fee and forms are to be filled by the participants<br> 
-              &nbsp;&nbsp;&nbsp;&nbsp; FIFA 19: 2V2: 500 per team<br> 
-              &nbsp;&nbsp;&nbsp;&nbsp; CS:GO: 5V5 : 500 per team <br>
-              &nbsp;&nbsp;&nbsp;&nbsp; PUBG: 4V4 : 500 per team <br>
-                
+            <li style="color:#373c41;"> Full Working Project to demonstrate.
             </li>
-            <li style="color:#373c41;"> Participants will be given the time and venues and are to be present
-              accordingly. </li>
-              <li style="color:#373c41;">All the events will be based on knockout stages with the finals played on the second day.
-             </li>
+            <li style="color:#373c41;"> Form to be filled up and entry fee of Rs. 1,500.
+            </li>
+            <!-- <li style="color:#373c41;"> Participants will be given the time and venues and are to be present
+              accordingly. </li> -->
           </ul>
 
-          <h2 class="mb-3 mt-5">Evaluation and Judging Criteria: </h2>
+          
+          <h2 class="mb-3 mt-5">Eligibility:</h2>
           <ul>
-            <li style="color:#373c41;"> The decision of the winner of the games will be made by a Judge. 
-              </li>
-            <li style="color:#373c41;"> Any form of foul play will lead to elimination of the team. </li>
-            <li style="color:#373c41;">Any form of mistreatment of the volunteers will lead to elimination of the team. </li>
-            <li style="color:#373c41;">Any mishandling of the equipment’s will lead to fine and elimination from the game. 
-              </li>
-              <li style="color:#373c41;"> Map for CS:GO will be selected by a coin toss between before each game 
-                </li>
-
-
-
+            <li style="color:#373c41;"> At least two team members and one member to be always present on the stall.
+            </li>
+            <li style="color:#373c41;">+2 or currently studying bachelors.
+            </li>          
           </ul>
-          <p>
-            [Note: The Coordinating team of ‘​Dristi 2.0​’ retains all rights to selection, rules and judgement for its
-            events with a plausible explanation. The decision of the organizing committee will be final.]
-          </p>
+
+          <h2 class="mb-3 mt-5">Evaluation and Judging Criteria:</h2>
+          <ul>
+            <li style="color:#373c41;"> Evaluation will be done by our judges that is going to be selected by executive panel.
+            </li>
+            <li style="color:#373c41;">There will be NO PUBLIC VOTING in this event.
+            </li>          
+          </ul>
+
+        
+
           <h2 class="mb-3 mt-5">Rewards:</h2>
           <ul>
-            <li style="color:#373c41;"> Certificates and Trophies will be provided to the finalists. 
-              </li>
-            <li style="color:#373c41;"> Winners of the FIFA competition will be given brand new joypads along with cash prize.  
-
+            <li style="color:#373c41;"> Certification for all the participants. </li>
+            <li style="color:#373c41;"> Winners for the first and second place will get cash prizes.
             </li>
-            <li style="color:#373c41;"> Winners of the CS:GO and PUBG competition will be given cash price. 
-              </li>
           </ul>
-          <h2 class="mb-3 mt-5">Prizes:</h2>
+          <h2 class="mb-3 mt-5">Cash Prize:</h2>
           <ul>
-            <li style="color:#373c41;"> <b>FIFA winners: </b>:<br>
-              &nbsp;&nbsp;&nbsp;&nbsp;First Place : Rs. 5,000 + Joypads<br>
-              &nbsp;&nbsp;&nbsp;&nbsp;Second Place : Rs. 3,000 + Joypads <br> 
-            </li>
-            <li style="color:#373c41;"> <b>CS:GO winners: </b>:<br>
-              &nbsp;&nbsp;&nbsp;&nbsp;First Place : Rs.5,000  
-              <br>
-              &nbsp;&nbsp;&nbsp;&nbsp;Second Place : Rs. 3,000 <br> 
-            </li>
-            <li style="color:#373c41;"> <b>PUBG winners: </b>:<br>
-              &nbsp;&nbsp;&nbsp;&nbsp;First Place : Rs. 5,000 <br>
-              &nbsp;&nbsp;&nbsp;&nbsp;Second Place : Rs. 3,000<br> 
+            <li style="color:#373c41;"> <b>First place </b>: Rs. 15,000 </li>
+            <li style="color:#373c41;"> <b>Second place</b>: Rs. 5,000
             </li>
           </ul>
-          <h2 class="mb-3 mt-5">Contact:</h2>
-          <!-- <ul>
-            <li style="color:#373c41;"> Sujan Poudel: 9862006834</li>
-            <li style="color:#373c41;"> Soneeka Baniya: 9862006834</li>
-          </ul> -->
+          <h2 class="mb-3 mt-5">Others:</h2>
+         <p  style="color:#373c41;">Information regarding the titles, topics, rules, registration fees and awards shall be provided in
+          the official page of EPC (@kecepcnepal) and official website and page of Dristi 2.0 on Facebook.</p>
+</p>
         </div>
       </div>
     </div>
@@ -180,6 +172,7 @@
 
 
   <? include __DIR__.'/../include/footer.php'; ?>
+
 
 
 

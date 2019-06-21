@@ -153,12 +153,6 @@
           
           <h2 class="mb-3 mt-5">Rewards:</h2>
           <ul>
-            <li style="color:#373c41;"> Certification for the participants and winners. </li>
-            <li style="color:#373c41;"> If the participants are caught doing any kind of foul moves, they will be
-              eliminated then and there. </li>
-          </ul>
-          <h2 class="mb-3 mt-5">Rewards:</h2>
-          <ul>
             <li style="color:#373c41;"> Certification for the participants and winners. 
             </li>
             <li style="color:#373c41;"> Winners for the first, second and third place will get cash prizes and medals. 

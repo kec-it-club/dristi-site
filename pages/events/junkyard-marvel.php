@@ -3,7 +3,7 @@
 <html lang="en">
 
 <head>
-  <title>Dristi 2.0 : Game Fest</title>
+  <title>Dristi 2.0 : Junkyard marvel competition</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
@@ -63,11 +63,11 @@
       <div class="row no-gutters slider-text js-fullheight align-items-end justify-content-start">
         <div class="col-md-9 ftco-animate pb-5">
           <!-- todo -->
-          <h1 class="mb-3 bread">Game Fest</h1>
+          <h1 class="mb-3 bread">Junkyard marvel competition</h1>
           <p class="breadcrumbs">
             <span class="mr-2"> <a href="/">Home <i class="ion-ios-arrow-forward"></i></a></span>
             <span class="mr-2"> <a href="/events">Events <i class="ion-ios-arrow-forward"></i></a></span>
-            <span>Game Fest <i class="ion-ios-arrow-forward"></i></span></p>
+            <span>Junkyard marvel competition<i class="ion-ios-arrow-forward"></i></span></p>
         </div>
       </div>
     </div>
@@ -81,98 +81,88 @@
           <h2 class="mb-3">Introduction</h2>
 
           <p>
-            <img src="../images/gameFest.jpg" alt="" class="img-fluid">
+            <img src="../images/HardwareExhibition.jpg" alt="" class="img-fluid">
           </p>
 
-          <p style="color:#373c41;">Gaming has always been a way for people to escape reality. Games are an important factor in making people familiar with improving technologies in the field of Computer science. ​The performative aspect to games has now moved to the stadium arena, where young, semi-professional cyber-athletes compete in video games on stages loaned from real world sport. To celebrate the contribution of Gaming in the field of Computer science, we are organizing a Gaming Fest. 
+          <p style="color:#373c41;">
+          The Junkyard Marvel Battleground Competition is an open challenge which focuses on the logical
+           and imaginative ability of the competitors. In this competition, all the contenders will be provided with the scrap
+            components which are to be used and an innovative & marvelous project is to be developed within 7 days by the participants
+             as per the competition regulations. The resulting projects developed in the competition will be displayed on the
+              <b>DRISTI</b> Exhibition on 20th of Asar.
 
+
+            
           </p>
-          <h2 class="mb-3 mt-5">Event Details:</h2>
+          <h2 class="mb-3 mt-5">Eligibility:</h2>
           <ul>
-              <li style="color:#373c41;"> <b>Games</b>: CS:GO, FIFA 19, PUBG 
-              </li>
-            <li style="color:#373c41;"> <b>Venue</b>: Kathmandu Engineering College</li>
-            <li style="color:#373c41;"> <b>Participation</b>: Students and Visitors</li>
-            <li style="color:#373c41;"> <b>Type of Event</b>: Exhibition and Competition  
+            <li style="color:#373c41;">Must be an engineering student of any year/batch.
             </li>
-            <li style="color:#373c41;"> <b>Date</b>: 20​th​, 21​st​ and 22​nd​ Ashad</li>
-            <li style="color:#373c41;"> <b>Duration</b>: 3 days with winners announced on the third day
+            <li style="color:#373c41;">A team of 5 or less members.
             </li>
-            <li style="color:#373c41;"> <b>Prize Distribution</b>: Cash prize and to be distributed on the third day
+            <li style="color:#373c41;"> More than one team is allowed from a college.
             </li>
+            <!-- <li style="color:#373c41;"> Participants will be given the time and venues and are to be present
+              accordingly. </li> -->
           </ul>
 
-          <h2 class="mb-3 mt-5">Objective:</h2>
+          <h2 class="mb-3 mt-5">Event Details:</h2>
           <ul>
-            <li style="color:#373c41;"> To provide a platform for students to showcase their gaming talent. 
+            <li style="color:#373c41;"> <b>Venue</b>: Kathmandu Engineering College</li>
+            <li style="color:#373c41;"> <b>Participation</b>: Engineering students. (Registration fee/team : Rs2,500)</li>
+            <li style="color:#373c41;"> <b>Type of Event</b>: Competition</li>
+            <li style="color:#373c41;"> <b>Competition Timeline</b>:
+                <ul>
+                    <li><b>Registration Opens</b>: 7th Asar,2076</li>
+                    <li><b>Registration Closes</b>: 10th Asar,2076</li>
+                    <li><b>Briefing and Material collection</b>: 11th Asar,2076</li>
+                    <li><b>Project Submission & Evaluation</b>: 18th Asar,2076</li>
+                    <li><b>Main gala (DRISTI Exhibition-1)</b>: 20th Asar,2076</li>
+                    <li><b>Result Announcement (DRISTI Exhibition-2)</b>: 22nd Asar,2076</li>
+                </ul>
+            </li>
+            <li style="color:#373c41;"> <b>Prize Distribution</b>: Cash prize and to be distributed on the third day
 
             </li>
-            <li style="color:#373c41;"> A competition which allows students to win based on their gaming skills.  </li>
           </ul>
 
           <h2 class="mb-3 mt-5">Participation Procedure:</h2>
           <ul>
-            <li style="color:#373c41;"> Entry fee and forms are to be filled by the participants<br> 
-              &nbsp;&nbsp;&nbsp;&nbsp; FIFA 19: 2V2: 500 per team<br> 
-              &nbsp;&nbsp;&nbsp;&nbsp; CS:GO: 5V5 : 500 per team <br>
-              &nbsp;&nbsp;&nbsp;&nbsp; PUBG: 4V4 : 500 per team <br>
-                
+            <li style="color:#373c41;">The first step is to register your team before the deadline.
+             The team member details and the team name are to be provided. Unregistered team will not be allowed to participate.
             </li>
-            <li style="color:#373c41;"> Participants will be given the time and venues and are to be present
-              accordingly. </li>
-              <li style="color:#373c41;">All the events will be based on knockout stages with the finals played on the second day.
-             </li>
+            <li style="color:#373c41;">The scrap components/materials will be provided by the organizing committee on the given date.
+             It will be the responsibility of the participants to collect the materials in the given date. </li>
+            <li style="color:#373c41;"> The contestant teams are given 7 days for the whole building procedure of their project. 
+            The given material should be the basic building blocks of the project and should strictly not be replaced. The final
+             project must be submitted on 18th Asar.</li>
           </ul>
 
-          <h2 class="mb-3 mt-5">Evaluation and Judging Criteria: </h2>
+          
+
+          <h2 class="mb-3 mt-5">Rules:</h2>
           <ul>
-            <li style="color:#373c41;"> The decision of the winner of the games will be made by a Judge. 
-              </li>
-            <li style="color:#373c41;"> Any form of foul play will lead to elimination of the team. </li>
-            <li style="color:#373c41;">Any form of mistreatment of the volunteers will lead to elimination of the team. </li>
-            <li style="color:#373c41;">Any mishandling of the equipment’s will lead to fine and elimination from the game. 
-              </li>
-              <li style="color:#373c41;"> Map for CS:GO will be selected by a coin toss between before each game 
-                </li>
-
-
-
+            <li style="color:#373c41;">Unregistered team will not be allowed to participate.</li>
+            <li style="color:#373c41;">A team must consist of five members or less.</li>
+            <li style="color:#373c41;">The material provided by the organizer committee must be used as the basic building
+                                        blocks of the project developed.</li>
+            <li style="color:#373c41;">If any uncontestant materials are found to be used and if the material provided are replaced, the team will be disqualified.</li>
+            <li style="color:#373c41;">The materials will be provided only after the registration fee is given.</li>
+            <li style="color:#373c41;">From the junk, a team is allowed to take a fixed amount of junk capped by the total weight of the junk chosen.
+             The weight of the junk and further constraints will be disclosed on.
+</li>   
           </ul>
-          <p>
-            [Note: The Coordinating team of ‘​Dristi 2.0​’ retains all rights to selection, rules and judgement for its
-            events with a plausible explanation. The decision of the organizing committee will be final.]
-          </p>
+
+        
+
           <h2 class="mb-3 mt-5">Rewards:</h2>
           <ul>
-            <li style="color:#373c41;"> Certificates and Trophies will be provided to the finalists. 
-              </li>
-            <li style="color:#373c41;"> Winners of the FIFA competition will be given brand new joypads along with cash prize.  
-
-            </li>
-            <li style="color:#373c41;"> Winners of the CS:GO and PUBG competition will be given cash price. 
-              </li>
+            <li style="color:#373c41;"> The winner team and two runners up teams will be provided with exciting cash prize and offers.</li>
           </ul>
-          <h2 class="mb-3 mt-5">Prizes:</h2>
+          <h2 class="mb-3 mt-5">Cash Prize:</h2>
           <ul>
-            <li style="color:#373c41;"> <b>FIFA winners: </b>:<br>
-              &nbsp;&nbsp;&nbsp;&nbsp;First Place : Rs. 5,000 + Joypads<br>
-              &nbsp;&nbsp;&nbsp;&nbsp;Second Place : Rs. 3,000 + Joypads <br> 
-            </li>
-            <li style="color:#373c41;"> <b>CS:GO winners: </b>:<br>
-              &nbsp;&nbsp;&nbsp;&nbsp;First Place : Rs.5,000  
-              <br>
-              &nbsp;&nbsp;&nbsp;&nbsp;Second Place : Rs. 3,000 <br> 
-            </li>
-            <li style="color:#373c41;"> <b>PUBG winners: </b>:<br>
-              &nbsp;&nbsp;&nbsp;&nbsp;First Place : Rs. 5,000 <br>
-              &nbsp;&nbsp;&nbsp;&nbsp;Second Place : Rs. 3,000<br> 
-            </li>
+            <li style="color:#373c41;"> <b>Winning Prize</b>: Rs. 30,000 </li>
           </ul>
-          <h2 class="mb-3 mt-5">Contact:</h2>
-          <!-- <ul>
-            <li style="color:#373c41;"> Sujan Poudel: 9862006834</li>
-            <li style="color:#373c41;"> Soneeka Baniya: 9862006834</li>
-          </ul> -->
         </div>
       </div>
     </div>
@@ -180,6 +170,7 @@
 
 
   <? include __DIR__.'/../include/footer.php'; ?>
+
 
 
 

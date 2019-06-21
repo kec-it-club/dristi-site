@@ -3,7 +3,7 @@
 <html lang="en">
 
 <head>
-  <title>Dristi 2.0 : Game Fest</title>
+  <title>Dristi 2.0 : Circuit fabrication and circuit etching</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
@@ -53,8 +53,8 @@
 </head>
 
 <body>
-
 <? include __DIR__.'/../include/nav.php'; ?>
+  <!-- END nav -->
 
   <section class="hero-wrap hero-wrap-2 js-fullheight" style="background-image: url('../social.jpg');"
     data-stellar-background-ratio="0.5">
@@ -63,11 +63,11 @@
       <div class="row no-gutters slider-text js-fullheight align-items-end justify-content-start">
         <div class="col-md-9 ftco-animate pb-5">
           <!-- todo -->
-          <h1 class="mb-3 bread">Game Fest</h1>
+          <h1 class="mb-3 bread">Code Warz</h1>
           <p class="breadcrumbs">
             <span class="mr-2"> <a href="/">Home <i class="ion-ios-arrow-forward"></i></a></span>
             <span class="mr-2"> <a href="/events">Events <i class="ion-ios-arrow-forward"></i></a></span>
-            <span>Game Fest <i class="ion-ios-arrow-forward"></i></span></p>
+            <span>Circuit fabrication and circuit etching <i class="ion-ios-arrow-forward"></i></span></p>
         </div>
       </div>
     </div>
@@ -81,95 +81,55 @@
           <h2 class="mb-3">Introduction</h2>
 
           <p>
-            <img src="../images/gameFest.jpg" alt="" class="img-fluid">
+            <img src="../images/codeWarz.jpg" alt="" class="img-fluid">
           </p>
 
-          <p style="color:#373c41;">Gaming has always been a way for people to escape reality. Games are an important factor in making people familiar with improving technologies in the field of Computer science. ​The performative aspect to games has now moved to the stadium arena, where young, semi-professional cyber-athletes compete in video games on stages loaned from real world sport. To celebrate the contribution of Gaming in the field of Computer science, we are organizing a Gaming Fest. 
+          <p style="color:#373c41;">PCB etching is the process that uses chemicals to make copper traces to connect different components on the circuit board.
+Copper is removed from the board except at the places where connection is to be made.
+The advantages include de-cluttering of the system and ease of seeing the connections and an increasing usability and probability.
 
           </p>
           <h2 class="mb-3 mt-5">Event Details:</h2>
           <ul>
-              <li style="color:#373c41;"> <b>Games</b>: CS:GO, FIFA 19, PUBG 
-              </li>
             <li style="color:#373c41;"> <b>Venue</b>: Kathmandu Engineering College</li>
-            <li style="color:#373c41;"> <b>Participation</b>: Students and Visitors</li>
-            <li style="color:#373c41;"> <b>Type of Event</b>: Exhibition and Competition  
+            <li style="color:#373c41;"> <b>Participation</b>: Open to all (Entry fee Rs. 700)
             </li>
-            <li style="color:#373c41;"> <b>Date</b>: 20​th​, 21​st​ and 22​nd​ Ashad</li>
-            <li style="color:#373c41;"> <b>Duration</b>: 3 days with winners announced on the third day
-            </li>
-            <li style="color:#373c41;"> <b>Prize Distribution</b>: Cash prize and to be distributed on the third day
-            </li>
+            <li style="color:#373c41;"> <b>Type of Event</b>: Competition</li>
+            <li style="color:#373c41;"> <b>Submission deadline</b>: 15th Ashadh 2076 at Electronics Project Club (EPC) or Department of Electronics and Communication by 4:00 pm
+</li>
+            
           </ul>
 
           <h2 class="mb-3 mt-5">Objective:</h2>
           <ul>
-            <li style="color:#373c41;"> To provide a platform for students to showcase their gaming talent. 
-
+            <li style="color:#373c41;">To design an electronic circuit using design software (Eagle etc.), print the circuit on a PCB insert and solder the components as per the circuit requirement.
             </li>
-            <li style="color:#373c41;"> A competition which allows students to win based on their gaming skills.  </li>
           </ul>
 
-          <h2 class="mb-3 mt-5">Participation Procedure:</h2>
+          <h2 class="mb-3 mt-5"> Competition Process:</h2>
           <ul>
-            <li style="color:#373c41;"> Entry fee and forms are to be filled by the participants<br> 
-              &nbsp;&nbsp;&nbsp;&nbsp; FIFA 19: 2V2: 500 per team<br> 
-              &nbsp;&nbsp;&nbsp;&nbsp; CS:GO: 5V5 : 500 per team <br>
-              &nbsp;&nbsp;&nbsp;&nbsp; PUBG: 4V4 : 500 per team <br>
-                
-            </li>
-            <li style="color:#373c41;"> Participants will be given the time and venues and are to be present
-              accordingly. </li>
-              <li style="color:#373c41;">All the events will be based on knockout stages with the finals played on the second day.
-             </li>
+            <li style="color:#373c41;"> The circuit theme will be provided on the spot.</li>
+            <li style="color:#373c41;">All the participants will be provided with the necessary component to design a circuit. </li>
+            <li style="color:#373c41;"> The participant will have to design a circuit referring the given schematic circuit. </li>
           </ul>
 
-          <h2 class="mb-3 mt-5">Evaluation and Judging Criteria: </h2>
+          <h2 class="mb-3 mt-5">Rules and Regulations:</h2>
           <ul>
-            <li style="color:#373c41;"> The decision of the winner of the games will be made by a Judge. 
-              </li>
-            <li style="color:#373c41;"> Any form of foul play will lead to elimination of the team. </li>
-            <li style="color:#373c41;">Any form of mistreatment of the volunteers will lead to elimination of the team. </li>
-            <li style="color:#373c41;">Any mishandling of the equipment’s will lead to fine and elimination from the game. 
-              </li>
-              <li style="color:#373c41;"> Map for CS:GO will be selected by a coin toss between before each game 
-                </li>
-
-
-
+            <li style="color:#373c41;"> During the event you can design the PCB using Eagle or any other software within the allocated time in a closed environment. 
+ </li>
           </ul>
-          <p>
-            [Note: The Coordinating team of ‘​Dristi 2.0​’ retains all rights to selection, rules and judgement for its
-            events with a plausible explanation. The decision of the organizing committee will be final.]
-          </p>
           <h2 class="mb-3 mt-5">Rewards:</h2>
           <ul>
-            <li style="color:#373c41;"> Certificates and Trophies will be provided to the finalists. 
-              </li>
-            <li style="color:#373c41;"> Winners of the FIFA competition will be given brand new joypads along with cash prize.  
-
-            </li>
-            <li style="color:#373c41;"> Winners of the CS:GO and PUBG competition will be given cash price. 
-              </li>
+            <li style="color:#373c41;"> Certification for the participants and winners. </li>
+            <li style="color:#373c41;"> Cash prize for the first and second. </li>
           </ul>
-          <h2 class="mb-3 mt-5">Prizes:</h2>
+          <h2 class="mb-3 mt-5">Prize:</h2>
           <ul>
-            <li style="color:#373c41;"> <b>FIFA winners: </b>:<br>
-              &nbsp;&nbsp;&nbsp;&nbsp;First Place : Rs. 5,000 + Joypads<br>
-              &nbsp;&nbsp;&nbsp;&nbsp;Second Place : Rs. 3,000 + Joypads <br> 
-            </li>
-            <li style="color:#373c41;"> <b>CS:GO winners: </b>:<br>
-              &nbsp;&nbsp;&nbsp;&nbsp;First Place : Rs.5,000  
-              <br>
-              &nbsp;&nbsp;&nbsp;&nbsp;Second Place : Rs. 3,000 <br> 
-            </li>
-            <li style="color:#373c41;"> <b>PUBG winners: </b>:<br>
-              &nbsp;&nbsp;&nbsp;&nbsp;First Place : Rs. 5,000 <br>
-              &nbsp;&nbsp;&nbsp;&nbsp;Second Place : Rs. 3,000<br> 
-            </li>
+            <li style="color:#373c41;"> <b>First place </b>: Rs. 5,000 </li>
+            <li style="color:#373c41;"> <b>First place </b>: Rs. 2,000 </li>
           </ul>
-          <h2 class="mb-3 mt-5">Contact:</h2>
-          <!-- <ul>
+          <!-- <h2 class="mb-3 mt-5">Contact:</h2>
+          <ul>
             <li style="color:#373c41;"> Sujan Poudel: 9862006834</li>
             <li style="color:#373c41;"> Soneeka Baniya: 9862006834</li>
           </ul> -->
@@ -180,6 +140,7 @@
 
 
   <? include __DIR__.'/../include/footer.php'; ?>
+
 
 
 

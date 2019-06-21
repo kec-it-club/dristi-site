@@ -3,7 +3,7 @@
 <html lang="en">
 
 <head>
-  <title>Dristi 2.0 : Code Warz</title>
+  <title>Dristi 2.0 : Design beyond imagination</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
@@ -53,8 +53,8 @@
 </head>
 
 <body>
+
 <? include __DIR__.'/../include/nav.php'; ?>
-  <!-- END nav -->
 
   <section class="hero-wrap hero-wrap-2 js-fullheight" style="background-image: url('../social.jpg');"
     data-stellar-background-ratio="0.5">
@@ -63,11 +63,11 @@
       <div class="row no-gutters slider-text js-fullheight align-items-end justify-content-start">
         <div class="col-md-9 ftco-animate pb-5">
           <!-- todo -->
-          <h1 class="mb-3 bread">Code Warz</h1>
+          <h1 class="mb-3 bread">Design beyond imagination</h1>
           <p class="breadcrumbs">
             <span class="mr-2"> <a href="/">Home <i class="ion-ios-arrow-forward"></i></a></span>
             <span class="mr-2"> <a href="/events">Events <i class="ion-ios-arrow-forward"></i></a></span>
-            <span>Code Warz <i class="ion-ios-arrow-forward"></i></span></p>
+            <span>Design beyond imagination<i class="ion-ios-arrow-forward"></i></span></p>
         </div>
       </div>
     </div>
@@ -81,73 +81,67 @@
           <h2 class="mb-3">Introduction</h2>
 
           <p>
-            <img src="../images/codeWarz.jpg" alt="" class="img-fluid">
+            <img src="../images/HardwareExhibition.jpg" alt="" class="img-fluid">
           </p>
 
-          <p style="color:#373c41;">CodeWars is a coding game. Various moves of the players are done by writing specific codes rather than the typical keyboard and mouse. Defeat your opponent with your coding moves. Improve your skills by competing with others on real code challenges in ​Dristi 2.0​. We intend to strengthen your skills and master your choice. Your own coding style will be highly appreciated. 
-
+          <p style="color:#373c41;">
+          This event is based on the motto of DRISTI the vision beyond imagination. In this event, each team will
+           be provided with scrap components and are required to develop a model based on DRISTI’s motto.
           </p>
+          <h2 class="mb-3 mt-5">Eligibility:</h2>
+          <ul>
+            <li style="color:#373c41;">Must be an engineering student of any year/batch.
+            </li>
+            <li style="color:#373c41;">A team of 5 or less members.
+            </li>
+            <li style="color:#373c41;"> More than one team is allowed from a college.
+            </li>
+            <!-- <li style="color:#373c41;"> Participants will be given the time and venues and are to be present
+              accordingly. </li> -->
+          </ul>
+
           <h2 class="mb-3 mt-5">Event Details:</h2>
           <ul>
             <li style="color:#373c41;"> <b>Venue</b>: Kathmandu Engineering College</li>
-            <li style="color:#373c41;"> <b>Participation</b>: BCT/BEX Students (individual) 
-            </li>
+            <li style="color:#373c41;"> <b>Participation</b>: A team of at most 3 members (Registration fee: Rs1,500/team)</li>
             <li style="color:#373c41;"> <b>Type of Event</b>: Competition</li>
-            <li style="color:#373c41;"> <b>Date</b>: 20​th​, 21​st​ and 22​nd​ Ashad</li>
-            <li style="color:#373c41;"> <b>Duration</b>: 3 days with winners announced on the third day 
-
-            </li>
             <li style="color:#373c41;"> <b>Prize Distribution</b>: Cash prize and to be distributed on the third day
+
             </li>
           </ul>
 
-          <h2 class="mb-3 mt-5">Main Attractions:</h2>
+
+          <h2 class="mb-3 mt-5">Rules:</h2>
           <ul>
-            <li style="color:#373c41;">Interested in a new form of coding by playing games. 
-
-
-            </li>
-            <li style="color:#373c41;"> Different skill levels, going from beginner to advanced. 
-
-            </li>
+            <li style="color:#373c41;">Unregistered team will not be allowed to participate.</li>
+            <li style="color:#373c41;">A team must consist of three members or less.</li>
+            <li style="color:#373c41;">The material provided by the organizer committee must be used as the basic building
+                                        blocks of the project developed.</li>
+            <li style="color:#373c41;">If any uncontestant materials are found to be used and if the material provided are replaced, the team will be disqualified.</li>
+            <li style="color:#373c41;">The materials will be provided only after the registration fee is given.</li>
+            <li style="color:#373c41;">From the junk, a team is allowed to take a fixed amount of junk capped by the total weight of the junk chosen.
+             The weight of the junk and further constraints will be disclosed on.
+</li>   
           </ul>
 
-          <h2 class="mb-3 mt-5">Participation Procedure:</h2>
+          <p><i>*Components required will be provided by the organizing team.</i></p>
+
+
+          <!-- <h2 class="mb-3 mt-5">Rewards:</h2>
           <ul>
-            <li style="color:#373c41;"> Entry fee (Rs. 100 per individual) and form should be filled up by participants. 
-
-            </li>
-            <li style="color:#373c41;"> Participants will participate individually. 
-            </li>
-            <li style="color:#373c41;"> Participants will be given the time and venues and are to be present
-              accordingly. </li>
-          </ul>
-
-          <h2 class="mb-3 mt-5">Rules and Regulations:</h2>
-          <ul>
-            <li style="color:#373c41;">The winner will be decided by expert judges based on their logic behind the programming and concept for the particular theme. 
-            </li>
-            
-            <li style="color:#373c41;"> If the participants are caught doing any kind of foul moves, they will be
-              eliminated then and there. </li>
-          </ul>
-          <p>
-            [Note: The Coordinating team of ‘​Dristi 2.0​’ retains all rights to selection, rules and judgement for its
-            events with a plausible explanation. The decision of the organizing committee will be final.]
-          </p>
-          <h2 class="mb-3 mt-5">Rewards:</h2>
-          <ul>
-            <li style="color:#373c41;"> Certification for the participants and winners. </li>
-          </ul>
-          <h2 class="mb-3 mt-5">Prize:</h2>
-          <ul>
-            <li style="color:#373c41;"> <b>First place </b>: Rs. 4,000 </li>
-          </ul>
-          <h2 class="mb-3 mt-5">Contact:</h2>
-          <!-- <ul>
-            <li style="color:#373c41;"> Sujan Poudel: 9862006834</li>
-            <li style="color:#373c41;"> Soneeka Baniya: 9862006834</li>
+            <li style="color:#373c41;"> The winner team and two runners up teams will be provided with exciting cash prize and offers.</li>
           </ul> -->
+          <h2 class="mb-3 mt-5">Cash Prize:</h2>
+          <ul>
+            <li style="color:#373c41;"> <b>Winning Prize</b>: Rs. 10,000 </li>
+          </ul>
+
+          <h2 class="mb-3 mt-5">Contact:</h2>
+          <ul>
+            <li style="color:#373c41;"> Santosh Karki: 98456705250</li>
+            <li style="color:#373c41;"> Arun Raut: 9861445825</li>
+            <li style="color:#373c41;"> For any queries: electricalclub.kec@gmail.com</li>
+          </ul>
         </div>
       </div>
     </div>
