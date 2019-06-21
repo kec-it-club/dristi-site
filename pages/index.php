@@ -192,13 +192,10 @@ define("PAGE",Pages::HOME )
                     </div>
                 </div>
                 <!-- event item end -->
-
-
-
                 <div style="width:100%;" class="row">
                     <div class="col text-center">
                         <div class="block-27">
-                            <a href="events">
+                            <a href="events.html">
                                 <input type="submit" style="cursor: pointer;" class="button btn-send disabled"
                                     value="All Events">
                             </a>
