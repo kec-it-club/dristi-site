@@ -8477,6 +8477,7 @@ textarea.form-control {
     position: relative;
     background: #fff;
     width: 100%;
+    min-height: 385px;
     margin: 0 auto; }
     .blog-entry .text .heading {
       font-size: 18px;
@@ -8910,7 +8911,9 @@ textarea.form-control {
     button,
     a.button {
       display: inline-block;
-      position: relative;
+      /* position: relative; */
+      position: absolute;
+      bottom: 15px;
       padding: 0.8em 2em;
       margin-bottom: .25em;
       font-size: 0.875em;
