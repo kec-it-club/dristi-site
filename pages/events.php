@@ -96,7 +96,7 @@ define("PAGE", Pages::EVENTS)
         <div class="col-md-4 d-flex ftco-animate">
           <div class="blog-entry justify-content-end">
             <!-- here goes the photo -->
-            <a href="events/hackathon" class="block-20" style="background-image: url('images/hackathon.jpg');">
+            <a href="events/hackathon" class="block-20" style="background-image: url('images/events/hackathon.jpg');">
             </a>
             <div class="text p-4 float-right d-block">
               <div class="d-flex align-items-center pt-2 mb-4">
@@ -121,7 +121,7 @@ define("PAGE", Pages::EVENTS)
         <div class="col-md-4 d-flex ftco-animate">
           <div class="blog-entry justify-content-end">
             <!-- here goes the photo -->
-            <a href="events/software-exhibition" class="block-20" style="background-image: url('images/softwareExhibition.jpg');">
+            <a href="events/software-exhibition" class="block-20" style="background-image: url('images/events/softwareExhibition.jpg');">
             </a>
             <div class="text p-4 float-right d-block">
               <div class="d-flex align-items-center pt-2 mb-4">
@@ -146,7 +146,7 @@ define("PAGE", Pages::EVENTS)
         <div class="col-md-4 d-flex ftco-animate">
           <div class="blog-entry justify-content-end">
             <!-- here goes the photo -->
-            <a href="events/software-exhibition" class="block-20" style="background-image: url('images/softwareExhibition.jpg');">
+            <a href="events/software-exhibition" class="block-20" style="background-image: url('images/events/kurukshetra.jpg');">
             </a>
             <div class="text p-4 float-right d-block">
               <div class="d-flex align-items-center pt-2 mb-4">
@@ -170,7 +170,7 @@ define("PAGE", Pages::EVENTS)
         <div class="col-md-4 d-flex ftco-animate">
           <div class="blog-entry justify-content-end">
             <!-- here goes the photo -->
-            <a href="events/code-camp" class="block-20" style="background-image: url('images/codeCamp.jpg');">
+            <a href="events/code-camp" class="block-20" style="background-image: url('images/events/codeCamp.jpg');">
             </a>
             <div class="text p-4 float-right d-block">
               <div class="d-flex align-items-center pt-2 mb-4">
@@ -194,7 +194,7 @@ define("PAGE", Pages::EVENTS)
         <div class="col-md-4 d-flex ftco-animate">
           <div class="blog-entry justify-content-end">
             <!-- here goes the photo -->
-            <a href="events/game-fest" class="block-20" style="background-image: url('images/gameFest.jpg');">
+            <a href="events/game-fest" class="block-20" style="background-image: url('images/events/gameFest.jpg');">
             </a>
             <div class="text p-4 float-right d-block">
               <div class="d-flex align-items-center pt-2 mb-4">
@@ -218,7 +218,7 @@ define("PAGE", Pages::EVENTS)
         <div class="col-md-4 d-flex ftco-animate">
           <div class="blog-entry justify-content-end">
             <!-- here goes the photo -->
-            <a href="events/code-warz" class="block-20" style="background-image: url('images/codeWarz.jpg');">
+            <a href="events/code-warz" class="block-20" style="background-image: url('images/events/codeWarz.jpg');">
             </a>
             <div class="text p-4 float-right d-block">
               <div class="d-flex align-items-center pt-2 mb-4">
@@ -242,7 +242,7 @@ define("PAGE", Pages::EVENTS)
         <div class="col-md-4 d-flex ftco-animate">
           <div class="blog-entry justify-content-end">
             <!-- here goes the photo -->
-            <a href="events/quick-code" class="block-20" style="background-image: url('images/quickCode.jpg');">
+            <a href="events/quick-code" class="block-20" style="background-image: url('images/events/quickCode.jpg');">
             </a>
             <div class="text p-4 float-right d-block">
               <div class="d-flex align-items-center pt-2 mb-4">
