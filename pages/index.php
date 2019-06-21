@@ -990,13 +990,13 @@ define("PAGE", Pages::HOME)
                         </div>
                     </a>
                 </div>
-                <div class="col-md-3 ftco-animate">
+                <!-- <div class="col-md-3 ftco-animate">
                     <a href="/images/feature/poetry_competition.jpg" class="gallery image-popup img d-flex align-items-center" style="background-image: url(/images/feature/poetry_competition.jpg);">
                         <div class="icon mb-4 d-flex align-items-center justify-content-center">
                             <span class="icon-instagram"></span>
                         </div>
                     </a>
-                </div>
+                </div> -->
             </div>
         </div>
     </section>
