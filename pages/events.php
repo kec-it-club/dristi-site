@@ -70,7 +70,7 @@ define("PAGE", Pages::EVENTS)
     <div class="container">
       <div class="row no-gutters slider-text js-fullheight align-items-end justify-content-start">
         <div class="col-md-9 ftco-animate pb-5">
-          <!-- <h1 class="mb-3 bread">Hackathon</h1> -->
+          <h1 class="mb-3 bread">Events</h1>
           <p class="breadcrumbs">
             <span class="mr-2"> <a href="/">Home <i class="ion-ios-arrow-forward"></i></a></span>
             <span>Events <i class="ion-ios-arrow-forward"></i></span></p>
@@ -261,6 +261,83 @@ define("PAGE", Pages::EVENTS)
           </div>
         </div>
         <!-- event item end -->
+
+
+        <!-- event item start -->
+        <div class="col-md-4 d-flex ftco-animate">
+          <div class="blog-entry justify-content-end">
+            <!-- here goes the photo -->
+            <a href="events/software-exhibition" class="block-20" style="background-image: url('/images/events/etching.jpg');">
+            </a>
+            <div class="text p-4 float-right d-block">
+              <div class="d-flex align-items-center pt-2 mb-4">
+                <div class="one">
+                  <!-- event name -->
+                  <span style="font-size: 30px;
+                                      font-weight: 600 !important;" class="day">Circuit etching</span>
+                </div>
+              </div>
+              <!-- short info -->
+              <p style="color:#343a40;">PCB etching is the process that uses chemicals to make copper traces to connect different components on the circuit board.
+                Copper is removed from the board except at the places where...</p>
+              <a href="events/circuit-etching">
+                <input type="submit" style="cursor: pointer;" class="button btn-send disabled" value="More Info">
+              </a>
+            </div>
+          </div>
+        </div>
+        <!-- event item end -->
+
+        <!-- event item start -->
+        <div class="col-md-4 d-flex ftco-animate">
+          <div class="blog-entry justify-content-end">
+            <!-- here goes the photo -->
+            <a href="events/software-exhibition" class="block-20" style="background-image: url('/images/events/junckyard.jpg');">
+            </a>
+            <div class="text p-4 float-right d-block">
+              <div class="d-flex align-items-center pt-2 mb-4">
+                <div class="one">
+                  <!-- event name -->
+                  <span style="font-size: 30px;
+                                      font-weight: 600 !important;" class="day">Design beyond imagination</span>
+                </div>
+              </div>
+              <!-- short info -->
+              <p style="color:#343a40;">This event is based on the motto of DRISTI the vision beyond imagination. In this event, each team will
+                be provided with scrap components and are required ....</p>
+              <a href="events/design-beyond-imagination">
+                <input type="submit" style="cursor: pointer;" class="button btn-send disabled" value="More Info">
+              </a>
+            </div>
+          </div>
+        </div>
+        <!-- event item end -->
+
+        <!-- event item start -->
+        <div class="col-md-4 d-flex ftco-animate">
+          <div class="blog-entry justify-content-end">
+            <!-- here goes the photo -->
+            <a href="events/junkyard-marvel" class="block-20" style="background-image: url('/images/events/junckyard.jpg');">
+            </a>
+            <div class="text p-4 float-right d-block">
+              <div class="d-flex align-items-center pt-2 mb-4">
+                <div class="one">
+                  <!-- event name -->
+                  <span style="font-size: 30px;
+                                      font-weight: 600 !important;" class="day">Junkyard marvel competition</span>
+                </div>
+              </div>
+              <!-- short info -->
+              <p style="color:#343a40;">‘The Junkyard Marvel Battleground Competition is an open challenge which focuses on the logical
+                and imaginative....</p>
+              <a href="events/junkyard-marvel">
+                <input type="submit" style="cursor: pointer;" class="button btn-send disabled" value="More Info">
+              </a>
+            </div>
+          </div>
+        </div>
+        <!-- event item end -->
+
       </div>
   </section>
 

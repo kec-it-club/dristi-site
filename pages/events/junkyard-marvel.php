@@ -56,7 +56,7 @@
 
 <? include __DIR__.'/../include/nav.php'; ?>
 
-  <section class="hero-wrap hero-wrap-2 js-fullheight" style="background-image: url('../social.jpg');"
+  <section class="hero-wrap hero-wrap-2 js-fullheight" style="background-image: url('/images/events/junckyard.jpg');"
     data-stellar-background-ratio="0.5">
     <div class="overlay"></div>
     <div class="container">
@@ -81,7 +81,7 @@
           <h2 class="mb-3">Introduction</h2>
 
           <p>
-            <img src="../images/HardwareExhibition.jpg" alt="" class="img-fluid">
+            <img src="/images/events/junckyard.jpg" alt="" class="img-fluid">
           </p>
 
           <p style="color:#373c41;">
@@ -91,8 +91,6 @@
              as per the competition regulations. The resulting projects developed in the competition will be displayed on the
               <b>DRISTI</b> Exhibition on 20th of Asar.
 
-
-            
           </p>
           <h2 class="mb-3 mt-5">Eligibility:</h2>
           <ul>

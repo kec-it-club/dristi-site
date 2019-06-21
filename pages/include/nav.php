@@ -1,6 +1,8 @@
 <? defined("CHECK") OR ( header( 'Location: /' ) && exit ); ?>
 <? 
+
 require_once "base.php"; 
+defined("PAGE") OR define("PAGE",Pages::__default);
 
 ?>
 <nav style="top: 0;" class="navbar navbar-expand-lg navbar-dark ftco_navbar bg-dark ftco-navbar-light" id="ftco-navbar">
