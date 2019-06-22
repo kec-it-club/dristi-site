@@ -148,6 +148,7 @@
           </ul>
           <br>
           <p style="color:#373c41;"><i><a href="https://forms.gle/zeC2ppgb2SaCsde69" target="_blank">Click here</a> to register for the event.</i></p>
+          
           <ul>
             <!-- <li style="color:#373c41;"> Sujan Poudel: 9862006834</li>
             <li style="color:#373c41;"> Soneeka Baniya: 9862006834</li> -->
@@ -186,7 +187,6 @@
     src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBVWaKrjvy3MaE7SQ74_uJiULgl1JY0H2s&sensor=false"></script>
   <script src="../js/google-map.js"></script>
   <script src="../js/main.js"></script>
-
 </body>
 
 </html>

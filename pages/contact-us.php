@@ -132,7 +132,7 @@ define("PAGE",Pages::CONTACT )
               <input type="hidden" name="_confirmation"
                 value="Your message is successfully sent, I will contact you back as soon as possible.">
 
-              <input type="submit" class="button btn-send disabled" value="Send message">
+              <input style="position:relative;" type="submit" class="button btn-send disabled" value="Send message">
 
             </div>
           </form>
