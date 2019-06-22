@@ -146,7 +146,8 @@
             </li>
             <li style="color:#373c41;"> <b>Third place:</b> Rs. 5,000 </li>
           </ul>
-          <h2 class="mb-3 mt-5">Contact:</h2>
+          <br>
+          <p style="color:#373c41;"><i><a href="https://forms.gle/zeC2ppgb2SaCsde69" target="_blank">Click here</a> to register for the event.</i></p>
           <ul>
             <!-- <li style="color:#373c41;"> Sujan Poudel: 9862006834</li>
             <li style="color:#373c41;"> Soneeka Baniya: 9862006834</li> -->

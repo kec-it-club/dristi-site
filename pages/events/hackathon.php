@@ -146,10 +146,13 @@
             <li style="color:#373c41;"> Sujan Poudel: 9862006834</li>
             <li style="color:#373c41;"> Soneeka Baniya: 9862006834</li>
           </ul>
+          <h2 class="mb-3 mt-5">Event Form:</h2>
+          <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeGD9oB-XZ6bbif5176SV6sEbZI0U9N-lJ9bzwJtAxEErzxsQ/viewform?embedded=true" width="640" height="1000" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
         </div>
       </div>
     </div>
   </section>
+
 
 
   <? include __DIR__.'/../include/footer.php'; ?>
