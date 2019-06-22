@@ -161,6 +161,9 @@
           <ul>
             <li style="color:#373c41;"> <b>Winning Prize</b>: Rs. 30,000 </li>
           </ul>
+          <br>
+          <p style="color:#373c41;"><i><a href="https://forms.gle/j8oWnUFmuGtNpaWj8" target="_blank">
+          Click here</a> to register for the event</i></p>
         </div>
       </div>
     </div>

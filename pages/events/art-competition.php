@@ -103,6 +103,9 @@
            
             <li style="color:#373c41;">Prabin Koirala: 9805453896 </li>
           </ul>
+          <br>
+          <p style="color:#373c41;"><i><a href="https://forms.gle/mDQoaikQGbYWnkcJ7" target="_blank">
+          Click here</a> to register for the event</i></p>
         </div>
       </div>
     </div>

@@ -129,6 +129,9 @@
            
             <li style="color:#373c41;">Pasang Kaji Sherpa:  9818492219 </li>
           </ul>
+          <br>
+          <p style="color:#373c41;"><i><a href="https://forms.gle/swBSMmxAWTuuirXcA" target="_blank">
+          Click here</a> to register for the event</i></p>
         </div>
       </div>
     </div>

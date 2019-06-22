@@ -140,6 +140,9 @@
            
             <li style="color:#373c41;">Nischal Parajuli: 9845906868 </li>
           </ul>
+          <br>
+          <p style="color:#373c41;"><i><a href="https://forms.gle/dhguR43hfnDZy9WdA" target="_blank">
+          Click here</a> to register for the event</i></p>
         </div>
       </div>
     </div>
