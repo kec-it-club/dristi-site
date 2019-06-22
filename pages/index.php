@@ -72,10 +72,8 @@ define("PAGE", Pages::HOME)
 
     <? include 'include/nav.php'; ?>
 
-
-    <div class="hero-wrap js-fullheight" style="background-image: url('images/bg_1.jpg');" data-stellar-background-ratio="0.5">
-        <div class="overlay"></div>
-        <div class="container">
+    <div class="hero-wrap js-fullheight" style="background-image: url('/images/logo/flex.jpg');" data-stellar-background-ratio="0.5">
+        <!-- <div class="container">
             <div class="row no-gutters slider-text js-fullheight align-items-center justify-content-start" data-scrollax-parent="true">
                 <div class="col-xl-10 ftco-animate" data-scrollax=" properties: { translateY: '70%' }">
                     <h1 class="mb-4" style="font-weight: 500;" data-scrollax="properties: { translateY: '30%', opacity: 1.6 }"><span>Dristi 2.0</span> <br> The
@@ -90,7 +88,8 @@ define("PAGE", Pages::HOME)
                     </div>
                 </div>
             </div>
-        </div>
+        </div> -->
+
     </div>
 
     <!-- events start -->
