@@ -66,6 +66,9 @@ define("PAGE", Pages::HOME)
     <link rel="stylesheet" href="css/icomoon.css">
     <link rel="stylesheet" href="css/style.css">
     <!-- {/* Styles */} -->
+    <style>
+
+    </style>
 </head>
 
 <body>
@@ -1001,7 +1004,6 @@ define("PAGE", Pages::HOME)
     </section>
 
     <? include "include/footer.php" ?>
-
 
 
     <!-- loader -->

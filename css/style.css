@@ -9062,3 +9062,33 @@ textarea.form-control {
     .form-group .help-block:empty {
       display: none;
     }
+
+    .tim {
+      display: inline;
+      margin-left: 10px;
+  }
+
+  .tim>span {
+      padding-left: 5px;
+  }
+
+  .tim-container {
+      padding-right: 10px;
+      font-weight: 600;
+      background: #fff;
+      border: 0.5px;
+      border-color: #6b75ffc7;
+      border-top-style: solid;
+      border-right-style: solid;
+      border-bottom-style: none;
+      border-left-style: solid;
+      color: #6b75ff;
+      width: max-content;
+      margin: auto;
+  }
+  .tim-container-full-width{
+    width: 100%;
+    position: fixed;
+    bottom: 0px;
+    background: transparent;
+  }
