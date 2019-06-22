@@ -82,7 +82,7 @@
           <h2 class="mb-3">Introduction</h2>
 
           <p>
-            <img src="../images/hackathon.jpg" alt="" class="img-fluid">
+            <img src="/images/events/hackathon.jpg" alt="" class="img-fluid">
           </p>
 
           <p style="color:#373c41;">A Hackathon is an event where programmers meet to do collaborative computer

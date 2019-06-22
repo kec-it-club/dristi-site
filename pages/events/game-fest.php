@@ -81,7 +81,7 @@
           <h2 class="mb-3">Introduction</h2>
 
           <p>
-            <img src="../images/gameFest.jpg" alt="" class="img-fluid">
+            <img src="/images/events/gameFest.jpg" alt="" class="img-fluid">
           </p>
 
           <p style="color:#373c41;">Gaming has always been a way for people to escape reality. Games are an important factor in making people familiar with improving technologies in the field of Computer science. ​The performative aspect to games has now moved to the stadium arena, where young, semi-professional cyber-athletes compete in video games on stages loaned from real world sport. To celebrate the contribution of Gaming in the field of Computer science, we are organizing a Gaming Fest. 

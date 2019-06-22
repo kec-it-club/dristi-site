@@ -82,7 +82,7 @@
           <h2 class="mb-3">Introduction</h2>
 
           <p>
-            <img src="../images/codeCamp.jpg" alt="" class="img-fluid">
+            <img src="/images/events/codeCamp.jpg" alt="" class="img-fluid">
           </p>
 
           <p style="color:#373c41;">A Code Camp is an event where programmers meet to do collaborative computer programming. It provides a venue for self-expression and creativity through technology. People with technical backgrounds come together, form teams around a problem or idea, and collaboratively code a unique solution these generally take shape in the form of websites, mobile apps and desktop apps. To sum it up, at a Code Camp, people come together and use technology to transform ideas into reality. 

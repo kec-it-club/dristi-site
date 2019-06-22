@@ -81,7 +81,7 @@
           <h2 class="mb-3">Introduction</h2>
 
           <p>
-            <img src="../images/codeWarz.jpg" alt="" class="img-fluid">
+            <img src="/images/events/codeWarz.jpg" alt="" class="img-fluid">
           </p>
 
           <p style="color:#373c41;">CodeWars is a coding game. Various moves of the players are done by writing specific codes rather than the typical keyboard and mouse. Defeat your opponent with your coding moves. Improve your skills by competing with others on real code challenges in ​Dristi 2.0​. We intend to strengthen your skills and master your choice. Your own coding style will be highly appreciated. 

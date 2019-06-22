@@ -82,7 +82,7 @@
           <h2 class="mb-3">Introduction</h2>
 
           <p>
-            <img src="../images/codeCamp.jpg" alt="" class="img-fluid">
+            <img src="/images/events/kurukshetra.jpg" alt="" class="img-fluid">
           </p>
           <p style="color:#373c41;">
           The event aims to promote interaction of students among all the batches and help learn through practice and interaction. The event aims to broaden the horizon of the students through sharing of ideas and skills with one other. The event shall serve as a great platform for learning team work and to develop vital skills for the upcoming professional life. </p>

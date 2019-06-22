@@ -82,7 +82,7 @@
           <h2 class="mb-3">Introduction</h2>
 
           <p>
-            <img src="../images/quickCode.jpg" alt="" class="img-fluid">
+            <img src="/images/events/quickCode.jpg" alt="" class="img-fluid">
           </p>
 
           <p style="color:#373c41;">Dristi 2.0 has created a platform to programmers in the world of algorithm. In this event you will be competing with each other for the quick and easy solution of given task. Participants will be given certain time limit (10 mins) and specific problem. Participants before they start to code will be asked to pay the entry fee (ranging from Rs. 20 to 50) and if they’re able to complete the challenge then will be paid double their entered fee (ranging from 40 to 100) in any language or platform they prefer.
