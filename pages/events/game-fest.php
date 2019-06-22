@@ -155,17 +155,17 @@
           <h2 class="mb-3 mt-5">Prizes:</h2>
           <ul>
             <li style="color:#373c41;"> <b>FIFA winners: </b>:<br>
-              &nbsp;&nbsp;&nbsp;&nbsp;First Place : Rs. 5,000 + Joypads<br>
+              &nbsp;&nbsp;&nbsp;&nbsp;First Place : Rs. 8,000 + Joypads<br>
               &nbsp;&nbsp;&nbsp;&nbsp;Second Place : Rs. 3,000 + Joypads <br> 
             </li>
             <li style="color:#373c41;"> <b>CS:GO winners: </b>:<br>
-              &nbsp;&nbsp;&nbsp;&nbsp;First Place : Rs.5,000  
+              &nbsp;&nbsp;&nbsp;&nbsp;First Place : Rs.8,000 + Joypads 
               <br>
-              &nbsp;&nbsp;&nbsp;&nbsp;Second Place : Rs. 3,000 <br> 
+              &nbsp;&nbsp;&nbsp;&nbsp;Second Place : Rs. 3,000 + Joypads<br> 
             </li>
             <li style="color:#373c41;"> <b>PUBG winners: </b>:<br>
-              &nbsp;&nbsp;&nbsp;&nbsp;First Place : Rs. 5,000 <br>
-              &nbsp;&nbsp;&nbsp;&nbsp;Second Place : Rs. 3,000<br> 
+              &nbsp;&nbsp;&nbsp;&nbsp;First Place : Rs. 8,000 + Joypads<br>
+              &nbsp;&nbsp;&nbsp;&nbsp;Second Place : Rs. 3,000 + Joypads<br> 
             </li>
           </ul>
           <h2 class="mb-3 mt-5">Contact:</h2>
@@ -173,6 +173,13 @@
             <li style="color:#373c41;"> Sujan Poudel: 9862006834</li>
             <li style="color:#373c41;"> Soneeka Baniya: 9862006834</li>
           </ul> -->
+          <br>
+          <p style="color:#373c41;"><i><a href="https://forms.gle/cdkkEEnChH9Ha2Gt6" target="_blank">
+          Click here</a> to register for FIFA</i></p>
+          <p style="color:#373c41;"><i><a href="https://forms.gle/ey6GK7xuwJsQB8zo7" target="_blank">
+          Click here</a> to register for CS:GO.</i></p>
+          <p style="color:#373c41;"><i><a href="https://forms.gle/gjZhWcEp7UMi8HP36" target="_blank">
+          Click here</a> to register for PUBG.</i></p>
         </div>
       </div>
     </div>
