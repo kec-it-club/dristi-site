@@ -436,7 +436,7 @@ define("PAGE", Pages::EVENTS)
         <div class="col-md-4 d-flex ftco-animate">
           <div class="blog-entry justify-content-end">
             <!-- here goes the photo -->
-            <a href="events/junkyard-marvel" class="block-20" style="background-image: url('/images/events/junckyard.jpg');">
+            <a href="events/junkyard-marvel" class="block-20" style="background-image: url('/images/feature/junckyard-marvel.jpg');">
             </a>
             <div class="text p-4 float-right d-block">
               <div class="d-flex align-items-center pt-2 mb-4">

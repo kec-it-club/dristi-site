@@ -56,7 +56,7 @@
 
 <? include __DIR__.'/../include/nav.php'; ?>
 
-  <section class="hero-wrap hero-wrap-2 js-fullheight" style="background-image: url('/images/events/junckyard.jpg');"
+  <section class="hero-wrap hero-wrap-2 js-fullheight" style="background-image: url('../images/logo/flex.jpg');"
     data-stellar-background-ratio="0.5">
     <div class="overlay"></div>
     <div class="container">
@@ -81,7 +81,7 @@
           <h2 class="mb-3">Introduction</h2>
 
           <p>
-            <img src="/images/events/junckyard.jpg" alt="" class="img-fluid">
+            <img src="/images/feature/junckyard-marvel.jpg" alt="" class="img-fluid">
           </p>
 
           <p style="color:#373c41;">
