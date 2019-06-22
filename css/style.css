@@ -8912,9 +8912,9 @@ textarea.form-control {
     button,
     a.button {
       display: inline-block;
-      /* position: relative; */
-      position: absolute;
-      bottom: 15px;
+      position: relative;
+      /* position: absolute; */
+      bottom: 0px;
       padding: 0.8em 2em;
       margin-bottom: .25em;
       font-size: 0.875em;
