@@ -1,4 +1,5 @@
 <? defined("CHECK") OR ( header( 'Location: /' ) && exit ); ?>
+<?header( 'Location: http://robotics.keckist.edu.np/robodrift_registration/' ) ?>
 <!DOCTYPE html>
 <html lang="en">
 
