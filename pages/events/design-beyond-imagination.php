@@ -142,6 +142,10 @@
             <li style="color:#373c41;"> Arun Raut: 9861445825</li>
             <li style="color:#373c41;"> For any queries: electricalclub.kec@gmail.com</li>
           </ul>
+
+          <br>
+          <p style="color:#373c41;"><i><a href="https://forms.gle/gxFjop8g4NE1ZM7z9" target="_blank">
+          Click here</a> to register for the event</i></p>
         </div>
       </div>
     </div>
