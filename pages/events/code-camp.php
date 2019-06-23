@@ -67,7 +67,7 @@
           <h1 class="mb-3 bread">Code Camp</h1>
           <p class="breadcrumbs">
             <span class="mr-2"> <a href="/">Home <i class="ion-ios-arrow-forward"></i></a></span>
-            <span class="mr-2"> <a href="events">Events <i class="ion-ios-arrow-forward"></i></a></span>
+            <span class="mr-2"> <a href="/events">Events <i class="ion-ios-arrow-forward"></i></a></span>
             <span>Code Camp <i class="ion-ios-arrow-forward"></i></span></p>
         </div>
       </div>
