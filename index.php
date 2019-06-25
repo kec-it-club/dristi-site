@@ -21,6 +21,7 @@ $routes = array(
     "/" => "/pages/index.php",
     "/about" => "/pages/about.php",
     "/events" => "/pages/events.php",
+    "/events/" => "/pages/events.php",
     "/contact-us" => "/pages/contact-us.php"
 );
 
