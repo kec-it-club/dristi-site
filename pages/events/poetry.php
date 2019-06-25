@@ -122,6 +122,10 @@
             <li style="color:#373c41;">Amrit Bashyal: 986702208</li>
             <li style="color:#373c41;">Janak Awasthi: 9868755025</li>
           </ul>
+          <br>
+          <p style="color:#373c41;"><i><a href="https://forms.gle/xEfyTWLKuWQjNd8W7" target="_blank">
+          Click here</a> to register for the event</i></p>
+
         </div>
       </div>
     </div>

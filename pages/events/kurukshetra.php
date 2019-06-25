@@ -167,6 +167,10 @@
             <li style="color:#373c41;"> Raju Sharan: 9807918309</li>
             <li style="color:#373c41;"> Ashish Mahaseth: 9844298895</li>
           </ul>
+
+          <br>
+          <p style="color:#373c41;"><i><a href="https://docs.google.com/forms/d/e/1FAIpQLSflYJKiIrBHkHKxqBODl98GpPowy1ueBCyTnBRFIyX1X67TAQ/viewform?usp=sf_link" target="_blank">
+          Click here</a> to register for the event</i></p>
         </div>
       </div>
     </div>

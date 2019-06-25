@@ -150,6 +150,11 @@
           <ul>
             <li style="color:#373c41;">Binod Acharya: 9860920775 / 9812815991</li>
           </ul> -->
+
+          <br>
+          <p style="color:#373c41;"><i><a href="https://forms.gle/YPaAW85FB8BudAUT7" target="_blank">
+          Click here</a> to register for the event</i></p>
+
         </div>
       </div>
     </div>

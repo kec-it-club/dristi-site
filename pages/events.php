@@ -121,7 +121,7 @@ define("PAGE", Pages::EVENTS)
         <div class="col-md-4 d-flex ftco-animate">
           <div class="blog-entry justify-content-end">
             <!-- here goes the photo -->
-            <a href="events/hardware-epc" class="block-20" style="background-image: url('/images/events/hardware.jpeg');">
+            <a href="events/hardware-exhibition" class="block-20" style="background-image: url('/images/events/hardware.jpeg');">
             </a>
             <div class="text p-4 float-right d-block">
               <div class="d-flex align-items-center pt-2 mb-4">
@@ -133,7 +133,7 @@ define("PAGE", Pages::EVENTS)
               </div>
               <!-- short info -->
               <p style="color:#343a40;">‘Hardware Exhibition’ in Dristi 2.0 is a platform that provides the participants with an opportunity to present their hardware projects. </p>
-              <a href="events/hardware-epc">
+              <a href="events/hardware-exhibition">
                 <input type="submit" style="cursor: pointer;" class="button btn-send disabled" value="More Info">
               </a>
             </div>

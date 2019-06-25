@@ -117,6 +117,10 @@
             <li style="color:#373c41;">Resha Bashyal: 9867229280</li>
             <li style="color:#373c41;">Kamal Raj Bista: 9868306274</li>
           </ul>
+          <br>
+          <p style="color:#373c41;"><i><a href="https://forms.gle/7M8jNToDbvA8TyJaA" target="_blank">
+          Click here</a> to register for the event</i></p>
+
         </div>
       </div>
     </div>

@@ -122,6 +122,9 @@
           <ul>
             <li style="color:#373c41;">  8th of Asadh,2076</li>
           </ul>
+          <br>
+          <p style="color:#373c41;"><i><a href="https://forms.gle/1Lk2c25bHXYi1Un88" target="_blank">
+          Click here</a> to register for the event</i></p>
         </div>
       </div>
     </div>

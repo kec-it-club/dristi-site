@@ -1,4 +1,4 @@
-<? defined("CHECK") OR ( header( 'Location: /' ) && exit ); ?>
+<? defined("CHECK") or (header('Location: /') && exit); ?>
 <!DOCTYPE html>
 <html lang="en">
 
@@ -54,10 +54,9 @@
 
 <body>
 
-<? include __DIR__.'/../include/nav.php'; ?>
+  <? include __DIR__ . '/../include/nav.php'; ?>
 
-  <section class="hero-wrap hero-wrap-2 js-fullheight" style="background-image: url('../images/logo/flex.jpg');"
-    data-stellar-background-ratio="0.5">
+  <section class="hero-wrap hero-wrap-2 js-fullheight" style="background-image: url('../images/logo/flex.jpg');" data-stellar-background-ratio="0.5">
     <div class="overlay"></div>
     <div class="container">
       <div class="row no-gutters slider-text js-fullheight align-items-end justify-content-start">
@@ -85,15 +84,15 @@
           </p>
 
           <p style="color:#373c41;">
-          ‘Hardware Exhibition’ in Dristi 2.0 is a platform that provides the participants with an opportunity to present their hardware projects. Students showcase their projects to the visitors and explain
-           about its application, operation and feasibility. The audience can also provide their opinion, reviews and feedbacks.<br><br>
-        The competition will run throughout the main event of Dristi 2.0. It is both thematic and open hardware competition, that is the
-         participants can present a project related to the provided themes, and they can also present the project of their own idea
-          unrelated to the theme. The projects must be submitted prior to the event for undergoing selection. 
-          The projects to be demonstrated must be complete and should have a working version before submitting for the selection process.
-           The projects will be judged according to the judging criteria mentioned in the rules and regulations section.
+            ‘Hardware Exhibition’ in Dristi 2.0 is a platform that provides the participants with an opportunity to present their hardware projects. Students showcase their projects to the visitors and explain
+            about its application, operation and feasibility. The audience can also provide their opinion, reviews and feedbacks.<br><br>
+            The competition will run throughout the main event of Dristi 2.0. It is both thematic and open hardware competition, that is the
+            participants can present a project related to the provided themes, and they can also present the project of their own idea
+            unrelated to the theme. The projects must be submitted prior to the event for undergoing selection.
+            The projects to be demonstrated must be complete and should have a working version before submitting for the selection process.
+            The projects will be judged according to the judging criteria mentioned in the rules and regulations section.
 
-            
+
           </p>
           <h2 class="mb-3 mt-5">Themes:</h2>
           <ul>
@@ -130,13 +129,13 @@
               accordingly. </li> -->
           </ul>
 
-          
+
           <h2 class="mb-3 mt-5">Eligibility:</h2>
           <ul>
             <li style="color:#373c41;"> At least two team members and one member to be always present on the stall.
             </li>
             <li style="color:#373c41;">+2 or currently studying bachelors.
-            </li>          
+            </li>
           </ul>
 
           <h2 class="mb-3 mt-5">Evaluation and Judging Criteria:</h2>
@@ -144,10 +143,10 @@
             <li style="color:#373c41;"> Evaluation will be done by our judges that is going to be selected by executive panel.
             </li>
             <li style="color:#373c41;">There will be NO PUBLIC VOTING in this event.
-            </li>          
+            </li>
           </ul>
 
-        
+
 
           <h2 class="mb-3 mt-5">Rewards:</h2>
           <ul>
@@ -162,16 +161,19 @@
             </li>
           </ul>
           <h2 class="mb-3 mt-5">Others:</h2>
-         <p  style="color:#373c41;">Information regarding the titles, topics, rules, registration fees and awards shall be provided in
-          the official page of EPC (@kecepcnepal) and official website and page of Dristi 2.0 on Facebook.</p>
-</p>
+          <p style="color:#373c41;">Information regarding the titles, topics, rules, registration fees and awards shall be provided in
+            the official page of EPC (@kecepcnepal) and official website and page of Dristi 2.0 on Facebook.</p>
+          </p>
+          <br>
+          <p style="color:#373c41;"><i><a href="https://docs.google.com/forms/d/e/1FAIpQLSewccqUaAU_jYd-UyObBRB9r19yNLDuOIVbQ40IdJNm-vLUiQ/viewform?usp=sf_link" target="_blank">
+                Click here</a> to register for the event</i></p>
         </div>
       </div>
     </div>
   </section>
 
 
-  <? include __DIR__.'/../include/footer.php'; ?>
+  <? include __DIR__ . '/../include/footer.php'; ?>
 
 
 
@@ -179,8 +181,7 @@
   <!-- loader -->
   <div id="ftco-loader" class="show fullscreen"><svg class="circular" width="48px" height="48px">
       <circle class="path-bg" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke="#eeeeee" />
-      <circle class="path" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke-miterlimit="10"
-        stroke="#F96D00" /></svg></div>
+      <circle class="path" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke-miterlimit="10" stroke="#F96D00" /></svg></div>
 
 
   <script src="../js/jquery.min.js"></script>
@@ -196,8 +197,7 @@
   <script src="../js/jquery.animateNumber.min.js"></script>
   <script src="../js/bootstrap-datepicker.js"></script>
   <script src="../js/scrollax.min.js"></script>
-  <script
-    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBVWaKrjvy3MaE7SQ74_uJiULgl1JY0H2s&sensor=false"></script>
+  <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBVWaKrjvy3MaE7SQ74_uJiULgl1JY0H2s&sensor=false"></script>
   <script src="../js/google-map.js"></script>
   <script src="../js/main.js"></script>
 

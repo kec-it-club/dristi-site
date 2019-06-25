@@ -127,6 +127,10 @@
           <ul>
             <li style="color:#373c41;">Sandesh Koirala : 9840017609</li>
           </ul>
+          <br>
+          <p style="color:#373c41;"><i><a href="https://forms.gle/iPUrqY2Mwk16orWD7" target="_blank">
+          Click here</a> to register for the event</i></p>
+
         </div>
       </div>
     </div>

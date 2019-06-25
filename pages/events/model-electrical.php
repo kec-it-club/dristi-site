@@ -119,6 +119,10 @@
             <li style="color:#373c41;"> Santosh Karki: 98456705250</li>
             <li style="color:#373c41;">Arun Raut: 9861445825</li>
           </ul>
+
+          <br>
+          <p style="color:#373c41;"><i><a href="https://forms.gle/Ruc7zgzzJ5xiJRMf9" target="_blank">
+          Click here</a> to register for the event</i></p>
         </div>
       </div>
     </div>

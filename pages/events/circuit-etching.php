@@ -1,4 +1,4 @@
-<? defined("CHECK") OR ( header( 'Location: /' ) && exit );
+<? defined("CHECK") or (header('Location: /') && exit);
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -54,11 +54,10 @@
 </head>
 
 <body>
-<? include __DIR__.'/../include/nav.php'; ?>
+  <? include __DIR__ . '/../include/nav.php'; ?>
   <!-- END nav -->
 
-  <section class="hero-wrap hero-wrap-2 js-fullheight" style="background-image: url('../images/logo/flex.jpg');"
-    data-stellar-background-ratio="0.5">
+  <section class="hero-wrap hero-wrap-2 js-fullheight" style="background-image: url('../images/logo/flex.jpg');" data-stellar-background-ratio="0.5">
     <div class="overlay"></div>
     <div class="container">
       <div class="row no-gutters slider-text js-fullheight align-items-end justify-content-start">
@@ -86,8 +85,8 @@
           </p>
 
           <p style="color:#373c41;">PCB etching is the process that uses chemicals to make copper traces to connect different components on the circuit board.
-Copper is removed from the board except at the places where connection is to be made.
-The advantages include de-cluttering of the system and ease of seeing the connections and an increasing usability and probability.
+            Copper is removed from the board except at the places where connection is to be made.
+            The advantages include de-cluttering of the system and ease of seeing the connections and an increasing usability and probability.
 
           </p>
           <h2 class="mb-3 mt-5">Event Details:</h2>
@@ -97,8 +96,8 @@ The advantages include de-cluttering of the system and ease of seeing the connec
             </li>
             <li style="color:#373c41;"> <b>Type of Event</b>: Competition</li>
             <li style="color:#373c41;"> <b>Submission deadline</b>: 15th Ashadh 2076 at Electronics Project Club (EPC) or Department of Electronics and Communication by 4:00 pm
-</li>
-            
+            </li>
+
           </ul>
 
           <h2 class="mb-3 mt-5">Objective:</h2>
@@ -116,8 +115,8 @@ The advantages include de-cluttering of the system and ease of seeing the connec
 
           <h2 class="mb-3 mt-5">Rules and Regulations:</h2>
           <ul>
-            <li style="color:#373c41;"> During the event you can design the PCB using Eagle or any other software within the allocated time in a closed environment. 
- </li>
+            <li style="color:#373c41;"> During the event you can design the PCB using Eagle or any other software within the allocated time in a closed environment.
+            </li>
           </ul>
           <h2 class="mb-3 mt-5">Rewards:</h2>
           <ul>
@@ -134,13 +133,19 @@ The advantages include de-cluttering of the system and ease of seeing the connec
             <li style="color:#373c41;"> Sujan Poudel: 9862006834</li>
             <li style="color:#373c41;"> Soneeka Baniya: 9862006834</li>
           </ul> -->
+
+          <br>
+    <p style="color:#373c41;"><i><a href="https://docs.google.com/forms/d/e/1FAIpQLScnmM8SaYV3Y9tS93V5SOjRooZGZN7r9646s5IX3J5QZpsA1Q/viewform?usp=sf_link" target="_blank">
+          Click here</a> to register for the event</i></p>
         </div>
+
       </div>
     </div>
+    
   </section>
 
 
-  <? include __DIR__.'/../include/footer.php'; ?>
+  <? include __DIR__ . '/../include/footer.php'; ?>
 
 
 
@@ -148,8 +153,7 @@ The advantages include de-cluttering of the system and ease of seeing the connec
   <!-- loader -->
   <div id="ftco-loader" class="show fullscreen"><svg class="circular" width="48px" height="48px">
       <circle class="path-bg" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke="#eeeeee" />
-      <circle class="path" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke-miterlimit="10"
-        stroke="#F96D00" /></svg></div>
+      <circle class="path" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke-miterlimit="10" stroke="#F96D00" /></svg></div>
 
 
   <script src="../js/jquery.min.js"></script>
@@ -165,8 +169,7 @@ The advantages include de-cluttering of the system and ease of seeing the connec
   <script src="../js/jquery.animateNumber.min.js"></script>
   <script src="../js/bootstrap-datepicker.js"></script>
   <script src="../js/scrollax.min.js"></script>
-  <script
-    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBVWaKrjvy3MaE7SQ74_uJiULgl1JY0H2s&sensor=false"></script>
+  <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBVWaKrjvy3MaE7SQ74_uJiULgl1JY0H2s&sensor=false"></script>
   <script src="../js/google-map.js"></script>
   <script src="../js/main.js"></script>
 
