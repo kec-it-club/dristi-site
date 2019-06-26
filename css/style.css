@@ -7520,6 +7520,9 @@ h1, h2, h3, h4, h5,
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent; }
   @media (max-width: 991.98px) {
+    .js-fullheight {
+        background-size:cover; 
+    }
     .slider-text h1 {
       font-size: 28px; } }
   .slider-text h1 span {

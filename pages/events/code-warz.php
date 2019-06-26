@@ -144,10 +144,9 @@
             <li style="color:#373c41;"> <b>First place </b>: Rs. 4,000 </li>
           </ul>
           <h2 class="mb-3 mt-5">Contact:</h2>
-          <!-- <ul>
-            <li style="color:#373c41;"> Sujan Poudel: 9862006834</li>
-            <li style="color:#373c41;"> Soneeka Baniya: 9862006834</li>
-          </ul> -->
+          <ul>
+            <li style="color:#373c41;"> Suyog Dahal: 9860477525</li>
+          </ul>
           <br>
           <p style="color:#373c41;"><i><a href="https://forms.gle/62U95N7A2SS1ZwnF7" target="_blank">
           Click here</a> to register for the event</i></p>

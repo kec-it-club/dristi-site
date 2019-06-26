@@ -133,10 +133,10 @@
             <li style="color:#373c41;">Double the entry fee they paid given as they solve the problem. </li>
           </ul>
           <h2 class="mb-3 mt-5">Contact:</h2>
-          <!-- <ul>
-            <li style="color:#373c41;"> Sujan Poudel: 9862006834</li>
-            <li style="color:#373c41;"> Soneeka Baniya: 9862006834</li>
-          </ul> -->
+          <ul>
+            <li style="color:#373c41;"> Abhishek Joshi: 9869470802</li>
+            <li style="color:#373c41;"> Atit Kharel: 9860851205</li>
+          </ul>
           <br>
           <p style="color:#373c41;"><i><a href="https://forms.gle/gZPYaee8JydfGENt7" target="_blank">Click here</a> to register for the event.</i></p>
         </div>
