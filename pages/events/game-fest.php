@@ -113,8 +113,8 @@
           <h2 class="mb-3 mt-5">Participation Procedure:</h2>
           <ul>
             <li style="color:#373c41;"> Entry fee and forms are to be filled by the participants<br> 
-              &nbsp;&nbsp;&nbsp;&nbsp; FIFA 19: 2V2: 500 per team<br> 
-              &nbsp;&nbsp;&nbsp;&nbsp; CS:GO: 5V5 : 500 per team <br>
+              &nbsp;&nbsp;&nbsp;&nbsp; FIFA 19: 2V2: 500 per person<br> 
+              &nbsp;&nbsp;&nbsp;&nbsp; CS:GO: 5V5 : 1000 per team <br>
               &nbsp;&nbsp;&nbsp;&nbsp; PUBG: 4V4 : 500 per team <br>
                 
             </li>
@@ -155,17 +155,17 @@
           <h2 class="mb-3 mt-5">Prizes:</h2>
           <ul>
             <li style="color:#373c41;"> <b>FIFA winners: </b>:<br>
-              &nbsp;&nbsp;&nbsp;&nbsp;First Place : Rs. 8,000 + Joypads<br>
-              &nbsp;&nbsp;&nbsp;&nbsp;Second Place : Rs. 3,000 + Joypads <br> 
+              &nbsp;&nbsp;&nbsp;&nbsp;First Place : Rs. 12000<br>
+              &nbsp;&nbsp;&nbsp;&nbsp;Second Place : Rs. 8000 <br> 
             </li>
             <li style="color:#373c41;"> <b>CS:GO winners: </b>:<br>
-              &nbsp;&nbsp;&nbsp;&nbsp;First Place : Rs.8,000 + Joypads 
+              &nbsp;&nbsp;&nbsp;&nbsp;First Place : Rs. 12000 
               <br>
-              &nbsp;&nbsp;&nbsp;&nbsp;Second Place : Rs. 3,000 + Joypads<br> 
+              &nbsp;&nbsp;&nbsp;&nbsp;Second Place :Rs. 8000 <br> 
             </li>
             <li style="color:#373c41;"> <b>PUBG winners: </b>:<br>
-              &nbsp;&nbsp;&nbsp;&nbsp;First Place : Rs. 8,000 + Joypads<br>
-              &nbsp;&nbsp;&nbsp;&nbsp;Second Place : Rs. 3,000 + Joypads<br> 
+              &nbsp;&nbsp;&nbsp;&nbsp;First Place : Rs. 8,000 <br>
+              &nbsp;&nbsp;&nbsp;&nbsp;Second Place : Rs. 3,000<br> 
             </li>
           </ul>
           <h2 class="mb-3 mt-5">Contact:</h2>
