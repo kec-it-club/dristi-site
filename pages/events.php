@@ -117,6 +117,55 @@ define("PAGE", Pages::EVENTS)
         </div>
         <!-- event item end -->
 
+
+        <!-- event item start -->
+        <div class="col-md-4 d-flex ftco-animate">
+          <div class="blog-entry justify-content-end">
+            <!-- here goes the photo -->
+            <a href="/events/hackathon" class="block-20" style="background-image: url('/images/events/hackathon.jpg');">
+            </a>
+            <div class="text p-4 float-right d-block">
+              <div class="d-flex align-items-center pt-2 mb-4">
+                <div class="one">
+                  <!-- event name -->
+                  <span style="font-size: 30px;font-weight: 600 !important;" class="day">Hackathon</span>
+                </div>
+              </div>
+              <!-- short info -->
+              <p style="color:#343a40;">A Hackathon is an event where programmers meet to do collaborative
+                computer
+                programming..</p>
+              <a href="/events/hackathon">
+                <input type="submit" style="cursor: pointer;" class="button btn-send disabled" value="More Info">
+              </a>
+            </div>
+          </div>
+        </div>
+
+         <!-- event item start -->
+         <div class="col-md-4 d-flex ftco-animate">
+          <div class="blog-entry justify-content-end">
+            <!-- here goes the photo -->
+            <a href="/events/kurukshetra" class="block-20" style="background-image: url('/images/events/kurukshetra.jpg');">
+            </a>
+            <div class="text p-4 float-right d-block">
+              <div class="d-flex align-items-center pt-2 mb-4">
+                <div class="one">
+                  <!-- event name -->
+                  <span style="font-size: 30px;
+                                      font-weight: 600 !important;" class="day">Kurukshetra</span>
+                </div>
+              </div>
+              <!-- short info -->
+              <p style="color:#343a40;">Kurukshetra is an event with objective of building a manual war robot that should fight against other robots and push it out of the arena or destroy the bot.</p>
+              <a href="/events/kurukshetra">
+                <input type="submit" style="cursor: pointer;" class="button btn-send disabled" value="More Info">
+              </a>
+            </div>
+          </div>
+        </div>
+
+
         <!-- event item start -->
         <div class="col-md-4 d-flex ftco-animate">
           <div class="blog-entry justify-content-end">
@@ -165,29 +214,7 @@ define("PAGE", Pages::EVENTS)
         </div>
         <!-- event item end -->
 
-        <!-- event item start -->
-        <div class="col-md-4 d-flex ftco-animate">
-          <div class="blog-entry justify-content-end">
-            <!-- here goes the photo -->
-            <a href="/events/hackathon" class="block-20" style="background-image: url('/images/events/hackathon.jpg');">
-            </a>
-            <div class="text p-4 float-right d-block">
-              <div class="d-flex align-items-center pt-2 mb-4">
-                <div class="one">
-                  <!-- event name -->
-                  <span style="font-size: 30px;font-weight: 600 !important;" class="day">Hackathon</span>
-                </div>
-              </div>
-              <!-- short info -->
-              <p style="color:#343a40;">A Hackathon is an event where programmers meet to do collaborative
-                computer
-                programming..</p>
-              <a href="/events/hackathon">
-                <input type="submit" style="cursor: pointer;" class="button btn-send disabled" value="More Info">
-              </a>
-            </div>
-          </div>
-        </div>
+        <!-- event item end -->
         <!-- event item end -->
 
         <!-- event item start -->
@@ -238,29 +265,7 @@ define("PAGE", Pages::EVENTS)
         </div>
         <!-- event item end -->
 
-        <!-- event item start -->
-        <div class="col-md-4 d-flex ftco-animate">
-          <div class="blog-entry justify-content-end">
-            <!-- here goes the photo -->
-            <a href="/events/software-exhibition" class="block-20" style="background-image: url('/images/events/kurukshetra.jpg');">
-            </a>
-            <div class="text p-4 float-right d-block">
-              <div class="d-flex align-items-center pt-2 mb-4">
-                <div class="one">
-                  <!-- event name -->
-                  <span style="font-size: 30px;
-                                      font-weight: 600 !important;" class="day">Kurukshetra</span>
-                </div>
-              </div>
-              <!-- short info -->
-              <p style="color:#343a40;">Kurukshetra is an event with objective of building a manual war robot that should fight against other robots and push it out of the arena or destroy the bot.</p>
-              <a href="/events/kurukshetra">
-                <input type="submit" style="cursor: pointer;" class="button btn-send disabled" value="More Info">
-              </a>
-            </div>
-          </div>
-        </div>
-        <!-- event item end -->
+       
 
         <!-- event item start -->
         <div class="col-md-4 d-flex ftco-animate">
@@ -386,7 +391,7 @@ define("PAGE", Pages::EVENTS)
         <div class="col-md-4 d-flex ftco-animate">
           <div class="blog-entry justify-content-end">
             <!-- here goes the photo -->
-            <a href="/events/software-exhibition" class="block-20" style="background-image: url('/images/events/etching.jpg');">
+            <a href="/events/circuit-etching" class="block-20" style="background-image: url('/images/events/etching.jpg');">
             </a>
             <div class="text p-4 float-right d-block">
               <div class="d-flex align-items-center pt-2 mb-4">
@@ -411,7 +416,7 @@ define("PAGE", Pages::EVENTS)
         <div class="col-md-4 d-flex ftco-animate">
           <div class="blog-entry justify-content-end">
             <!-- here goes the photo -->
-            <a href="/events/software-exhibition" class="block-20" style="background-image: url('/images/events/junckyard.jpg');">
+            <a href="/events/design-beyond-imagination" class="block-20" style="background-image: url('/images/events/junckyard.jpg');">
             </a>
             <div class="text p-4 float-right d-block">
               <div class="d-flex align-items-center pt-2 mb-4">

@@ -137,6 +137,29 @@ define("PAGE", Pages::HOME)
 
 
                 <!-- event item start -->
+                <div class="col-md-4 d-flex ftco-animate">
+                    <div class="blog-entry justify-content-end">
+                        <!-- here goes the photo -->
+                        <a href="/events/kurukshetra" class="block-20" style="background-image: url('/images/events/kurukshetra.jpg');">
+                        </a>
+                        <div class="text p-4 float-right d-block">
+                            <div class="d-flex align-items-center pt-2 mb-4">
+                                <div class="one">
+                                    <!-- event name -->
+                                    <span style="font-size: 30px;
+                                      font-weight: 600 !important;" class="day">Kurukshetra</span>
+                                </div>
+                            </div>
+                            <!-- short info -->
+                            <p style="color:#343a40;">Kurukshetra is an event with objective of building a manual war robot that should fight against other robots and push it out of the arena or destroy the bot.</p>
+                            <a href="/events/kurukshetra">
+                                <input type="submit" style="cursor: pointer;" class="button btn-send disabled" value="More Info">
+                            </a>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- event item start -->
                 <!-- <div class="col-md-4 d-flex ftco-animate">
                     <div class="blog-entry justify-content-end">
                       
