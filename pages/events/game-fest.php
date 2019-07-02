@@ -98,7 +98,7 @@
             <li style="color:#373c41;"> <b>Date</b>: 20​th​, 21​st​ and 22​nd​ Ashad</li>
             <li style="color:#373c41;"> <b>Duration</b>: 3 days with winners announced on the third day
             </li>
-            <li style="color:#373c41;"> <b>Prize Distribution</b>: Cash prize and to be distributed on the third day
+            <li style="color:#373c41;"> <b>Prize Distribution</b>: Cash prize to be distributed on the third day
             </li>
           </ul>
 
@@ -113,9 +113,10 @@
           <h2 class="mb-3 mt-5">Participation Procedure:</h2>
           <ul>
             <li style="color:#373c41;"> Entry fee and forms are to be filled by the participants<br> 
-              &nbsp;&nbsp;&nbsp;&nbsp; FIFA 19: 2V2: 500 per person<br> 
-              &nbsp;&nbsp;&nbsp;&nbsp; CS:GO: 5V5 : 1000 per team <br>
-              &nbsp;&nbsp;&nbsp;&nbsp; PUBG: 4V4 : 500 per team <br>
+              &nbsp;&nbsp;&nbsp;&nbsp; FIFA 19: 2V2 or 2v2 or 1v2: 500 per person<br> 
+              &nbsp;&nbsp;&nbsp;&nbsp; CS:GO: 5V5 (not compulsory) : 1000 per team <br>
+              &nbsp;&nbsp;&nbsp;&nbsp; PUBG : 4V4 : 500 per team (mobile, emulators and mobile joypads are allowed) <br>
+              
                 
             </li>
             <li style="color:#373c41;"> Participants will be given the time and venues and are to be present
