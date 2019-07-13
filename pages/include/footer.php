@@ -1,13 +1,13 @@
 <? defined("CHECK") or (header('Location: /') && exit); ?>
 
-<div class="tim-container-full-width">
+<!-- <div class="tim-container-full-width">
     <div class="tim-container">
         <div class="tim" id="days"></div>
         <div class="tim" id="hours"></div>
         <div class="tim" id="minutes"></div>
         <div class="tim" id="seconds"></div>
     </div>
-</div>
+</div> -->
 
 <footer class="ftco-footer ftco-bg-dark ftco-section">
     <div class="container">
