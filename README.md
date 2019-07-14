@@ -1,6 +1,6 @@
 # dristi-site
 
-This is the [Official webisite](http://dristi-keckist.herokuapp.com) for <b>Dristi 2.0</b>
+This is the [Official website](http://dristi.keckist.edu.np/) for <b>Dristi 2.0.</b>
 
 ## Screenshots
 
